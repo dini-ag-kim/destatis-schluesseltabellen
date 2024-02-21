@@ -13,13 +13,13 @@
 13;0560;Diplom (U) - Übersetzer;05
 14;0550;Diplom I (U-GH);05
 15;1525;LA Bachelor Grundschulen;15
-16;1540;LA Bachelor Hauptschulen;15
+16;2502;LA Bachelor Hauptschulen;25
 17;0599;Abschlussprüfung ohne akad. Grad;05
 18;0580;Diplom (U) - Lehrer;05
 19;1555;LA Bachelor Grundstufe / Primarstufe;15
-20;1505;LA Grund- und Hauptschulen;15
+20;2000;LA Grund- und Hauptschulen;20
 21;1520;LA Grundschulen;15
-22;1535;LA Hauptschulen;15
+22;2500;LA Hauptschulen;25
 23;2505;LA Realschulen;25
 24;2520;LA Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;25
 25;3505;LA Gymnasien;35
@@ -47,7 +47,7 @@
 47;4510;LA Bachelor Berufliche Schulen;45
 48;4525;LA Bachelor Oberstufe / Sekundarstufe II, berufliche Schulen;45
 49;1530;LA Master Grundschulen;15
-50;1545;LA Master Hauptschulen;15
+50;2504;LA Master Hauptschulen;25
 51;6005;Diplom (FH);60
 52;1560;LA Master Grundstufe / Primarstufe;15
 53;6010;Diplom (FH) - Dolmetscher;60
@@ -94,5 +94,5 @@
 95;6510;Sonstiger Abschluss in Deutschland;65
 96;6515;Abschlussprüfung im Ausland;65
 97;6520;Keine Abschlussprüfung möglich bzw. angestrebt;65
-98;1510;LA Bachelor Grund- und Hauptschulen;15
-99;1515;LA Master Grund- und Hauptschulen;15
+98;2002;LA Bachelor Grund- und Hauptschulen;20
+99;2004;LA Master Grund- und Hauptschulen;20

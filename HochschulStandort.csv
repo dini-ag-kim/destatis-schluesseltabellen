@@ -10,9 +10,8 @@
 003W;6033800;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Berlin (Priv. FH);11;A29;11000000
 003Z;6026500;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus München (Priv. FH);09;003;09162000
 004Z;6107400;FH der Diakonie Bielefeld-Bethel (Kirchl. FH);05;004;05711000
-005Z;6017200;German Graduate School of Management & Law Heilbronn (Priv. FH);08;005;08121000
-006Y;6082500;Hochschule der Bundesagentur für Arbeit in Schwerin (FH);13;A25;13004000
-006Z;6012900;Hochschule der Bundesagentur für Arbeit in Mannheim (FH);08;006;08222000
+006Y;6082500;Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Schwerin (FH);13;A25;13004000
+006Z;6012900;Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Mannheim (FH);08;006;08222000
 008K;1103499;U Duisburg-Essen in Essen (Klinikum);05;008;05113000
 008X;1103420;U Duisburg-Essen in Duisburg;05;008;05112000
 008Z;1103400;U Duisburg-Essen in Essen;05;008;05113000
@@ -59,10 +58,10 @@
 063Z;1134500;HHL Leipzig Graduate School of Management (Priv. U);14;063;14713000
 064Z;1131599;TU Dresden (Med. Fakultät);14;064;14612000
 065Z;1133099;U Leipzig (Med. Fakultät);14;065;14713000
-066Z;1051000;Jacobs University Bremen (Priv. U);04;066;04011000
+066Z;1051000;Constructor University Bremen gGmbH (Priv. U);04;066;04011000
 067Z;1033000;Europ. School of Management and Technology, Berlin (Priv. U);11;067;11000000
 068Z;1033500;Hertie School of Governance Berlin (Priv. U);11;068;11000000
-069Z;1061500;Hafencity Universität Hamburg;02;069;02000000
+069Z;1061500;HafenCity Universität Hamburg;02;069;02000000
 070Z;6033500;bbw Hochschule Berlin (Priv. FH);11;070;11000000
 071Z;4101200;H für Kirchenmusik Herford-Witten (Kirchl.-Theol. H);05;071;05758012
 072Z;6026400;Internationale Hochschule SDI München-Hochschule für angewandte Wissenschaften (Priv. FH)  ;09;072;09162000
@@ -109,6 +108,7 @@
 112K;1105599;U Münster (Klinikum);05;112;05515000
 112Z;1105500;U Münster;05;112;05515000
 113Z;1102500;TU Dortmund;05;113;05913000
+114K;1101099;U Bielefeld (Klinikum);05;114;05711000
 114Z;1101000;U Bielefeld;05;114;05711000
 115Z;1105000;Deutsche Sporthochschule Köln (U);05;115;05315000
 116K;1071099;U Frankfurt a.M. (Klinikum);06;116;06412000
@@ -117,7 +117,8 @@
 118Z;1073000;U Marburg;06;118;06534014
 119Z;1113500;Wissenschaftliche H für Unternehmensführung, Vallendar (Priv. U);07;119;07137226
 120Z;1113000;U Trier;07;120;07211000
-121Z;1110500;TU Kaiserslautern;07;121;07312000
+121Y;1110510;Rheinland-Pfälzische Technische Universität in Landau;07;121;07313000
+121Z;1110500;Rheinland-Pfälzische Technische Universität in Kaiserslautern;07;121;07312000
 122X;1111520;U Mainz in Mainz;07;122;07315000
 122Y;1111510;U Mainz in Germersheim;07;122;07334007
 123Z;1112500;Deutsche Universität für Verwaltungswissenschaften Speyer;07;123;07318000
@@ -132,9 +133,8 @@
 127K;1014099;U Tübingen (Klinikum);08;127;08416041
 127Z;1014000;U Tübingen;08;127;08416041
 128Z;1015000;Wissenschaftliche H Bierbronnen (Priv. U);08;128;08337118
-129W;1111030;U Koblenz-Landau in Landau;07;129;07313000
-129X;1111020;U Koblenz-Landau in Koblenz;07;129;07111000
-129Y;1111010;U Koblenz-Landau in Mainz, Präsidialamt;07;129;07315000
+129X;1111020;Universität Koblenz;07;129;07111000
+129Y;1111010;Universität Koblenz, Präsidialamt;07;129;07315000
 131K;1022599;U Erlangen-Nürnberg in Erlangen (Klinikum);09;131;09562000
 131X;1022520;U Erlangen-Nürnberg in Nürnberg;09;131;09564000
 131Y;1022510;U Erlangen-Nürnberg in Erlangen;09;131;09562000
@@ -188,6 +188,8 @@
 163X;1023520;TU München in Weihenstephan;09;163;09178124
 163Y;1023510;TU München in München;09;163;09162000
 163Z;1023500;TU München;09;163;09162000
+168W;6106520;CBS International Business School, Campus Neuss (Priv. FH);05;168;05162024
+168X;6106510;CBS International Business School, Campus Brühl (Priv. FH);05;168;05362012
 168Y;6115500;CBS International Business School, Campus Mainz (Priv. FH);07;A52;07315000
 168Z;6106500;CBS International Business School, Campus Köln (Priv. FH);05;168;05315000
 169Z;1031000;TU Berlin;11;169;11000000
@@ -223,7 +225,7 @@
 202Z;4070500;Phil.-Theol. H Frankfurt a.M. (Kirchl.-Theol. H);06;202;06412000
 203Z;4102000;Theol. Fakultät Paderborn (Kirchl.-Theol. H);05;203;05774032
 204Z;4110500;Theol. Fakultät Trier (Kirchl.-Theol. H);07;204;07211000
-205Z;4111000;Vinzenz Palloti University Vallendar (Kirchl.-Theol. H);07;205;07137226
+205Z;4111000;Vinzenz Pallotti University Vallendar (Kirchl.-Theol. H);07;205;07137226
 206Z;4102500;Kölner H für Katholische Theologie (Kirchl.-Theol. H);05;206;05315000
 208Z;4101500;Phil.-Theol. H Münster (Kirchl.-Theol. H);05;208;05515000
 210Z;6026700;SRH Wilhelm Löhe Hochschule, Fürth (Priv. FH);09;210;09563000
@@ -234,7 +236,6 @@
 222Z;4071700;Theologische H Ewersbach in Dietzhölztal (Priv.-Theol. H);06;222;06532005
 224Z;6036100;Hochschule für angewandte Pädagogik Berlin (Priv. FH);11;224;11000000
 227X;4103520;Kirchliche Hochschule Wuppertal / Bethel in Wuppertal (Kirchl.-Theol. H);05;227;05124000
-227Y;4103510; Kirchliche Hochschule Wuppertal / Bethel in Bethel (Kirchl.-Theol. H) ;05;227;05711000
 228Z;6105900;IST-Hochschule für Management Düsseldorf (Priv. FH);05;228;05111000
 229Z;6036400;Berlin International University of Applied Sciences (Priv. FH);11;229;11000000
 230Z;1017500;H für jüdische Studien Heidelberg (Kirchl. U);08;230;08221000
@@ -246,6 +247,7 @@
 238V;6018030;VWA-Hochschule für berufsbegleitendes Studium Stuttgart in Stuttgart (Priv. FH);08;238;08111000
 238W;6018040;VWA-Hochschule für berufsbegleitendes Studium Stuttgart in Ulm (Priv. FH);08;238;08421000
 241Z;6064200;Northern Business School Hamburg (Priv. FH);02;241;02000000
+242K;1042099;Medizinische Hochschule Brandenburg in Neuruppin (Priv. U) (Klinikum);12;242;12068320
 242Z;1042000;Medizinische Hochschule Brandenburg in Neuruppin (Priv. U);12;242;12068320
 243Z;5104000;Alanus H Alfter (Priv. Kunst-H);05;243;05382004
 244Y;6105520;praxisHochschule Köln in Rheine (Priv. FH);05;244;05566076
@@ -311,20 +313,22 @@
 307X;6102220;H Hamm-Lippstadt in Lippstadt (FH);05;307;05974028
 307Y;6102210;H Hamm-Lippstadt in Hamm (FH);05;307;05915000
 308Z;5104500;Hochschule der bildenden Künste (HBK) Essen  (Priv. Kunst-H);05;308;05113000
-309Y;6026900;HSD Hochschule Döpfer Köln in Regensburg (Priv. FH);09;A71;09362000
-309Z;6107000;HSD Hochschule Döpfer Köln in Köln (Priv. FH);05;309;05315000
+309X;6042400;HSD Hochschule Döpfer Potsdam in Potsdam (Priv. FH);12;A79;12054000
+309Y;6026900;HSD Hochschule Döpfer Potsdam in Regensburg (Priv. FH);09;A71;09362000
+309Z;6107000;HSD Hochschule Döpfer Potsdam in Köln (Priv. FH);05;309;05315000
 310Z;1150500;EUF Europa-Universität Flensburg;01;310;01001000
 312X;6017710;Hochschule für Kommunikation und Gestaltung in Stuttgart (Priv. FH);08;312;08111000
 312Y;6017720;Hochschule für Kommunikation und Gestaltung in Ulm (Priv. FH);08;312;08421000
 313Z;5033000;Barenboim-Said Akademie Berlin (Priv. Kunst-H);11;313;11000000
 314Z;6035700;CODE University of Applied Sciences Berlin (Priv. FH);11;314;11000000
-323Z;6115000;Cusanus Hochschule für Gesellschaftsgestaltung Koblenz (Priv. FH);07;323;07111000
-324X;6164510;Duale Hochschule Gera-Eisenach in Eisenach (FH);16;324;16056000
+323Z;6115000;H für Gesellschaftsgestaltung Koblenz (Priv. FH);07;323;07111000
+324X;6164510;Duale Hochschule Gera-Eisenach in Eisenach (FH);16;324;16063000
 324Y;6164520;Duale Hochschule Gera-Eisenach in Gera (FH);16;324;16052000
 325Z;6043500;Fachhochschule Clara Hoffbauer Potsdam (Priv. FH);12;325;12054000
 326Z;6154000;DHSH - Duale Hochschule Schleswig-Holstein, Kiel (Priv. FH);01;326;01002000
 327Z;1036500;German International University Berlin (Priv. U);11;327;11000000
-329Z;1043000;HMU Health and Medical University Potsdam (Priv. U);12;329;12054000
+329Y;1162500;HMU Health and Medical University Erfurt in Erfurt (Priv. U);16;A81;16051000
+329Z;1043000;HMU Health and Medical University Erfurt in Potsdam (Priv. U);12;329;12054000
 336Z;6034500;Digital Business University Berlin (Priv. FH);11;336;11000000
 337Z;1022700;Technische Universität Nürnberg;09;337;09564000
 343Z;6060800;Berufliche Hochschule Hamburg (FH);02;343;02000000
@@ -339,10 +343,15 @@
 372Z;6075100;UoL-University of Labour Frankfurt (Priv. FH) ;06;372;06412000
 378Z;3013000;PH Weingarten;08;378;08436082
 379Z;6104400;Kolping H, Köln (Priv. FH);05;379;05315000
+388X;6074800;Tomorrow University of Applied Sciences, Frankfurt a. M. (Priv.FH);06;388;06412000
+389Z;6035500;Humanistische Hochschule Berlin (Priv. FH);11;389;11000000
+393Z;6155000;Promotionskolleg Schleswig-Holstein an der FH Kiel;01;393;01002000
+394Z;6077200;Promotionszentrum Mobilität und Logistik, Frankfurt am Main;06;394;06412000
+395Z;6103700;Promotionskolleg NRW, Bochum (FH);05;395;05911000
 397X;1040710;Brandenburgische TU Cottbus-Senftenberg in Cottbus;12;397;12052000
 397Y;1040720;Brandenburgische TU Cottbus-Senftenberg in Senftenberg;12;397;12066304
-398Z;6076800;Promotionszentrum Soziale Arbeit ;06;398;06414000
-399Z;6077000;Promotionszentrum Angewandte Informatik ;06;399;06411000
+398Z;6076800;Promotionszentrum Soziale Arbeit, Wiesbaden;06;398;06414000
+399Z;6077000;Promotionszentrum Angewandte Informatik, Darmstadt;06;399;06411000
 402Z;B061010;Berufsakademie Hamburg (Private BA);02;402;02000000
 403Z;B070510;Akademie für Tonkunst Darmstadt;06;403;06411000
 404Z;B071010;Berufsakademie Rhein-Main Rödermark (Private BA);06;404;06438012
@@ -351,6 +360,7 @@
 407Z;B072510;Europäische Studienakademie Kälte-Klima-Lüftung (ESaK) Maintal (Private BA);06;407;06435019
 408X;B073015;Hessische Berufsakademie Frankfurt, Studienort Kassel (Private BA);06;408;06611000
 408Y;B073010;Hessische Berufsakademie Frankfurt, Studienort Frankfurt (Private BA);06;408;06412000
+409M;B076062;Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Münster (Priv.);06;409;05515000
 409N;B076065;Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Nürnberg (Priv.);06;409;09564000
 409O;B076060;Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort München (Priv.);06;409;09162000
 409P;B076055;Intern. Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba), Studienort Leipzig (Priv.);06;409;14713000
@@ -386,6 +396,8 @@
 426Z;B071800;Deutsche Berufsakademie Sport und Gesundheit (dba) in Baunatal (Private BA);06;426;06633003
 427Z;B094510;Berufsakademie Wilhelmshaven (Private BA);03;427;03405000
 428Z;B123010;Berufsakademie Heimerer GmbH, Quierschied (Private BA);10;428;10041516
+494Z;6043800;GU- Deutsche Hochschule für angewandte Wissenschaften, Potsdam (Priv. FH);12;494;12054000
+495Z;6104600;INU - Innovative Hochschule für angewandte Wissenschaften, Köln (Priv. FH);05;495;05315000
 496Z;6018500;media Akademie - Hochschule Stuttgart (Priv. FH);08;496;08111000
 498W;6092010;Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Elsfleth (FH);03;498;03461004
 498X;6092020;Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Oldenburg (FH);03;498;03403000
@@ -471,6 +483,7 @@
 572O;6093300;IU Internationale Hochschule Erfurt in Hannover (Priv. FH);03;A76;03241001
 572P;6165000;IU Internationale Hochschule Erfurt in Erfurt (Priv. FH) ;16;A62;16051000
 572Q;6016510;IU Internationale Hochschule Erfurt in Stuttgart (Priv. FH);08;A60;08116078
+572R;6016520;IU Internationale Hochschule Erfurt in Freiburg (Priv. FH);08;A60;08311000
 572S;6016500;IU Internationale Hochschule Erfurt in Mannheim (Priv. FH) ;08;A60;08222000
 572T;6103920;IU Internationale Hochschule Erfurt in Dortmund (Priv. FH);05;572;05913000
 572U;6103930;IU Internationale Hochschule Erfurt in Düsseldorf (Priv. FH);05;572;05111000
@@ -478,9 +491,9 @@
 572X;6027730;IU Internationale Hochschule Erfurt in Nürnberg (Priv. FH);09;A55;09564000
 572Y;6037400;IU Internationale Hochschule Erfurt in Berlin (Priv. FH)  ;11;A37;11000000
 572Z;6103910;IU Internationale Hochschule Erfurt in Bad Honnef (Priv. FH);05;572;05382008
-573W;6100630;FH Bielefeld in Gütersloh;05;573;05754008
-573X;6100620;FH Bielefeld in Minden;05;573;05770024
-573Y;6100610;FH Bielefeld in Bielefeld;05;573;05711000
+573W;6100630;Hochschule Bielefeld in Gütersloh (FH);05;573;05754008
+573X;6100620;Hochschule Bielefeld in Minden (FH);05;573;05770024
+573Y;6100610;Hochschule Bielefeld in Bielefeld (FH);05;573;05711000
 575X;6100920;Hochschule Bochum (FH) in Velbert/Heiligenhaus;05;575;05158012
 575Y;6100910;Hochschule Bochum (FH) in Bochum;05;575;05911000
 577Z;6101500;FH Dortmund;05;577;05913000
@@ -520,8 +533,6 @@
 603X;6107820;Kath. Hochschule Nordrhein-Westfalen in Köln (Kirchl. FH);05;603;05315000
 603Y;6107810;Kath. Hochschule Nordrhein-Westfalen in Aachen (Kirchl. FH);05;603;05334002
 607M;7101505;Hochschule für Polizei und öffentliche Verwaltung NW in Aachen (Verw-FH);05;607;05334002
-607N;7101545;Hochschule für Polizei und öffentliche Verwaltung NW in Herne (Verw-FH);05;607;05916000
-607P;7101580;Hochschule für Polizei und öffentliche Verwaltung NW in Mülheim (Verw-FH);05;607;05117000
 607S;7101570;Hochschule für Polizei und öffentliche Verwaltung NW in Dortmund (Verw-FH);05;607;05913000
 607T;7101560;Hochschule für Polizei und öffentliche Verwaltung NW in Münster (Verw-FH);05;607;05515000
 607U;7101550;Hochschule für Polizei und öffentliche Verwaltung NW in Köln (Verw-FH);05;607;05315000
@@ -621,7 +632,6 @@
 685Z;6015800;Hochschule für Technik Stuttgart (FH);08;685;08111000
 686Z;6015500;FH Stuttgart, H der Medien;08;686;08111000
 687Z;6016100;Technische Hochschule Ulm (FH);08;687;08421000
-689Z;6017300;Naturwissenschaftlich - Technische Akademie Isny (Priv. FH);08;689;08436049
 690Z;6018900;Evang. Hochschule Freiburg (Kirchl. FH);08;690;08311000
 691Y;6019820;Kath. Hochschule Freiburg i.Br., Campus Stuttgart (Kirchl. FH);08;691;08111000
 691Z;6019810;Kath. Hochschule Freiburg i.Br., Campus Freiburg (Kirchl. FH);08;691;08311000
@@ -637,7 +647,7 @@
 718Z;6017900;SRH Fernhochschule, Riedlingen (Priv. FH);08;718;08426097
 719Y;6019520;Evangelische Hochschule Ludwigsburg in Reutlingen (Kirchl. FH);08;719;08415061
 719Z;6019510;Evangelische Hochschule Ludwigsburg in Ludwigsburg (Kirchl. FH);08;719;08118048
-721Z;6021300;Hochschule für angewandte Wissenschaften Augsburg (FH);09;721;09761000
+721Z;6021300;Technische Hochschule Augsburg (FH);09;721;09761000
 722Z;6021500;Hochschule für angewandte Wissenschaften Coburg (FH);09;722;09463000
 724Z;6023800;Hochschule für angewandte Wissenschaften München (FH);09;724;09162000
 725Z;6024400;Technische Hochschule Nürnberg Georg Simon Ohm (FH);09;725;09564000
@@ -648,8 +658,8 @@
 731W;6025330;H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Straubing;09;731;09263000
 731X;6025320;H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Weihenstephan;09;731;09178124
 731Y;6025310;H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Triesdorf;09;731;09571216
-735X;6025720;H für angewandte Wissenschaften Würzburg-Schweinfurt in Würzburg (FH);09;735;09663000
-735Y;6025710;H für angewandte Wissenschaften Würzburg-Schweinfurt in Schweinfurt (FH);09;735;09662000
+735X;6025720;Technische Hochschule Würzburg-Schweinfurt (THWS) in Würzburg (FH);09;735;09663000
+735Y;6025710;Technische Hochschule Würzburg-Schweinfurt (THWS) in Schweinfurt (FH);09;735;09662000
 737Z;6027200;Evang. Hochschule Nürnberg (Kirchl. FH);09;737;09564000
 738X;6027520;Katholische Stiftungshochschule München in München (Kirchl. FH);09;738;09162000
 738Y;6027510;Katholische Stiftungshochschule München in Benediktbeuern (Kirchl. FH);09;738;09173113
@@ -706,7 +716,8 @@
 792Z;6041000;Hochschule für nachhaltige Entwicklung Eberswalde (FH);12;792;12060052
 794Z;6042500;Technische Hochschule Wildau (FH);12;794;12061540
 795Z;6042000;FH Potsdam;12;795;12054000
-796Z;1034000;Steinbeis-H Berlin (Priv. U);11;796;11000000
+796Y;6143000;Steinbeis Hochschule in Magdeburg (Priv. FH);15;A80;15003000
+796Z;1034000;Steinbeis Hochschule in Berlin (Priv. U);11;796;11000000
 797X;6066700;SRH Berlin University of Applied Sciences in Hamburg (Priv. FH) ;02;A68;02000000
 797Y;6133800;SRH Berlin University of Applied Sciences in Dresden (Priv. FH);14;A39;14612000
 797Z;6035600;SRH Berlin University of Applied Sciences in Berlin (Priv. FH);11;797;11000000
@@ -774,6 +785,8 @@
 817X;6014210;Duale Hochschule Baden-Württemberg Ravensburg, Campus Friedrichshafen;08;817;08435016
 817Y;6014205;Duale Hochschule Baden-Württemberg Mosbach, Campus Bad Mergentheim;08;817;08128007
 818Z;7112000;Hochschule der Polizei Rheinland-Pfalz in Büchenbeuren (Verw-FH);07;818;07140024
+819X;1063500;Charlotte Fresenius Hochschule Wiesbaden in Hamburg (Priv. U);02;A78;02000000
+819Y;1026500;Charlotte Fresenius Hochschule Wiesbaden in München (Priv. U);09;A77;09162000
 819Z;1074500;Charlotte Fresenius Hochschule Wiesbaden in Wiesbaden (Priv. U);06;819;06414000
 900Z;8980500;Sonstige deutsche Hochschulen;98;900;00000000
 950Z;8985000;Berufsakademie in Deutschland;98;950;00000000

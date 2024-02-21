@@ -13,8 +13,8 @@
 0038;;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Frankfurt a. M. (Priv. FH)
 0040;;FH der Diakonie Bielefeld-Bethel (Kirchl. FH)
 0050;;German Graduate School of Management & Law Heilbronn (Priv. FH)
-0060;;Hochschule der Bundesagentur für Arbeit in Mannheim (FH)
-0061;;Hochschule der Bundesagentur für Arbeit in Schwerin (FH)
+0060;;Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Mannheim (FH)
+0061;;Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Schwerin (FH)
 0080;;U Duisburg-Essen in Essen
 0082;;U Duisburg-Essen in Duisburg
 0101;;Berliner Technische Kunsthochschule in Berlin (Priv. FH)
@@ -54,10 +54,10 @@
 0590;;TU Ilmenau
 0620;;U Erfurt
 0630;;HHL Leipzig Graduate School of Management (Priv. U)
-0660;;Jacobs University Bremen (Priv. U)
+0660;;Constructor University Bremen gGmbH (Priv. U)
 0670;;Europ. School of Management and Technology, Berlin (Priv. U)
 0680;;Hertie School of Governance Berlin (Priv. U)
-0690;;Hafencity Universität Hamburg
+0690;;HafenCity Universität Hamburg
 0700;;bbw Hochschule Berlin (Priv. FH)
 0710;;H für Kirchenmusik Herford-Witten (Kirchl.-Theol. H)
 0720;;Internationale Hochschule SDI München-Hochschule für angewandte Wissenschaften (Priv. FH)  
@@ -106,7 +106,8 @@
 1180;;U Marburg
 1190;;Wissenschaftliche H für Unternehmensführung, Vallendar (Priv. U)
 1200;;U Trier
-1210;;TU Kaiserslautern
+1210;;Rheinland-Pfälzische Technische Universität in Kaiserslautern
+1211;;Rheinland-Pfälzische Technische Universität in Landau
 1221;;U Mainz in Mainz
 1222;;U Mainz in Germersheim
 1230;;Deutsche Universität für Verwaltungswissenschaften Speyer
@@ -116,7 +117,7 @@
 1260;;U Konstanz
 1270;;U Tübingen
 1280;;Wissenschaftliche H Bierbronnen (Priv. U)
-1291;;U Koblenz-Landau in Koblenz
+1291;;Universität Koblenz
 1292;;U Koblenz-Landau in Landau
 1311;;U Erlangen-Nürnberg in Erlangen
 1312;;U Erlangen-Nürnberg in Nürnberg
@@ -160,6 +161,8 @@
 1660;;EBC Euro Business College Hamburg Campus Düsseldorf (Priv. FH)
 1680;;CBS International Business School, Campus Köln (Priv. FH)
 1681;;CBS International Business School, Campus Mainz (Priv. FH)
+1682;;CBS International Business School, Campus Brühl (Priv. FH)
+1683;;CBS International Business School, Campus Neuss (Priv. FH)
 1690;;TU Berlin
 1700;;ESCP Europe Wirtschaftshochschule Berlin (Priv. U)
 1710;;H für Politik München (U)
@@ -196,7 +199,7 @@
 2020;;Phil.-Theol. H Frankfurt a.M. (Kirchl.-Theol. H)
 2030;;Theol. Fakultät Paderborn (Kirchl.-Theol. H)
 2040;;Theol. Fakultät Trier (Kirchl.-Theol. H)
-2050;;Vinzenz Palloti University Vallendar (Kirchl.-Theol. H)
+2050;;Vinzenz Pallotti University Vallendar (Kirchl.-Theol. H)
 2060;;Kölner H für Katholische Theologie (Kirchl.-Theol. H)
 2080;;Phil.-Theol. H Münster (Kirchl.-Theol. H)
 2100;;SRH Wilhelm Löhe Hochschule, Fürth (Priv. FH)
@@ -289,20 +292,22 @@
 3071;;H Hamm-Lippstadt in Hamm (FH)
 3072;;H Hamm-Lippstadt in Lippstadt (FH)
 3080;;Hochschule der bildenden Künste (HBK) Essen  (Priv. Kunst-H)
-3090;;HSD Hochschule Döpfer Köln in Köln (Priv. FH)
-3091;;HSD Hochschule Döpfer Köln in Regensburg (Priv. FH)
+3090;;HSD Hochschule Döpfer Potsdam in Köln (Priv. FH)
+3091;;HSD Hochschule Döpfer Potsdam in Regensburg (Priv. FH)
+3092;;HSD Hochschule Döpfer Potsdam in Potsdam (Priv. FH)
 3100;;EUF Europa-Universität Flensburg
 3121;;Hochschule für Kommunikation und Gestaltung in Stuttgart (Priv. FH)
 3122;;Hochschule für Kommunikation und Gestaltung in Ulm (Priv. FH)
 3130;;Barenboim-Said Akademie Berlin (Priv. Kunst-H)
 3140;;CODE University of Applied Sciences Berlin (Priv. FH)
-3230;;Cusanus Hochschule für Gesellschaftsgestaltung Koblenz (Priv. FH)
+3230;;H für Gesellschaftsgestaltung Koblenz (Priv. FH)
 3241;;Duale Hochschule Gera-Eisenach in Eisenach (FH)
 3242;;Duale Hochschule Gera-Eisenach in Gera (FH)
 3250;;Fachhochschule Clara Hoffbauer Potsdam (Priv. FH)
 3260;;DHSH - Duale Hochschule Schleswig-Holstein, Kiel (Priv. FH)
 3270;;German International University Berlin (Priv. U)
-3290;;HMU Health and Medical University Potsdam (Priv. U)
+3290;;HMU Health and Medical University Erfurt in Potsdam (Priv. U)
+3291;;HMU Health and Medical University Erfurt in Erfurt (Priv. U)
 3360;;Digital Business University Berlin (Priv. FH)
 3370;;Technische Universität Nürnberg
 3430;;Berufliche Hochschule Hamburg (FH)
@@ -317,8 +322,13 @@
 3720;;UoL-University of Labour Frankfurt (Priv. FH) 
 3780;;PH Weingarten
 3790;;Kolping H, Köln (Priv. FH)
+3880;;Tomorrow University of Applied Sciences, Frankfurt a. M. (Priv.FH)
+3890;;Humanistische Hochschule Berlin (Priv. FH)
+3950;;Promotionskolleg NRW, Bochum (FH)
 3971;;Brandenburgische TU Cottbus-Senftenberg in Cottbus
 3972;;Brandenburgische TU Cottbus-Senftenberg in Senftenberg
+4940;;GU- Deutsche Hochschule für angewandte Wissenschaften, Potsdam (Priv. FH)
+4950;;INU - Innovative Hochschule für angewandte Wissenschaften, Köln (Priv. FH)
 4960;;media Akademie - Hochschule Stuttgart (Priv. FH)
 4981;;Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Wilhelmshaven (FH)
 4982;;Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Oldenburg (FH)
@@ -415,9 +425,10 @@
 572J;;IU Internationale Hochschule Erfurt in Lübeck (Priv. FH)
 572K;;IU Internationale Hochschule Erfurt in Hannover (Priv. FH)
 572L;;IU Internationale Hochschule Erfurt in Stuttgart (Priv. FH)
-5731;;FH Bielefeld in Bielefeld
-5732;;FH Bielefeld in Minden
-5733;;FH Bielefeld in Gütersloh
+572M;;IU Internationale Hochschule Erfurt in Freiburg (Priv. FH)
+5731;;Hochschule Bielefeld in Bielefeld (FH)
+5732;;Hochschule Bielefeld in Minden (FH)
+5733;;Hochschule Bielefeld in Gütersloh (FH)
 5751;;Hochschule Bochum (FH) in Bochum
 5752;;Hochschule Bochum (FH) in Velbert/Heiligenhaus
 5770;;FH Dortmund
@@ -578,7 +589,7 @@
 7180;;SRH Fernhochschule, Riedlingen (Priv. FH)
 7190;;Evangelische Hochschule Ludwigsburg in Ludwigsburg (Kirchl. FH)
 7192;;Evangelische Hochschule Ludwigsburg in Reutlingen (Kirchl. FH)
-7210;;Hochschule für angewandte Wissenschaften Augsburg (FH)
+7210;;Technische Hochschule Augsburg (FH)
 7220;;Hochschule für angewandte Wissenschaften Coburg (FH)
 7240;;Hochschule für angewandte Wissenschaften München (FH)
 7250;;Technische Hochschule Nürnberg Georg Simon Ohm (FH)
@@ -589,8 +600,8 @@
 7311;;H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Weihenstephan
 7312;;H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Triesdorf
 7313;;H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH) in Straubing
-7351;;H für angewandte Wissenschaften Würzburg-Schweinfurt in Würzburg (FH)
-7352;;H für angewandte Wissenschaften Würzburg-Schweinfurt in Schweinfurt (FH)
+7351;;Technische Hochschule Würzburg-Schweinfurt (THWS) in Würzburg (FH)
+7352;;Technische Hochschule Würzburg-Schweinfurt (THWS) in Schweinfurt (FH)
 7370;;Evang. Hochschule Nürnberg (Kirchl. FH)
 7381;;Katholische Stiftungshochschule München in München (Kirchl. FH)
 7382;;Katholische Stiftungshochschule München in Benediktbeuern (Kirchl. FH)
@@ -650,7 +661,8 @@
 7920;;Hochschule für nachhaltige Entwicklung Eberswalde (FH)
 7940;;Technische Hochschule Wildau (FH)
 7950;;FH Potsdam
-7960;;Steinbeis-H Berlin (Priv. U)
+7960;;Steinbeis Hochschule in Berlin (Priv. U)
+7961;;Steinbeis Hochschule in Magdeburg (Priv. FH)
 7971;;SRH Berlin University of Applied Sciences in Berlin (Priv. FH)
 7972;;SRH Berlin University of Applied Sciences in Dresden (Priv. FH)
 7973;;SRH Berlin University of Applied Sciences in Hamburg (Priv. FH)
@@ -725,5 +737,7 @@
 817F;;Duale Hochschule Baden-Württemberg CAS, Heilbronn
 8180;;Hochschule der Polizei Rheinland-Pfalz in Büchenbeuren (Verw-FH)
 8191;;Charlotte Fresenius Hochschule Wiesbaden in Wiesbaden (Priv. U)
+8192;;Charlotte Fresenius Hochschule Wiesbaden in München (Priv. U)
+8193;;Charlotte Fresenius Hochschule Wiesbaden in Hamburg (Priv. U)
 9000;;Sonstige deutsche Hochschulen
 9990;;Hochschulen im Ausland
