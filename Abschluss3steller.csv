@@ -1,0 +1,439 @@
+101;051210;Mehr-Fächer-Bachelor mit Lehramtsoption - Erststudium;01
+102;050510;Magister - Erststudium;02
+103;052010;Lizentiat - Erststudium;03
+104;052510;Kirchliche Prüfung - Erststudium;04
+105;056510;Akad. geprüfter Übersetzer - Erststudium;05
+107;102010;Promotion ohne vorausgesetzte Abschlussprüfung - Erststudium;07
+108;053010;Staatsexamen / 1. Staatsprüfung - Erststudium;08
+109;053510;Staatsexamen (einphasige Ausbildung) - Erststudium;09
+110;054010;Fakultätsprüfung - Erststudium;10
+111;054510;Diplom (U) - Erststudium;11
+112;055510;Diplom (U) - Dolmetscher - Erststudium;12
+113;056010;Diplom (U) - Übersetzer - Erststudium;13
+114;055010;Diplom I (U-GH) - Erststudium;14
+115;152510;LA Bachelor Grundschulen - Erststudium;15
+116;154010;LA Bachelor Hauptschulen - Erststudium;16
+117;059910;Abschlussprüfung ohne akad. Grad - Erststudium;17
+118;058010;Diplom (U) - Lehrer - Erststudium;18
+119;155510;LA Bachelor Grundstufe / Primarstufe - Erststudium;19
+120;150510;LA Grund- und Hauptschulen - Erststudium;20
+121;152010;LA Grundschulen - Erststudium;21
+122;153510;LA Hauptschulen - Erststudium;22
+123;250510;LA Realschulen - Erststudium;23
+124;252010;LA Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien - Erststudium;24
+125;350510;LA Gymnasien - Erststudium;25
+126;400510;LA Sonderschulen / Förderschulen - Erststudium;26
+127;450510;LA Berufliche Schulen - Erststudium;27
+128;200510;LA Sekundarstufe I / Primarstufe - Erststudium;28
+129;500510;Sonstige Staatsprüfungen nach Schularten / Schulstufen - Erststudium;29
+131;470510;LA Bachelor (soweit keine Differenzierung möglich) - Erststudium;31
+132;201010;LA Bachelor Sekundarstufe I / Primarstufe - Erststudium;32
+133;202510;LA Bachelor Grundschulen / Sekundarstufe I - Erststudium;33
+134;251010;LA Bachelor Realschulen - Erststudium;34
+135;252510;LA Bachelor Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien - Erststudium;35
+136;254010;LA Bachelor Mittelstufe / Sekundarstufe I - Erststudium;36
+137;301010;LA Bachelor Sekundarstufe II / Sekundarstufe I - Erststudium;37
+138;351010;LA Bachelor Gymnasien - Erststudium;38
+139;352510;LA Bachelor Oberstufe / Sekundarstufe II, allgemeinbildende Schulen - Erststudium;39
+140;202010;LA Grundschulen / Sekundarstufe I - Erststudium;40
+141;300510;LA Sekundarstufe II / Sekundarstufe I - Erststudium;41
+142;155010;LA Grundstufe / Primarstufe - Erststudium;42
+143;253510;LA Mittelstufe / Sekundarstufe I - Erststudium;43
+144;352010;LA Oberstufe / Sekundarstufe II, allgemeinbildende Schulen - Erststudium;44
+145;452010;LA Oberstufe / Sekundarstufe II, berufliche Schulen - Erststudium;45
+146;401010;LA Bachelor Sonderschulen / Förderschulen - Erststudium;46
+147;451010;LA Bachelor Berufliche Schulen - Erststudium;47
+148;452510;LA Bachelor Oberstufe / Sekundarstufe II, berufliche Schulen - Erststudium;48
+151;600510;Diplom (FH) - Erststudium;51
+153;601010;Diplom (FH) - Dolmetscher - Erststudium;53
+154;601510;Diplom (FH) - Übersetzer - Erststudium;54
+156;602010;Staatl. Laufbahnprüfung (VerwFH) - Erststudium;56
+159;604010;Sonstiger FH - Abschluss - Erststudium;59
+168;051010;Mehr-Fächer-Bachelor ohne Lehramtsoption - Erststudium;68
+170;554010;Staatl. Prüfung für künstlerische Abschlüsse - Erststudium;70
+171;551510;Bühnen- / Konzert- / Opernreifeprüfung - Erststudium;71
+172;552010;Privatmusiklehrerprüfung - Erststudium;72
+173;552510;Kirchenmusikprüfung A - Erststudium;73
+174;553010;Kirchenmusikprüfung B - Erststudium;74
+175;550510;Diplom (KH) - Erststudium;75
+177;555010;Kunstpädagogische Prüfung - Erststudium;77
+179;553510;Solistenprüfung  - Erststudium;79
+180;555510;Sonstiger künstlerischer Abschluss - Erststudium;80
+181;551010;Akademiebrief (KH) - Erststudium;81
+182;058510;Bachelor an Universitäten - Erststudium;82
+183;556010;Bachelor an Kunsthochschulen - Erststudium;83
+184;602510;Bachelor an Fachhochschulen - Erststudium;84
+186;651710;Bachelor o. Ä. noch nicht abgeschlossen - Erststudium;86
+187;651310;Abschlüsse von Berufsakademien, die ersten berufsb. Abschlüssen gleichgestellt sind - Erststudium;87
+193;057010;Bachelor (U) - Lehrer - Erststudium;93
+194;650510;Abschlusszeugnis / Zertifikat - Erststudium;94
+195;651010;Sonstiger Abschluss in Deutschland - Erststudium;95
+196;651510;Abschlussprüfung im Ausland - Erststudium;96
+198;151010;LA Bachelor Grund- und Hauptschulen - Erststudium;98
+201;051220;Mehr-Fächer-Bachelor mit Lehramtsoption  - Zweitstudium;01
+202;050520;Magister - Zweitstudium;02
+203;052020;Lizentiat - Zweitstudium;03
+204;052520;Kirchliche Prüfung - Zweitstudium;04
+205;056520;Akad. geprüfter Übersetzer - Zweitstudium;05
+208;053020;Staatsexamen / 1. Staatsprüfung - Zweitstudium;08
+209;053520;Staatsexamen (einphasige Ausbildung) - Zweitstudium;09
+210;054020;Fakultätsprüfung - Zweitstudium;10
+211;054520;Diplom (U) - Zweitstudium;11
+212;055520;Diplom (U) - Dolmetscher - Zweitstudium;12
+213;056020;Diplom (U) - Übersetzer - Zweitstudium;13
+214;055020;Diplom I (U-GH) - Zweitstudium;14
+215;152520;LA Bachelor Grundschulen - Zweitstudium;15
+216;154020;LA Bachelor Hauptschulen - Zweitstudium;16
+218;058020;Diplom (U) - Lehrer - Zweitstudium;18
+219;155520;LA Bachelor Grundstufe / Primarstufe - Zweitstudium;19
+220;150520;LA Grund- und Hauptschulen - Zweitstudium;20
+221;152020;LA Grundschulen - Zweitstudium;21
+222;153520;LA Hauptschulen - Zweitstudium;22
+223;250520;LA Realschulen - Zweitstudium;23
+224;252020;LA Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien - Zweitstudium;24
+225;350520;LA Gymnasien - Zweitstudium;25
+226;400520;LA Sonderschulen / Förderschulen - Zweitstudium;26
+227;450520;LA Berufliche Schulen - Zweitstudium;27
+228;200520;LA Sekundarstufe I / Primarstufe - Zweitstudium;28
+229;500520;Sonstige Staatsprüfungen nach Schularten / Schulstufen - Zweitstudium;29
+230;480520;LA Master (soweit keine Differenzierung möglich) - Zweitstudium;30
+231;470520;LA Bachelor (soweit keine Differenzierung möglich) - Zweitstudium;31
+232;201020;LA Bachelor Sekundarstufe I / Primarstufe - Zweitstudium;32
+233;202520;LA Bachelor Grundschulen / Sekundarstufe I - Zweitstudium;33
+234;251020;LA Bachelor Realschulen - Zweitstudium;34
+235;252520;LA Bachelor Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien - Zweitstudium;35
+236;254020;LA Bachelor Mittelstufe / Sekundarstufe I - Zweitstudium;36
+237;301020;LA Bachelor Sekundarstufe II / Sekundarstufe I - Zweitstudium;37
+238;351020;LA Bachelor Gymnasien - Zweitstudium;38
+239;352520;LA Bachelor Oberstufe / Sekundarstufe II, allgemeinbildende Schulen - Zweitstudium;39
+240;202020;LA Grundschulen / Sekundarstufe I - Zweitstudium;40
+241;300520;LA Sekundarstufe II / Sekundarstufe I - Zweitstudium;41
+242;155020;LA Grundstufe / Primarstufe - Zweitstudium;42
+243;253520;LA Mittelstufe / Sekundarstufe I - Zweitstudium;43
+244;352020;LA Oberstufe / Sekundarstufe II, allgemeinbildende Schulen - Zweitstudium;44
+245;452020;LA Oberstufe / Sekundarstufe II, berufliche Schulen - Zweitstudium;45
+246;401020;LA Bachelor Sonderschulen / Förderschulen - Zweitstudium;46
+247;451020;LA Bachelor Berufliche Schulen - Zweitstudium;47
+248;452520;LA Bachelor Oberstufe / Sekundarstufe II, berufliche Schulen - Zweitstudium;48
+249;153020;LA Master Grundschulen  - Zweitstudium;49
+250;154520;LA Master Hauptschulen  - Zweitstudium;50
+251;600520;Diplom (FH) - Zweitstudium;51
+252;156020;LA Master Grundstufe / Primarstufe  - Zweitstudium;52
+253;601020;Diplom (FH) - Dolmetscher - Zweitstudium;53
+254;601520;Diplom (FH) - Übersetzer - Zweitstudium;54
+255;201520;LA Master Sekundarstufe I / Primarstufe  - Zweitstudium;55
+256;602020;Staatl. Laufbahnprüfung (VerwFH) - Zweitstudium;56
+257;203020;LA Master Grundschulen / Sekundarstufe I - Zweitstudium;57
+258;251520;LA Master Realschulen - Zweitstudium;58
+259;604020;Sonstiger FH - Abschluss - Zweitstudium;59
+260;253020;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien  - Zweitstudium;60
+261;254520;LA Master Mittelstufe / Sekundarstufe I  - Zweitstudium;61
+262;301520;LA Master Sekundarstufe II / Sekundarstufe I  - Zweitstudium;62
+263;353020;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen  - Zweitstudium;63
+264;351520;LA Master Gymnasien  - Zweitstudium;64
+265;401520;LA Master Sonderschulen / Förderschulen - Zweitstudium;65
+266;451520;LA Master Berufliche Schulen  - Zweitstudium;66
+267;453020;LA Master Oberstufe / Sekundarstufe II, berufliche Schulen - Zweitstudium;67
+268;051020;Mehr-Fächer-Bachelor ohne Lehramtsoption  - Zweitstudium;68
+269;051520;Mehr-Fächer-Master - Zweitstudium;69
+270;554020;Staatl. Prüfung für künstlerische Abschlüsse - Zweitstudium;70
+271;551520;Bühnen- / Konzert- / Opernreifeprüfung - Zweitstudium;71
+272;552020;Privatmusiklehrerprüfung - Zweitstudium;72
+273;552520;Kirchenmusikprüfung A - Zweitstudium;73
+274;553020;Kirchenmusikprüfung B - Zweitstudium;74
+275;550520;Diplom (KH) - Zweitstudium;75
+276;554520;Meisterschüler - Zweitstudium;76
+277;555020;Kunstpädagogische Prüfung - Zweitstudium;77
+278;057520;Master (U) - Lehrer - Zweitstudium;78
+279;553520;Solistenprüfung  - Zweitstudium;79
+280;555520;Sonstiger künstlerischer Abschluss - Zweitstudium;80
+281;551020;Akademiebrief (KH) - Zweitstudium;81
+282;058520;Bachelor an Universitäten - Zweitstudium;82
+283;556020;Bachelor an Kunsthochschulen - Zweitstudium;83
+284;602520;Bachelor an Fachhochschulen - Zweitstudium;84
+288;059520;Master an Universitäten (Abschlussprüfung vorausgesetzt) - Zweitstudium;88
+289;557020;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt) - Zweitstudium;89
+290;603520;Master an Fachhochschulen (Abschlussprüfung vorausgesetzt) - Zweitstudium;90
+293;057020;Bachelor (U) - Lehrer - Zweitstudium;93
+294;650520;Abschlusszeugnis / Zertifikat - Zweitstudium;94
+295;651020;Sonstiger Abschluss in Deutschland - Zweitstudium;95
+296;651520;Abschlussprüfung im Ausland - Zweitstudium;96
+298;151020;LA Bachelor Grund- und Hauptschulen - Zweitstudium;98
+299;151520;LA Master Grund- und Hauptschulen  - Zweitstudium;99
+301;051230;Mehr-Fächer-Bachelor mit Lehramtsoption  - Aufbaustudium;01
+302;050530;Magister - Aufbaustudium;02
+303;052030;Lizentiat - Aufbaustudium;03
+308;053030;Staatsexamen / 1. Staatsprüfung - Aufbaustudium;08
+311;054530;Diplom (U) - Aufbaustudium;11
+317;059930;Abschlussprüfung ohne akad. Grad - Aufbaustudium;17
+323;250530;LA Realschulen - Aufbaustudium;23
+324;252030;LA Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien - Aufbaustudium;24
+325;350530;LA Gymnasien - Aufbaustudium;25
+326;400530;LA Sonderschulen / Förderschulen - Aufbaustudium;26
+329;500530;Sonstige Staatsprüfungen nach Schularten / Schulstufen - Aufbaustudium;29
+330;480530;LA Master (soweit keine Differenzierung möglich) - Aufbaustudium;30
+331;470530;LA Bachelor (soweit keine Differenzierung möglich) - Aufbaustudium;31
+349;153030;LA Master Grundschulen - Aufbaustudium;49
+350;154530;LA Master Hauptschulen - Aufbaustudium;50
+351;600530;Diplom (FH) - Aufbaustudium;51
+352;156030;LA Master Grundstufe / Primarstufe - Aufbaustudium;52
+353;601030;Diplom (FH) - Dolmetscher - Aufbaustudium;53
+354;601530;Diplom (FH) - Übersetzer - Aufbaustudium;54
+355;201530;LA Master Sekundarstufe I / Primarstufe - Aufbaustudium;55
+357;203030;LA Master Grundschulen / Sekundarstufe I - Aufbaustudium;57
+358;251530;LA Master Realschulen - Aufbaustudium;58
+359;604030;Sonstiger FH - Abschluss - Aufbaustudium;59
+360;253030;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien - Aufbaustudium;60
+361;254530;LA Master Mittelstufe / Sekundarstufe I - Aufbaustudium;61
+362;301530;LA Master Sekundarstufe II / Sekundarstufe I - Aufbaustudium;62
+363;353030;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen - Aufbaustudium;63
+364;351530;LA Master Gymnasium - Aufbaustudium;64
+365;401530;LA Master Sonderschulen / Förderschulen - Aufbaustudium;65
+366;451530;LA Master Berufliche Schulen - Aufbaustudium;66
+367;453030;LA Master Oberstufe / Sekundarstufe II, berufliche Schulen - Aufbaustudium;67
+368;051030;Mehr-Fächer-Bachelor ohne Lehramtsoption  - Aufbaustudium;68
+369;051530;Mehr-Fächer-Master - Aufbaustudium;69
+371;551530;Bühnen- / Konzert- / Opernreifeprüfung - Aufbaustudium;71
+372;552030;Privatmusiklehrerprüfung - Aufbaustudium;72
+373;552530;Kirchenmusikprüfung A - Aufbaustudium;73
+375;550530;Diplom (KH) - Aufbaustudium;75
+376;554530;Meisterschüler - Aufbaustudium;76
+378;057530;Master (U) - Lehrer - Aufbaustudium;78
+379;553530;Solistenprüfung  - Aufbaustudium;79
+380;555530;Sonstiger künstlerischer Abschluss - Aufbaustudium;80
+381;551030;Akademiebrief (KH) - Aufbaustudium;81
+388;059530;Master an Universitäten (Abschlussprüfung vorausgesetzt) - Aufbaustudium;88
+389;557030;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt) - Aufbaustudium;89
+390;603530;Master an Fachhochschulen (Abschlussprüfung vorausgesetzt) - Aufbaustudium;90
+394;650530;Abschlusszeugnis / Zertifikat - Aufbaustudium;94
+395;651030;Sonstiger Abschluss in Deutschland - Aufbaustudium;95
+396;651530;Abschlussprüfung im Ausland - Aufbaustudium;96
+399;151530;LA Master Grund- und Hauptschulen - Aufbaustudium;99
+401;051240;Mehr-Fächer-Bachelor mit Lehramtsoption - Ergänzungs-, Erweiterungs- und Zusatzstudium;01
+402;050540;Magister - Ergänzungs-, Erweiterungs- und Zusatzstudium;02
+403;052040;Lizentiat - Ergänzungs-, Erweiterungs- und Zusatzstudium;03
+405;056540;Akad. geprüfter Übersetzer - Ergänzungs-, Erweiterungs- und Zusatzstudium;05
+411;054540;Diplom (U) - Ergänzungs-, Erweiterungs- und Zusatzstudium;11
+412;055540;Diplom (U) - Dolmetscher - Ergänzungs-, Erweiterungs- und Zusatzstudium;12
+413;056040;Diplom (U) - Übersetzer - Ergänzungs-, Erweiterungs- und Zusatzstudium;13
+415;152540;LA Bachelor Grundschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;15
+416;154040;LA Bachelor Hauptschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;16
+418;058040;Diplom (U) - Lehrer - Ergänzungs-, Erweiterungs- und Zusatzstudium;18
+419;155540;LA Bachelor Grundstufe / Primarstufe - Ergänzungs-, Erweiterungs- und Zusatzstudium;19
+420;150540;LA Grund- und Hauptschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;20
+421;152040;LA Grundschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;21
+422;153540;LA Hauptschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;22
+423;250540;LA Realschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;23
+424;252040;LA Haupt- und Realsch. / Unterst. und Mittelst. Gym. - Ergänzungs-, Erweiterungs- und Zusatzstud.;24
+425;350540;LA Gymnasien - Ergänzungs-, Erweiterungs- und Zusatzstudium;25
+426;400540;LA Sonderschulen / Förderschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;26
+427;450540;LA Berufliche Schulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;27
+428;200540;LA Sekundarstufe I / Primarstufe - Ergänzungs-, Erweiterungs- und Zusatzstudium;28
+429;500540;Sonstige Staatsprüfungen nach Schularten / Schulst. - Ergänzungs-, Erweiterungs- und Zusatzstudium;29
+430;480540;LA Master (soweit keine Differenzierung möglich) - Ergänzungs-, Erweiterungs- und Zusatzstudium;30
+431;470540;LA Bachelor (soweit keine Differenzierung möglich) - Ergänzungs-, Erweiterungs- und Zusatzstudium;31
+432;201040;LA Bachelor Sekundarstufe I / Primarstufe - Ergänzungs-, Erweiterungs- und Zusatzstudium;32
+433;202540;LA Bachelor Grundschulen / Sekundarstufe I - Ergänzungs-, Erweiterungs- und Zusatzstudium;33
+434;251040;LA Bachelor Realschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;34
+435;252540;LA Bachelor Haupt- u. Realsch./Unterst. u. Mittelst. Gym.-Ergänzungs-, Erweiterungs- und Zusatzstud.;35
+436;254040;LA Bachelor Mittelstufe / Sekundarstufe I - Ergänzungs-, Erweiterungs- und Zusatzstudium;36
+437;301040;LA Bachelor Sekundarstufe II / Sekundarstufe I - Ergänzungs-, Erweiterungs- und Zusatzstudium;37
+438;351040;LA Bachelor Gymnasien - Ergänzungs-, Erweiterungs- und Zusatzstudium;38
+439;352540;LA Bachelor Oberst. / Sekundarst. II, allgemeinb. Schulen - Ergänzungs-, Erweiterungs- und Zusatzst.;39
+440;202040;LA Grundschulen / Sekundarstufe I - Ergänzungs-, Erweiterungs- und Zusatzstudium;40
+441;300540;LA Sekundarstufe II / Sekundarstufe I - Ergänzungs-, Erweiterungs- und Zusatzstudium;41
+442;155040;LA Grundstufe / Primarstufe - Ergänzungs-, Erweiterungs- und Zusatzstudium;42
+443;253540;LA Mittelstufe / Sekundarstufe I - Ergänzungs-, Erweiterungs- und Zusatzstudium;43
+444;352040;LA Oberst. / Sekundarst. II, allgemeinb. Schulen - Ergänzungs-, Erweiterungs- und Zusatzst.;44
+445;452040;LA Oberstufe / Sekundarstufe II, berufliche Schulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;45
+446;401040;LA Bachelor Sonderschulen / Förderschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;46
+447;451040;LA Bachelor Berufliche Schulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;47
+448;452540;LA Bachelor Oberst. / Sekundarst. II, berufliche Schulen - Ergänzungs-, Erweiterungs- und Zusatzst.;48
+449;153040;LA Master Grundschulen  - Ergänzungs-, Erweiterungs- und Zusatzstudium;49
+450;154540;LA Master Hauptschulen  - Ergänzungs-, Erweiterungs- und Zusatzstudium;50
+451;600540;Diplom (FH) - Ergänzungs-, Erweiterungs- und Zusatzstudium;51
+452;156040;LA Master Grundstufe / Primarstufe  - Ergänzungs-, Erweiterungs- und Zusatzstudium;52
+455;201540;LA Master Sekundarstufe I / Primarstufe  - Ergänzungs-, Erweiterungs- und Zusatzstudium;55
+457;203040;LA Master Grundschulen / Sekundarstufe I - Ergänzungs-, Erweiterungs- und Zusatzstudium;57
+458;251540;LA Master Realschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;58
+459;604040;Sonstiger FH - Abschluss - Ergänzungs-, Erweiterungs- und Zusatzstudium;59
+460;253040;LA Master Haupt- und Realsch./Unterst. und Mittelst. Gym. - Ergänzungs-, Erweiterungs- und Zusatzst.;60
+461;254540;LA Master Mittelstufe / Sekundarstufe I  - Ergänzungs-, Erweiterungs- und Zusatzstudium;61
+462;301540;LA Master Sekundarstufe II / Sekundarstufe I  - Ergänzungs-, Erweiterungs- und Zusatzstudium;62
+463;353040;LA Master Oberst. / Sekundarst. II, allgemeinb. Schulen  - Ergänzungs-, Erweiterungs- und Zusatzst.;63
+464;351540;LA Master Gymnasien  - Ergänzungs-, Erweiterungs- und Zusatzstudium;64
+465;401540;LA Master Sonderschulen / Förderschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;65
+466;451540;LA Master Berufliche Schulen  - Ergänzungs-, Erweiterungs- und Zusatzstudium;66
+467;453040;LA Master Oberst. / Sekundarst. II, berufliche Schulen - Ergänzungs-, Erweiterungs- und Zusatzst.;67
+468;051040;Mehr-Fächer-Bachelor ohne Lehramtsoption - Ergänzungs-, Erweiterungs- und Zusatzstudium;68
+469;051540;Mehr-Fächer-Master - Ergänzungs-, Erweiterungs- und Zusatzstudium;69
+472;552040;Privatmusiklehrerprüfung - Ergänzungs-, Erweiterungs- und Zusatzstudium;72
+474;553040;Kirchenmusikprüfung B - Ergänzungs-, Erweiterungs- und Zusatzstudium;74
+475;550540;Diplom (KH) - Ergänzungs-, Erweiterungs- und Zusatzstudium;75
+477;555040;Kunstpädagogische Prüfung - Ergänzungs-, Erweiterungs- und Zusatzstudium;77
+478;057540;Master (U) - Lehrer - Ergänzungs-, Erweiterungs- und Zusatzstudium;78
+480;555540;Sonstiger künstlerischer Abschluss - Ergänzungs-, Erweiterungs- und Zusatzstudium;80
+482;058540;Bachelor an Universitäten - Ergänzungs-, Erweiterungs- und Zusatzstudium;82
+484;602540;Bachelor an Fachhochschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;84
+488;059540;Master an Universitäten (Abschlussprüfung vorausge.) - Ergänzungs-, Erweiterungs- und Zusatzstudium;88
+489;557040;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt) - Ergänzungs-, Erweiterungs- und Zusatzs;89
+490;603540;Master an Fachhochschulen (Abschlusspr. vorausge.) - Ergänzungs-, Erweiterungs- und Zusatzstudium;90
+494;650540;Abschlusszeugnis / Zertifikat - Ergänzungs-, Erweiterungs- und Zusatzstudium;94
+495;651040;Sonstiger Abschluss in Deutschland - Ergänzungs-, Erweiterungs- und Zusatzstudium;95
+496;651540;Abschlussprüfung im Ausland - Ergänzungs-, Erweiterungs- und Zusatzstudium;96
+498;151040;LA Bachelor Grund- und Hauptschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;98
+499;151540;LA Master Grund- und Hauptschulen  - Ergänzungs-, Erweiterungs- und Zusatzstudium;99
+506;100550;Promotion (Abschlussprüfung vorausgesetzt) - Promotion;06
+507;102050;Promotion ohne vorausgesetzte Abschlussprüfung - Promotionsstudium;07
+591;101550;Promotion (Abschlussprüfung vorausgesetzt) - Strukturiertes Promotionsstudium;91
+592;101050;Promotion (Abschlussprüfung vorausgesetzt) - Promotion nach FH-Abschluss bzw. wiss. Kurzstudium;92
+596;651550;Abschlussprüfung im Ausland - Promotionsstudium;96
+601;051260;Mehr-Fächer-Bachelor mit Lehramtsoption ? Weiterbildungsstudium;01
+602;050560;Magister - Weiterbildungsstudium;02
+608;053060;Staatsexamen / 1. Staatsprüfung - Weiterbildungsstudium;08
+611;054560;Diplom (U) - Weiterbildungsstudium;11
+629;500560;Sonstige Staatsprüfungen nach Schularten / Schulstufen - Weiterbildungsstudium;29
+630;480560;LA Master (soweit keine Differenzierung möglich) - Weiterbildungsstudium;30
+631;470560;LA Bachelor (soweit keine Differenzierung möglich) - Weiterbildungsstudium;31
+649;153060;LA Master Grundschulen - Weiterbildungsstudium;49
+650;154560;LA Master Hauptschulen - Weiterbildungsstudium;50
+651;600560;Diplom (FH) - Weiterbildungsstudium;51
+652;156060;LA Master Grundstufe / Primarstufe - Weiterbildungsstudium;52
+655;201560;LA Master Sekundarstufe I / Primarstufe - Weiterbildungsstudium;55
+657;203060;LA Master Grundschulen / Sekundarstufe I - Weiterbildungsstudium;57
+658;251560;LA Master Realschulen - Weiterbildungsstudium;58
+659;604060;Sonstiger FH - Abschluss - Weiterbildungsstudium;59
+660;253060;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien - Weiterbildungsstudium;60
+661;254560;LA Master Mittelstufe / Sekundarstufe I - Weiterbildungsstudium;61
+662;301560;LA Master Sekundarstufe II / Sekundarstufe I - Weiterbildungsstudium;62
+663;353060;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen - Weiterbildungsstudium;63
+664;351560; LA Master Gymnasium - Weiterbildungsstudium ;64
+665;401560;LA Master Sonderschulen / Förderschulen - Weiterbildungsstudium;65
+666;451560;LA Master Berufliche Schulen - Weiterbildungsstudium;66
+667;453060;LA Master Oberstufe / Sekundarstufe II, berufliche Schulen - Weiterbildungsstudium;67
+668;051060;Mehr-Fächer-Bachelor ohne Lehramtsoption - Weiterbildungsstudium;68
+669;051560;Mehr-Fächer-Master - Weiterbildungsstudium;69
+680;555560;Sonstiger künstlerischer Abschluss - Weiterbildungsstudium;80
+682;058560;Bachelor an Universitäten - Weiterbildungsstudium;82
+684;602560;Bachelor an Fachhochschulen - Weiterbildungsstudium;84
+688;059560;Master an Universitäten (Abschlussprüfung vorausgesetzt) - Weiterbildungsstudium;88
+689;557060;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt) - Weiterbildungstudium;89
+690;603560;Master an Fachhochschulen (Abschlussprüfung vorausgesetzt) - Weiterbildungsstudium;90
+694;650560;Abschlusszeugnis / Zertifikat - Weiterbildungsstudium;94
+695;651060;Sonstiger Abschluss in Deutschland - Weiterbildungsstudium;95
+696;651560;Abschlussprüfung im Ausland - Weiterbildungsstudium;96
+699;151560;LA Master Grund- und Hauptschulen - Weiterbildungsstudium;99
+730;480570;LA Master (soweit keine Differenzierung möglich) - Konsekutives Masterstudium;30
+749;153070;LA Master Grundschulen  - Konsekutives Masterstudium;49
+750;154570;LA Master Hauptschulen  - Konsekutives Masterstudium;50
+752;156070;LA Master Grundstufe / Primarstufe  - Konsekutives Masterstudium;52
+755;201570;LA Master Sekundarstufe I / Primarstufe  - Konsekutives Masterstudium;55
+757;203070;LA Master Grundschulen / Sekundarstufe I - Konsekutives Masterstudium;57
+758;251570;LA Master Realschulen - Konsekutives Masterstudium;58
+760;253070;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien  - Konsekutives Masterstudiu;60
+761;254570;LA Master Mittelstufe / Sekundarstufe I  - Konsekutives Masterstudium;61
+762;301570;LA Master Sekundarstufe II / Sekundarstufe I  - Konsekutives Masterstudium;62
+763;353070;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen  - Konsekutives Masterstudium;63
+764;351570;LA Master Gymnasien  - Konsekutives Masterstudium;64
+765;401570;LA Master Sonderschulen / Förderschulen - Konsekutives Masterstudium;65
+766;451570;LA Master Berufliche Schulen  - Konsekutives Masterstudium;66
+767;453070;LA Master Oberstufe / Sekundarstufe II, berufliche Schulen - Konsekutives Masterstudium;67
+769;051570;Mehr-Fächer-Master - Konsekutives Masterstudium;69
+778;057570;Master (U)-Lehrer - Konsekutives Masterstudium;78
+788;059570;Master an Universitäten (Abschlussprüfung vorausgesetzt) - Konsekutives Masterstudium;88
+789;557070;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt) - Konsekutives Masterstudium;89
+790;603570;Master an Fachhochschulen (Abschlussprüfung vorausgesetzt) - Konsekutives Masterstudium;90
+796;651570;Abschlussprüfung im Ausland - Konsekutives Masterstudium;96
+799;151570;LA Master Grund- und Hauptschulen  - Konsekutives Masterstudium;99
+801;051280;Mehr-Fächer-Bachelor mit Lehramtsoption - Weiterstudium bzw. Wiederholung zur Notenverbesserung;01
+802;050580;Magister - Weiterstudium bzw. Wiederholung zur Notenverbesserung;02
+803;052080;Lizentiat - Weiterstudium bzw. Wiederholung zur Notenverbesserung;03
+804;052580;Kirchliche Prüfung - Weiterstudium bzw. Wiederholung zur Notenverbesserung;04
+805;056580;Akad. geprüfter Übersetzer - Weiterstudium bzw. Wiederholung zur Notenverbesserung;05
+807;102080;Promotion ohne vorausgesetzte Abschlussprüfung - Weiterst. bzw. Wiederholung zur Notenverbesserung;07
+808;053080;Staatsexamen / 1. Staatsprüfung - Weiterstudium bzw. Wiederholung zur Notenverbesserung;08
+809;053580;Staatsexamen (einphasige Ausbildung) - Weiterstudium bzw. Wiederholung zur Notenverbesserung;09
+810;054080;Fakultätsprüfung - Weiterstudium bzw. Wiederholung zur Notenverbesserung;10
+811;054580;Diplom (U) - Weiterstudium bzw. Wiederholung zur Notenverbesserung;11
+812;055580;Diplom (U) - Dolmetscher - Weiterstudium bzw. Wiederholung zur Notenverbesserung;12
+813;056080;Diplom (U) - Übersetzer - Weiterstudium bzw. Wiederholung zur Notenverbesserung;13
+814;055080;Diplom I (U-GH) - Weiterstudium bzw. Wiederholung zur Notenverbesserung;14
+815;152580;LA Bachelor Grundschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;15
+816;154080;LA Bachelor Hauptschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;16
+817;059980;Abschlussprüfung ohne akad. Grad - Weiterstudium bzw. Wiederholung zur Notenverbesserung;17
+818;058080;Diplom (U) - Lehrer - Weiterstudium bzw. Wiederholung zur Notenverbesserung;18
+819;155580;LA Bachelor Grundstufe / Primarstufe - Weiterstudium bzw. Wiederholung zur Notenverbesserung;19
+820;150580;LA Grund- und Hauptschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;20
+821;152080;LA Grundschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;21
+822;153580;LA Hauptschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;22
+823;250580;LA Realschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;23
+824;252080;LA Haupt- und Realsch. / Unterst. und Mittelst. Gym. - Weiterst. bzw. Wiederh. zur Notenverbesserung;24
+825;350580;LA Gymnasien - Weiterstudium bzw. Wiederholung zur Notenverbesserung;25
+826;400580;LA Sonderschulen / Förderschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;26
+827;450580;LA Berufliche Schulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;27
+828;200580;LA Sekundarstufe I / Primarstufe - Weiterstudium bzw. Wiederholung zur Notenverbesserung;28
+829;500580;Sonstige Staatsprüfungen nach Schularten / Schulst. - Weiterst. bzw. Wiederh. zur Notenverbesserung;29
+830;480580;LA Master (soweit keine Differenzierung möglich) - Weiterst. bzw. Wiederh. zur Notenverbesserung;30
+831;470580;LA Bachelor (soweit keine Differenzierung möglich) - Weiterst. bzw. Wiederh. zur Notenverbesserung;31
+832;201080;LA Bachelor Sekundarstufe I / Primarstufe - Weiterstudium bzw. Wiederholung zur Notenverbesserung;32
+833;202580;LA Bachelor Grundschulen / Sekundarstufe I - Weiterstudium bzw. Wiederholung zur Notenverbesserung;33
+834;251080;LA Bachelor Realschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;34
+835;252580;LA Bachelor Haupt- u. Realsch./Unterst. u. Mittelst. Gymnasien-Weiterst. bzw. Wiederh. z. Notenverb.;35
+836;254080;LA Bachelor Mittelstufe / Sekundarstufe I - Weiterstudium bzw. Wiederholung zur Notenverbesserung;36
+837;301080;LA Bachelor Sekundarst. II / Sekundarst. I - Weiterstudium bzw. Wiederholung zur Notenverbesserung;37
+838;351080;LA Bachelor Gymnasien - Weiterstudium bzw. Wiederholung zur Notenverbesserung;38
+839;352580;LA Bachelor Oberst. / Sekundarst. II, allgemeinb. Schulen - Weiterst. bzw. Wiederh. zur Notenverb.;39
+840;202080;LA Grundschulen / Sekundarstufe I - Weiterstudium bzw. Wiederholung zur Notenverbesserung;40
+841;300580;LA Sekundarstufe II / Sekundarstufe I - Weiterstudium bzw. Wiederholung zur Notenverbesserung;41
+842;155080;LA Grundstufe / Primarstufe - Weiterstudium bzw. Wiederholung zur Notenverbesserung;42
+843;253580;LA Mittelstufe / Sekundarstufe I - Weiterstudium bzw. Wiederholung zur Notenverbesserung;43
+844;352080;LA Oberst. / Sekundarst. II, allgemeinb. Schulen - Weiterst. bzw. Wiederholung zur Notenverbesserung;44
+845;452080;LA Oberst. / Sekundarst. II, berufliche Schulen - Weiterst. bzw. Wiederholung zur Notenverbesserung;45
+846;401080;LA Bachelor Sonderschulen / Förderschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;46
+847;451080;LA Bachelor Berufliche Schulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;47
+848;452580;LA Bachelor Oberst. / Sekundarst. II, berufliche Schulen - Weiterst. bzw. Wiederh. zur Notenverb.;48
+849;153080;LA Master Grundschulen  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;49
+850;154580;LA Master Hauptschulen  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;50
+851;600580;Diplom (FH) - Weiterstudium bzw. Wiederholung zur Notenverbesserung;51
+852;156080;LA Master Grundstufe / Primarstufe  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;52
+853;601080;Diplom (FH) - Dolmetscher - Weiterstudium bzw. Wiederholung zur Notenverbesserung;53
+854;601580;Diplom (FH) - Übersetzer - Weiterstudium bzw. Wiederholung zur Notenverbesserung;54
+855;201580;LA Master Sekundarstufe I / Primarstufe  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;55
+856;602080;Staatl. Laufbahnprüfung (VerwFH) - Weiterstudium bzw. Wiederholung zur Notenverbesserung;56
+857;203080;LA Master Grundschulen / Sekundarstufe I - Weiterstudium bzw. Wiederholung zur Notenverbesserung;57
+858;251580;LA Master Realschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;58
+859;604080;Sonstiger FH - Abschluss - Weiterstudium bzw. Wiederholung zur Notenverbesserung;59
+860;253080;LA Master Haupt- und Realsch./Unterst. und Mittelst. Gym.-Weiterst. bzw. Wiederh. zur Notenverb.;60
+861;254580;LA Master Mittelstufe / Sekundarstufe I  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;61
+862;301580;LA Master Sekundarst. II / Sekundarst. I  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;62
+863;353080;LA Master Oberst. / Sekundarst. II, allgemeinb. Schulen  - Weiterst. bzw. Wiederh. zur Notenverb.;63
+864;351580;LA Master Gymnasien  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;64
+865;401580;LA Master Sonderschulen / Förderschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;65
+866;451580;LA Master Berufliche Schulen  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;66
+867;453080;LA Master Oberst. / Sekundarst. II, berufliche Schulen - Weiterst. bzw. Wiederholung zur Notenverb.;67
+868;051080;Mehr-Fächer-Bachelor ohne Lehramtsoption - Weiterstudium bzw. Wiederholung zur Notenverbesserung;68
+869;051580;Mehr-Fächer-Master - Weiterstudium bzw. Wiederholung zur Notenverbesserung;69
+870;554080;Staatl. Prüfung für künstlerische Abschlüsse - Weiterstudium bzw. Wiederholung zur Notenverbesserung;70
+871;551580;Bühnen- / Konzert- / Opernreifeprüfung - Weiterstudium bzw. Wiederholung zur Notenverbesserung;71
+872;552080;Privatmusiklehrerprüfung - Weiterstudium bzw. Wiederholung zur Notenverbesserung;72
+873;552580;Kirchenmusikprüfung A - Weiterstudium bzw. Wiederholung zur Notenverbesserung;73
+874;553080;Kirchenmusikprüfung B - Weiterstudium bzw. Wiederholung zur Notenverbesserung;74
+875;550580;Diplom (KH) - Weiterstudium bzw. Wiederholung zur Notenverbesserung;75
+876;554580;Meisterschüler - Weiterstudium bzw. Wiederholung zur Notenverbesserung;76
+877;555080;Kunstpädagogische Prüfung - Weiterstudium bzw. Wiederholung zur Notenverbesserung;77
+878;057580;Master (U) - Lehrer - Weiterstudium bzw. Wiederholung zur Notenverbesserung;78
+879;553580;Solistenprüfung  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;79
+880;555580;Sonstiger künstlerischer Abschluss - Weiterstudium bzw. Wiederholung zur Notenverbesserung;80
+881;551080;Akademiebrief (KH) - Weiterstudium bzw. Wiederholung zur Notenverbesserung;81
+882;058580;Bachelor an Universitäten - Weiterstudium bzw. Wiederholung zur Notenverbesserung;82
+883;556080;Bachelor an Kunsthochschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;83
+884;602580;Bachelor an Fachhochschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;84
+888;059580;Master an Universitäten (Abschlusspr. vorausge.) - Weiterst. bzw. Wiederholung zur Notenverbesserung;88
+889;557080;Master an Kunsthochschulen (Abschlussp. vorausge.) - Weiterst. bzw. Wiederh. zur Notenverbesserung;89
+890;603580;Master an Fachhochschulen (Abschlusspr. vorausge.) - Weiterst. bzw. Wiederh. zur Notenverbesserung;90
+893;057080;Bachelor (U) - Lehrer - Weiterstudium bzw. Wiederholung zur Notenverbesserung;93
+894;650580;Abschlusszeugnis / Zertifikat - Weiterstudium bzw. Wiederholung zur Notenverbesserung;94
+895;651080;Sonstiger Abschluss in Deutschland - Weiterstudium bzw. Wiederholung zur Notenverbesserung;95
+898;151080;LA Bachelor Grund- und Hauptschulen - Weiterstudium bzw. Wiederholung zur Notenverbesserung;98
+899;151580;LA Master Grund- und Hauptschulen  - Weiterstudium bzw. Wiederholung zur Notenverbesserung;99
+997;652090;Keine Abschlussprüfung möglich bzw. angestrebt - Kein Abschluss;97

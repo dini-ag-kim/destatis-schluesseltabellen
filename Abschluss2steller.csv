@@ -1,0 +1,98 @@
+01;0512;Mehr-Fächer-Bachelor mit Lehramtsoption ;05
+02;0505;Magister;05
+03;0520;Lizentiat;05
+04;0525;Kirchliche Prüfung;05
+05;0565;Akad. geprüfter Übersetzer;05
+06;1005;Promotion (Abschlussprüfung vorausgesetzt);10
+07;1020;Promotion ohne vorausgesetzte Abschlussprüfung;10
+08;0530;Staatsexamen / 1. Staatsprüfung;05
+09;0535;Staatsexamen (einphasige Ausbildung);05
+10;0540;Fakultätsprüfung;05
+11;0545;Diplom (U);05
+12;0555;Diplom (U) - Dolmetscher;05
+13;0560;Diplom (U) - Übersetzer;05
+14;0550;Diplom I (U-GH);05
+15;1525;LA Bachelor Grundschulen;15
+16;1540;LA Bachelor Hauptschulen;15
+17;0599;Abschlussprüfung ohne akad. Grad;05
+18;0580;Diplom (U) - Lehrer;05
+19;1555;LA Bachelor Grundstufe / Primarstufe;15
+20;1505;LA Grund- und Hauptschulen;15
+21;1520;LA Grundschulen;15
+22;1535;LA Hauptschulen;15
+23;2505;LA Realschulen;25
+24;2520;LA Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;25
+25;3505;LA Gymnasien;35
+26;4005;LA Sonderschulen / Förderschulen;40
+27;4505;LA Berufliche Schulen;45
+28;2005;LA Sekundarstufe I / Primarstufe;20
+29;5005;Sonstige Staatsprüfungen nach Schularten / Schulstufen;50
+30;4805;LA Master (soweit keine Differenzierung möglich);48
+31;4705;LA Bachelor (soweit keine Differenzierung möglich);47
+32;2010;LA Bachelor Sekundarstufe I / Primarstufe;20
+33;2025;LA Bachelor Grundschulen / Sekundarstufe I;20
+34;2510;LA Bachelor Realschulen;25
+35;2525;LA Bachelor Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;25
+36;2540;LA Bachelor Mittelstufe / Sekundarstufe I;25
+37;3010;LA Bachelor Sekundarstufe II / Sekundarstufe I;30
+38;3510;LA Bachelor Gymnasien;35
+39;3525;LA Bachelor Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;35
+40;2020;LA Grundschulen / Sekundarstufe I;20
+41;3005;LA Sekundarstufe II / Sekundarstufe I;30
+42;1550;LA Grundstufe / Primarstufe;15
+43;2535;LA Mittelstufe / Sekundarstufe I;25
+44;3520;LA Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;35
+45;4520;LA Oberstufe / Sekundarstufe II, berufliche Schulen;45
+46;4010;LA Bachelor Sonderschulen / Förderschulen;40
+47;4510;LA Bachelor Berufliche Schulen;45
+48;4525;LA Bachelor Oberstufe / Sekundarstufe II, berufliche Schulen;45
+49;1530;LA Master Grundschulen;15
+50;1545;LA Master Hauptschulen;15
+51;6005;Diplom (FH);60
+52;1560;LA Master Grundstufe / Primarstufe;15
+53;6010;Diplom (FH) - Dolmetscher;60
+54;6015;Diplom (FH) - Übersetzer;60
+55;2015;LA Master Sekundarstufe I / Primarstufe;20
+56;6020;Staatl. Laufbahnprüfung (VerwFH);60
+57;2030;LA Master Grundschulen / Sekundarstufe I;20
+58;2515;LA Master Realschulen;25
+59;6040;Sonstiger FH - Abschluss;60
+60;2530;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;25
+61;2545;LA Master Mittelstufe / Sekundarstufe I;25
+62;3015;LA Master Sekundarstufe II / Sekundarstufe I;30
+63;3530;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;35
+64;3515;LA Master Gymnasien;35
+65;4015;LA Master Sonderschulen / Förderschulen;40
+66;4515;LA Master Berufliche Schulen;45
+67;4530;LA Master Oberstufe / Sekundarstufe II, berufliche Schulen;45
+68;0510;Mehr-Fächer-Bachelor ohne Lehramtsoption ;05
+69;0515;Mehr-Fächer-Master;05
+70;5540;Staatl. Prüfung für künstlerische Abschlüsse;55
+71;5515;Bühnen- / Konzert- / Opernreifeprüfung;55
+72;5520;Privatmusiklehrerprüfung;55
+73;5525;Kirchenmusikprüfung A;55
+74;5530;Kirchenmusikprüfung B;55
+75;5505;Diplom (KH);55
+76;5545;Meisterschüler;55
+77;5550;Kunstpädagogische Prüfung;55
+78;0575;Master (U) - Lehrer;05
+79;5535;Solistenprüfung;55
+80;5555;Sonstiger künstlerischer Abschluss;55
+81;5510;Akademiebrief (KH);55
+82;0585;Bachelor an Universitäten;05
+83;5560;Bachelor an Kunsthochschulen;55
+84;6025;Bachelor an Fachhochschulen;60
+86;6517;Bachelor o. Ä. noch nicht abgeschlossen;65
+87;6513;Abschlüsse von Berufsakademien, die ersten berufsbefähigenden Abschlüssen gleichgestellt sind;65
+88;0595;Master an Universitäten (Abschlussprüfung vorausgesetzt);05
+89;5570;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt);55
+90;6035;Master an Fachhochschulen (Abschlussprüfung vorausgesetzt);60
+91;1015;Strukturiertes Promotionsstudium;10
+92;1010;Promotion nach FH-Abschluss bzw. wiss. Kurzstudium;10
+93;0570;Bachelor (U) - Lehrer;05
+94;6505;Abschlusszeugnis / Zertifikat;65
+95;6510;Sonstiger Abschluss in Deutschland;65
+96;6515;Abschlussprüfung im Ausland;65
+97;6520;Keine Abschlussprüfung möglich bzw. angestrebt;65
+98;1510;LA Bachelor Grund- und Hauptschulen;15
+99;1515;LA Master Grund- und Hauptschulen;15
