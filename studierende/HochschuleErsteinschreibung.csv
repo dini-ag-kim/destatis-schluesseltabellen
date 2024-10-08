@@ -144,9 +144,9 @@
 1541;;EBS U für Wirtschaft und Recht in Oestrich-Winkel (Priv. U)
 1542;;EBS U für Wirtschaft und Recht in Wiesbaden (Priv. U)
 1550;;Evangelische Hochschule Tabor in Marburg (Priv.-Theol. H)
-1561;;H für Medien, Kommunikation und Wirtschaft Berlin in Berlin (Priv. FH)
-1562;;H für Medien, Kommunikation und Wirtschaft Berlin in Köln (Priv. FH)
-1563;;H für Medien, Kommunikation und Wirtschaft Berlin in Frankfurt (Priv. FH) 
+1561;;Media University of Applied Sciences Berlin, Campus Berlin (Priv. FH)
+1562;;Media University of Applied Sciences Berlin, Campus Köln (Priv. FH)
+1563;;Media University of Applied Sciences Berlin, Campus Frankfurt (Priv. FH)
 1570;;Fachhochschule für Sport und Management Potsdam (Priv. FH)
 1580;;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule (U)
 1590;;U Stuttgart
@@ -173,7 +173,7 @@
 1761;;BSP Business and Law School - Hochschule für Management und Recht Berlin in Hamburg (Priv. FH)
 1770;;Hochschule für Gesundheit Bochum (FH)
 1780;;Hochschule Weserbergland (HSW), Hameln (Priv. FH)
-1790;;Internationale Hochschule Erfurt in Bremen (Priv. FH) 
+1790;;IU Internationale Hochschule Erfurt in Bremen (Priv. FH) 
 1800;;U Hohenheim
 1810;;U Mannheim
 1820;;U Ulm
@@ -211,7 +211,7 @@
 2220;;Theologische H Ewersbach in Dietzhölztal (Priv.-Theol. H)
 2240;;Hochschule für angewandte Pädagogik Berlin (Priv. FH)
 2271;;Kirchliche Hochschule Wuppertal / Bethel in Bethel (Kirchl.-Theol. H)
-2272;;Kirchliche Hochschule Wuppertal / Bethel in Wuppertal (Kirchl.-Theol. H)
+2272;;Kirchliche Hochschule Wuppertal (Kirchl.-Theol. H)
 2280;;IST-Hochschule für Management Düsseldorf (Priv. FH)
 2290;;Berlin International University of Applied Sciences (Priv. FH)
 2300;;H für jüdische Studien Heidelberg (Kirchl. U)
@@ -324,11 +324,12 @@
 3790;;Kolping H, Köln (Priv. FH)
 3880;;Tomorrow University of Applied Sciences, Frankfurt a. M. (Priv.FH)
 3890;;Humanistische Hochschule Berlin (Priv. FH)
+3900;;IFAA Hochschule Ketsch (Priv. FH)
 3950;;Promotionskolleg NRW, Bochum (FH)
 3971;;Brandenburgische TU Cottbus-Senftenberg in Cottbus
 3972;;Brandenburgische TU Cottbus-Senftenberg in Senftenberg
 4940;;GU- Deutsche Hochschule für angewandte Wissenschaften, Potsdam (Priv. FH)
-4950;;INU - Innovative Hochschule für angewandte Wissenschaften, Köln (Priv. FH)
+4950;;INU - Innovative University of Applied Sciences, Köln (Priv. FH)
 4960;;media Akademie - Hochschule Stuttgart (Priv. FH)
 4981;;Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Wilhelmshaven (FH)
 4982;;Hochschule Wilhelmshaven/Oldenburg/Elsfleth in Oldenburg (FH)
@@ -450,9 +451,9 @@
 5833;;Technische Hochschule Köln (FH) in Leverkusen
 5841;;H Niederrhein in Krefeld (FH)
 5842;;H Niederrhein in Mönchengladbach (FH)
-5861;;TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter in Lemgo (FH)
-5862;;TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter in Detmold (FH)
-5863;;TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter in Höxter (FH)
+5861;;TH Ostwestfalen-Lippe in Lemgo (FH)
+5862;;TH Ostwestfalen-Lippe in Detmold (FH)
+5863;;TH Ostwestfalen-Lippe in Höxter (FH)
 5891;;FH Münster in Münster
 5892;;FH Münster in Steinfurt
 5901;;FH der Wirtschaft Paderborn in Paderborn (Priv. FH)
@@ -460,8 +461,8 @@
 5904;;FH der Wirtschaft Paderborn in Bielefeld (Priv. FH)
 5905;;FH der Wirtschaft Paderborn in Mettmann (Priv. FH)
 5980;;TH Georg Agricola Bochum (Priv. FH)
-5990;;Rheinische FH Köln in Köln (Priv. FH)
-5991;;Rheinische FH Köln in Neuss (Priv. FH)
+5990;;Rheinische Hochschule Köln in Köln (Priv. FH)
+5991;;Rheinische Hochschule Köln in Neuss (Priv. FH)
 6000;;Evang. Hochschule Rheinland-Westfalen-Lippe, Bochum (Kirchl. FH)
 6031;;Kath. Hochschule Nordrhein-Westfalen in Köln (Kirchl. FH)
 6032;;Kath. Hochschule Nordrhein-Westfalen in Aachen (Kirchl. FH)
@@ -580,8 +581,8 @@
 6970;;Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart (Priv. FH)
 7020;;AKAD Hochschule Stuttgart (Priv. Fern-FH)
 7050;;H für Gestaltung Schwäbisch Gmünd (FH)
-7060;;FH für öffentliche Verwaltung Kehl (Verw-FH)  
-7070;;Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen  (Verw-FH)  
+7060;;FH für öffentliche Verwaltung Kehl (Verw-FH)
+7070;;Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen (Verw-FH)  
 7090;;SRH Hochschule Heidelberg (Priv. FH)
 7110;;H für Forstwirtschaft Rottenburg (FH)
 7120;;FH für Rechtspflege Schwetzingen (Verw-FH)  
@@ -630,6 +631,7 @@
 7560;;Hochschule für angewandte Wissenschaften Ansbach in Anbach (FH)
 7561;;Hochschule für angewandte Wissenschaften Ansbach in Weißenburg (FH)
 7562;;Hochschule für angewandte Wissenschaften Ansbach in Rothenburg (FH)
+7563;;Hochschule für angewandte Wissenschaften Ansbach in Feuchtwangen (FH)
 7570;;Hochschule für angewandte Wissenschaften Neu-Ulm (FH)
 7580;;Munich Business School München (Priv. FH)
 7590;;TH Aschaffenburg (FH)
@@ -739,5 +741,8 @@
 8191;;Charlotte Fresenius Hochschule Wiesbaden in Wiesbaden (Priv. U)
 8192;;Charlotte Fresenius Hochschule Wiesbaden in München (Priv. U)
 8193;;Charlotte Fresenius Hochschule Wiesbaden in Hamburg (Priv. U)
+8194;;Charlotte Fresenius Hochschule Wiesbaden in Köln (Priv. U)
+8200;;Hochschule für Gesundheitsberufe Eberswalde (HGE) - (Priv. FH)	
+8210;;Europäische Hochschule für Innovation und Perspektive (EHIP), Backnang (Priv. FH)
 9000;;Sonstige deutsche Hochschulen
 9990;;Hochschulen im Ausland

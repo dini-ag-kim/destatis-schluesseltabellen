@@ -8,7 +8,6 @@
 013;11065;U Siegen;1
 014;11070;U Wuppertal;1
 015;11040;Fernuniversität Hagen;1
-016;60350;EBC Euro Business College Hamburg Campus Berlin (Priv. FH) ;6
 017;60333;Touro College Berlin (Priv. FH);6
 018;10315;Charite - Universitätsmedizin Berlin;1
 019;10410;Europa-U Viadrina Frankfurt (Oder);1
@@ -51,7 +50,6 @@
 081;10240;U der Bundeswehr München;1
 082;60352;Deutsche Hochschule für Gesundheit und Sport Berlin in Berlin (Priv. FH);6
 086;61215;Deutsche Hochschule für Prävention und Gesundheitsmanagement, Saarbrücken (Priv. FH);6
-088;60635;EBC Euro Business College Hamburg Campus Hamburg (Priv. FH);6
 091;11080;Deutsche Hochschule der Polizei, Münster (U) ;1
 093;61047;EBZ Business School Bochum (Priv. FH);6
 094;40720;Freie Theologische H (FTH) Gießen (Priv.-Theol. H) ;4
@@ -111,7 +109,7 @@
 153;10705;TU Darmstadt;1
 154;10740;EBS U für Wirtschaft und Recht (Priv. U);1
 155;40725;Evangelische Hochschule Tabor in Marburg (Priv.-Theol. H);4
-156;60349;H für Medien, Kommunikation und Wirtschaft Berlin in Berlin (Priv. FH);6
+156;60349;Media University of Applied Sciences Berlin, Campus Berlin (Priv. FH);6
 157;60422;Fachhochschule für Sport und Management Potsdam (Priv. FH);6
 158;10120;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule (U);1
 159;10135;U Stuttgart;1
@@ -126,7 +124,7 @@
 176;60334;BSP Business and Law School - Hochschule für Management und Recht Berlin in Berlin (Priv. FH);6
 177;61011;Hochschule für Gesundheit Bochum (FH);6
 178;60912;Hochschule Weserbergland (HSW), Hameln (Priv. FH);6
-179;60520;Internationale Hochschule Erfurt in Bremen (Priv. FH) ;6
+179;60520;IU Internationale Hochschule Erfurt in Bremen (Priv. FH) ;6
 180;10115;U Hohenheim;1
 181;10130;U Mannheim;1
 182;10145;U Ulm;1
@@ -157,7 +155,7 @@
 221;60259;HDBW Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften (Priv. FH);6
 222;40717;Theologische H Ewersbach in Dietzhölztal (Priv.-Theol. H);4
 224;60361;Hochschule für angewandte Pädagogik Berlin (Priv. FH);6
-227;41035;Kirchliche Hochschule Wuppertal / Bethel (Kirchl.-Theol. H);4
+227;41035;Kirchliche Hochschule Wuppertal (Kirchl.-Theol. H);4
 228;61059;IST-Hochschule für Management Düsseldorf (Priv. FH);6
 229;60364;Berlin International University of Applied Sciences (Priv. FH);6
 230;10175;H für jüdische Studien Heidelberg (Kirchl. U);1
@@ -229,7 +227,7 @@
 314;60357;CODE University of Applied Sciences Berlin (Priv. FH);6
 323;61150;H für Gesellschaftsgestaltung Koblenz (Priv. FH);6
 324;61645;Duale Hochschule Gera-Eisenach (FH);6
-325;60435;Fachhochschule Clara Hoffbauer Potsdam (Priv. FH);6
+325;60435;Hochschule Clara Hoffbauer Potsdam (Priv. FH);6
 326;61540;DHSH - Duale Hochschule Schleswig-Holstein, Kiel (Priv. FH);6
 327;10365;German International University Berlin (Priv. U);1
 329;10430;HMU Health and Medical University Erfurt in Potsdam (Priv. U);1
@@ -249,6 +247,7 @@
 379;61044;Kolping H, Köln (Priv. FH);6
 388;60748;Tomorrow University of Applied Sciences, Frankfurt a. M. (Priv.FH);6
 389;60355;Humanistische Hochschule Berlin (Priv. FH);6
+390;60162;IFAA Hochschule Ketsch (Priv. FH);6
 393;61550;Promotionskolleg Schleswig-Holstein an der FH Kiel;6
 394;60772;Promotionszentrum Mobilität und Logistik, Frankfurt am Main;6
 395;61037;Promotionskolleg NRW, Bochum (FH);6
@@ -280,8 +279,18 @@
 426;B0718;Deutsche Berufsakademie Sport und Gesundheit (dba) in Baunatal (Private BA);B
 427;B0945;Berufsakademie Wilhelmshaven (Private BA);B
 428;B1230;Berufsakademie Heimerer GmbH, Quierschied (Private BA);B
+484;60287;Promotionszentrum Digitale Technologien und ihre Anwendung,  Deggendorf;6
+485;60288;Promotionszentrum Analytics4Health, Coburg;6
+486;60289;Promotionszentrum Ressourceneffizienz und Digitalisierung, Amberg-Weiden;6
+487;60290;Promotionszentrum Künstliche Intelligenz/Informatik, Ingolstadt ;6
+488;60291;Promotionszentrum Ingenieurwissenschaften, Ingolstadt;6
+489;60292;Promotionszentrum Integrales Bauen, München;6
+490;60293;Promotionszentrum DIWAG, Neu-Ulm	;6
+491;60294;Promotionszentrum Angewandte Informatik, Regensburg;6
+492;60295;Promotionszentrum Materialien und Produktionstechnik, Nürnberg;6
+493;60296;Promotionszentrum CARRI, München;6
 494;60438;GU- Deutsche Hochschule für angewandte Wissenschaften, Potsdam (Priv. FH);6
-495;61046;INU - Innovative Hochschule für angewandte Wissenschaften, Köln (Priv. FH);6
+495;61046;INU - Innovative University of Applied Sciences, Köln (Priv. FH);6
 496;60185;media Akademie - Hochschule Stuttgart (Priv. FH);6
 498;60920;Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH);6
 499;60907;Hochschule Emden/Leer (FH);6
@@ -292,7 +301,6 @@
 506;71505;FH für Verwaltung und Dienstleistung Altenholz (Verw-FH)  ;7
 508;51505;Muthesius Kunsthochschule Kiel (Kunst-H);5
 509;61510;FH Westküste, Heide;6
-510;61335;Hochschule für Telekommunikation Leipzig (Priv. FH);6
 511;61355;Evangelische Hochschule Dresden (Kirchl. FH);6
 512;61305;H für Technik und Wirtschaft Dresden, Hochschule für angewandte Wissenschaften (FH);6
 513;61310;H für Technik, Wirtschaft und Kultur Leipzig, Hochschule für angewandte Wissenschaften (FH);6
@@ -333,9 +341,9 @@
 584;61033;H Niederrhein (FH);6
 586;61027;TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter (FH);6
 589;61030;FH Münster;6
-590;61072;FH der Wirtschaft Paderborn in Paderborn (Priv. FH);6
+590;61072;FH der Wirtschaft Paderborn (Priv. FH);6
 598;61045;TH Georg Agricola Bochum (Priv. FH);6
-599;61069;Rheinische FH Köln (Priv. FH);6
+599;61069;Rheinische Hochschule Köln (Priv. FH);6
 600;61075;Evang. Hochschule Rheinland-Westfalen-Lippe, Bochum (Kirchl. FH);6
 603;61078;Kath. Hochschule Nordrhein-Westfalen (Kirchl. FH);6
 607;71015;Hochschule für Polizei und öffentliche Verwaltung NW (Verw-FH);7
@@ -394,8 +402,8 @@
 697;60186;Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart (Priv. FH);6
 702;60183;AKAD Hochschule Stuttgart (Priv. Fern-FH);6
 705;60152;H für Gestaltung Schwäbisch Gmünd (FH);6
-706;70105;FH für öffentliche Verwaltung Kehl (Verw-FH)  ;7
-707;70110;Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen  (Verw-FH)  ;7
+706;70105;FH für öffentliche Verwaltung Kehl (Verw-FH);7
+707;70110;Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen (Verw-FH)  ;7
 709;60171;SRH Hochschule Heidelberg (Priv. FH);6
 711;60149;H für Forstwirtschaft Rottenburg (FH);6
 712;70115;FH für Rechtspflege Schwetzingen (Verw-FH)  ;7
@@ -465,6 +473,8 @@
 817;60142;Duale Hochschule Baden-Württemberg, Stuttgart (FH);6
 818;71120;Hochschule der Polizei Rheinland-Pfalz in Büchenbeuren (Verw-FH);7
 819;10745;Charlotte Fresenius Hochschule Wiesbaden in Wiesbaden (Priv. U);1
+820;60450;Hochschule für Gesundheitsberufe Eberswalde (HGE) - (Priv. FH)	;6
+821;60150;Europäische Hochschule für Innovation und Perspektive (EHIP), Backnang (Priv. FH);6
 900;89805;Sonstige deutsche Hochschulen;8
 950;89850;Berufsakademie in Deutschland;8
 999;99905;Hochschulen im Ausland;9
@@ -477,7 +487,7 @@ A08;70720;Hochschule des Bundes für öffentliche Verwaltung, Hessen;7
 A09;71510;Hochschule des Bundes für öffentliche Verwaltung, Lübeck;7
 A10;60268;Deutsche Hochschule für Gesundheit und Sport Berlin in Ismaning (Priv. FH);6
 A11;61067;Deutsche Hochschule für Gesundheit und Sport Berlin in Unna (Priv. FH);6
-A12;61073;HS für Medien, Kommunikation und Wirtschaft Berlin in Köln (Priv. FH);6
+A12;61073;Media University of Applied Sciences Berlin, Campus Köln (Priv. FH);6
 A16;60184;VICTORIA - Internationale Hochschule Berlin in Baden Baden (Priv. FH);6
 A21;60369;Hochschule Fresenius Idstein in Berlin (Priv. FH);6
 A22;60835;Europäische FH (EUFH) in Rostock (Priv. FH);6
@@ -491,7 +501,7 @@ A29;60338;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus 
 A30;60672;IB Hochschule für Gesundheit und Soziales Berlin in Hamburg (Priv. FH);6
 A31;60249;IB Hochschule für Gesundheit und Soziales Berlin in München (Priv. FH)  ;6
 A32;60188;IB Hochschule für Gesundheit und Soziales Berlin in Stuttgart (Priv. FH)   ;6
-A33;60758;HS für Medien, Kommunikation und Wirtschaft Berlin in Frankfurt (Priv. FH)  ;6
+A33;60758;Media University of Applied Sciences Berlin, Campus Frankfurt (Priv. FH);6
 A34;60670;BSP Business and Law School - Hochschule für Management und Recht Berlin in Hamburg (Priv. FH) ;6
 A36;60248;Mediadesign Hochschule Berlin in München (Priv. FH);6
 A37;60374;IU Internationale Hochschule Erfurt in Berlin (Priv. FH) ;6
@@ -523,7 +533,7 @@ A63;60680;IU Internationale Hochschule Erfurt in Hamburg (Priv. FH);6
 A64;60780;International School of Management Dortmund in Frankfurt (Priv. FH);6
 A65;60783;IU Internationale Hochschule Erfurt in Frankfurt (Priv. FH);6
 A66;60359;International School of Management Dortmund in Berlin (Priv. FH);6
-A67;60437; University of Europe for Applied Sciences Potsdam in Potsdam (Priv. FH) ;6
+A67;60437;University of Europe for Applied Sciences Potsdam in Potsdam (Priv. FH) ;6
 A68;60667;SRH Berlin University of Applied Sciences in Hamburg (Priv. FH) ;6
 A69;61220;H für Ökonomie und Management Essen in Saarbrücken (Priv. FH)  ;6
 A70;61333;IU Internationale Hochschule Erfurt in Leipzig und Dresden (Priv. FH);6
@@ -538,3 +548,4 @@ A78;10635;Charlotte Fresenius Hochschule Wiesbaden in Hamburg (Priv. U);1
 A79;60424;HSD Hochschule Döpfer Potsdam in Potsdam (Priv. FH);6
 A80;61430;Steinbeis Hochschule in Magdeburg (Priv. FH);6
 A81;11625;HMU Health and Medical University Erfurt in Erfurt (Priv. U);1
+A82;11077;Charlotte Fresenius Hochschule Wiesbaden in Köln (Priv. U);1
