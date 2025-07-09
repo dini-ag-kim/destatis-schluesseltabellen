@@ -1,35 +1,36 @@
-03;;Gymnasium (aHR);1
-06;;Gesamtschule (aHR);1
-17;;Erwerb an einer deutschen Schule im Ausland (aHR);1
-18;;Fachgymnasium (aHR);1
-21;;Berufsoberschule, Fachakademie (aHR);1
-27;;Abendgymnasium/Kolleg (aHR);1
-28;;Fachoberschule (aHR);1
-31;;Studienkolleg (aHR);1
-33;;Begabten-/Eignungsprüfung/Externenprüfung (aHR);1
-34;;Beruflich Qualifizierte (aHR);1
-37;;Sonstige Studienberechtigung (aHR);1
-39;;Allgemeine Hochschulreife (Erwerb im Ausland);1
-43;;Fachgymnasium (fgHR);2
-44;;Berufsoberschule/Fachakademie/Fach- und Ingenieurschule (fgHR);2
-47;;Erwerb an einer deutschen Schule im Ausland (fgHR);2
-48;;Fachoberschule (fgHR);2
-51;;Studienkolleg (fgHR);2
-52;;Begabten-/Eignungsprüfung (fgHR);2
-53;;Beruflich Qualifizierte (fgHR);2
-55;;Sonstige Studienberechtigung (fgHR);2
-59;;Fachgebundene Hochschulreife (Erwerb im Ausland);2
-60;;Gymnasium (FHR);3
-62;;Gesamtschule (FHR);3
-64;;Fachgymnasium (FHR);3
-65;;Berufsoberschule, Fachakademie (FHR);3
-66;;Fachoberschule (FHR);3
-67;;Erwerb an einer deutschen Schule im Ausland (FHR);3
-70;;Abendgymnasium/Kolleg (FHR);3
-71;;Beruflich Qualifizierte (FHR);3
-72;;Berufsfachschule (FHR);3
-73;;Fachschule (FHR);3
-76;;Studienkolleg (FHR);3
-77;;Begabten-/Eignungsprüfung/Externenprüfung (FHR);3
-78;;Sonstige Studienberechtigung (FHR);3
-79;;Fachhochschulreife (Erwerb im Ausland);3
+HZBArt;SortierschlÃ¼ssel;Name;GÃ¼ltig ab;GÃ¼ltig bis;Hochschulreife;
+03;;Gymnasium (aHR);20062;99999;1;
+06;;Gesamtschule (aHR);20062;99999;1;
+17;;Erwerb an einer deutschen Schule im Ausland (aHR);20082;99999;1;
+18;;Fachgymnasium (aHR);20062;99999;1;
+21;;Berufsoberschule, Fachakademie (aHR);20162;99999;1;
+27;;Abendgymnasium/Kolleg (aHR);20162;99999;1;
+28;;Fachoberschule (aHR);20092;99999;1;
+31;;Studienkolleg (aHR);20062;99999;1;
+33;;Begabten-/EignungsprÃ¼fung/ExternenprÃ¼fung (aHR);20162;99999;1;
+34;;Beruflich Qualifizierte (aHR);20062;99999;1;
+37;;Sonstige Studienberechtigung (aHR);20162;99999;1;
+39;;Allgemeine Hochschulreife (Erwerb im Ausland);20062;99999;1;
+43;;Fachgymnasium (fgHR);20062;99999;2;
+44;;Berufsoberschule/Fachakademie/Fach- und Ingenieurschule (fgHR);20162;99999;2;
+47;;Erwerb an einer deutschen Schule im Ausland (fgHR);20082;99999;2;
+48;;Fachoberschule (fgHR);20092;99999;2;
+51;;Studienkolleg (fgHR);20062;99999;2;
+52;;Begabten-/EignungsprÃ¼fung (fgHR);20162;99999;2;
+53;;Beruflich Qualifizierte (fgHR);20062;99999;2;
+55;;Sonstige Studienberechtigung (fgHR);20062;99999;2;
+59;;Fachgebundene Hochschulreife (Erwerb im Ausland);20062;99999;2;
+60;;Gymnasium (FHR);20062;99999;3;
+62;;Gesamtschule (FHR);20062;99999;3;
+64;;Fachgymnasium (FHR);20062;99999;3;
+65;;Berufsoberschule, Fachakademie (FHR);20162;99999;3;
+66;;Fachoberschule (FHR);20062;99999;3;
+67;;Erwerb an einer deutschen Schule im Ausland (FHR);20082;99999;3;
+70;;Abendgymnasium/Kolleg (FHR);20162;99999;3;
+71;;Beruflich Qualifizierte (FHR);20062;99999;3;
+72;;Berufsfachschule (FHR);20062;99999;3;
+73;;Fachschule (FHR);20062;99999;3;
+76;;Studienkolleg (FHR);20062;99999;3;
+77;;Begabten-/EignungsprÃ¼fung/ExternenprÃ¼fung (FHR);20162;99999;3;
+78;;Sonstige Studienberechtigung (FHR);20062;99999;3;
+79;;Fachhochschulreife (Erwerb im Ausland);20062;99999;3;

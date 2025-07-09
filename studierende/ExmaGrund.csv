@@ -1,10 +1,11 @@
-0;;Exmatrikulation aufgrund landesrechtlicher Bestimmungen
-1;;Beendigung des Studiums nach bestandener Prüfung
-2;;Unterbrechung des Studiums
-3;;Beendigung des Studiums ohne Prüfung, da keine mehr möglich
-4;;Hochschulwechsel
-5;;Antritt Freiwilligendienst
-6;;Endgültiger Abbruch des Studiums
-7;;Streichung durch die Hochschule wegen fehlender Rückmeldung bzw. fehlender Krankenversicherung
-8;;Beendigung des Studiums nach endgültig nicht bestandener Prüfung/Vorprüfung
-9;;Sonstige Gründe
+ExmaGrund;SortierschlÃ¼ssel;Name;GÃ¼ltig ab;GÃ¼ltig bis;
+0;;Exmatrikulation aufgrund landesrechtlicher Bestimmungen;20062;99999;
+1;;Beendigung des Studiums nach bestandener PrÃ¼fung;20062;99999;
+2;;Unterbrechung des Studiums;20092;99999;
+3;;Beendigung des Studiums ohne PrÃ¼fung, da keine mehr mÃ¶glich;20062;99999;
+4;;Hochschulwechsel;20062;99999;
+5;;Antritt Freiwilligendienst;20182;99999;
+6;;EndgÃ¼ltiger Abbruch des Studiums;20092;99999;
+7;;Streichung durch die Hochschule wegen fehlender RÃ¼ckmeldung bzw. fehlender Krankenversicherung;20062;99999;
+8;;Beendigung des Studiums nach endgÃ¼ltig nicht bestandener PrÃ¼fung/VorprÃ¼fung;20062;99999;
+9;;Sonstige GrÃ¼nde;20062;99999;

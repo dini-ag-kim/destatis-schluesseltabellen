@@ -1,6 +1,7 @@
-1;;Bund
-2;;Land
-3;;Kommune
-4;;Privat
-5;;Kirchlich
-6;;Sonstige
+HochschulTraeger;Sortierschlüssel;Name;Gültig ab;Gültig bis;
+1;;Bund;20042;99999;
+2;;Land;20042;99999;
+3;;Kommune;20042;99999;
+4;;Privat;20042;99999;
+5;;Kirchlich;20042;99999;
+6;;Sonstige;20042;99999;

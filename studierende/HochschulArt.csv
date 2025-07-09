@@ -1,9 +1,10 @@
-1;;Universit�ten
-3;;P�dagogische Hochschulen
-4;;Theologische Hochschulen
-5;;Kunsthochschulen
-6;;Fachhochschulen (ohne Verwaltungsfachhochschulen)
-7;;Verwaltungsfachhochschulen
-8;;Sonstige Hochschulen
-9;;Hochschulen im Ausland
-B;;Berufsakademien
+HochschulArt;Sortierschlüssel;Name;Gültig ab;Gültig bis;
+1;;Universitäten;20042;99999;
+3;;Pädagogische Hochschulen;20042;99999;
+4;;Theologische Hochschulen;20042;99999;
+5;;Kunsthochschulen;20042;99999;
+6;;Fachhochschulen (ohne Verwaltungsfachhochschulen);20042;99999;
+7;;Verwaltungsfachhochschulen;20042;99999;
+8;;Sonstige Hochschulen;20042;99999;
+9;;Hochschulen im Ausland;20042;99999;
+B;;Berufsakademien;20172;99999;

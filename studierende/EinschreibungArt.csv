@@ -1,6 +1,7 @@
-1;;Ersteinschreibung
-2;;Neueinschreibung
-3;;R�ckmeldung
-4;;Beurlaubung
-5;;Exmatrikulation
-6;;fr�here Exmatrikulation
+EinschreibungArt;Sortierschlüssel;Name;Gültig ab;Gültig bis;
+1;;Ersteinschreibung;20062;99999;
+2;;Neueinschreibung;20062;99999;
+3;;Rückmeldung;20062;99999;
+4;;Beurlaubung;20062;99999;
+5;;Exmatrikulation;20062;99999;
+6;;frühere Exmatrikulation;20062;99999;

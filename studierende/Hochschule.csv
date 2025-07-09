@@ -1,551 +1,562 @@
-001;10725;U Kassel;1
-002;60515;APOLLON H der Gesundheitswirtschaft Bremen (Priv. FH);6
-003;60265;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus München (Priv. FH);6
-004;61074;FH der Diakonie Bielefeld-Bethel (Kirchl. FH);6
-006;60129;Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Mannheim (FH);6
-008;11034;U Duisburg-Essen;1
-012;11060;U Paderborn;1
-013;11065;U Siegen;1
-014;11070;U Wuppertal;1
-015;11040;Fernuniversität Hagen;1
-017;60333;Touro College Berlin (Priv. FH);6
-018;10315;Charite - Universitätsmedizin Berlin;1
-019;10410;Europa-U Viadrina Frankfurt (Oder);1
-020;10320;Humboldt-Universität Berlin;1
-026;10810;U Rostock;1
-027;10805;U Greifswald;1
-030;11405;U Halle;1
-031;11410;U Magdeburg;1
-036;11325;U Leipzig;1
-037;11310;TU Dresden;1
-038;11305;TU Chemnitz;1
-039;11320;TU Bergakademie Freiberg;1
-049;11615;U Jena;1
-050;10210;U Bamberg;1
-051;10215;U Bayreuth;1
-052;10945;U Oldenburg;1
-053;10950;U Osnabrück;1
-054;10250;U Passau;1
-055;10220;Kath. U Eichstätt-Ingolstadt (Kirchl. U);1
-056;40215;Augustana-H Neuendettelsau (Kirchl.-Theol. H);4
-058;11620;Bauhaus-U Weimar;1
-059;11610;TU Ilmenau;1
-062;11605;U Erfurt;1
-063;11345;HHL Leipzig Graduate School of Management (Priv. U);1
-064;11315;TU Dresden (Med. Fakultät);1
-065;11330;U Leipzig (Med. Fakultät);1
-066;10510;Constructor University Bremen gGmbH (Priv. U);1
-067;10330;Europ. School of Management and Technology, Berlin (Priv. U);1
-068;10335;Hertie School of Governance Berlin (Priv. U);1
-069;10615;HafenCity Universität Hamburg;1
-070;60335;bbw Hochschule Berlin (Priv. FH);6
-071;41012;H für Kirchenmusik Herford-Witten (Kirchl.-Theol. H);4
-072;60264;Internationale Hochschule SDI München-Hochschule für angewandte Wissenschaften (Priv. FH)  ;6
-073;61640;SRH FH für Gesundheit Gera (Priv. FH);6
-074;70910;Norddeutsche Hochschule für Rechtspflege Hildesheim (Verw-FH);7
-075;70930;Kommunale H für Verwaltung in Niedersachsen, Hannover (Priv. Verw-FH);7
-076;60347;IB Hochschule für Gesundheit und Soziales Berlin in Berlin (Priv. FH);6
-079;60336;Akkon Hochschule Berlin (Priv. FH);6
-080;10620;Helmut-Schmidt-Universität Hamburg;1
-081;10240;U der Bundeswehr München;1
-082;60352;Deutsche Hochschule für Gesundheit und Sport Berlin in Berlin (Priv. FH);6
-086;61215;Deutsche Hochschule für Prävention und Gesundheitsmanagement, Saarbrücken (Priv. FH);6
-091;11080;Deutsche Hochschule der Polizei, Münster (U) ;1
-093;61047;EBZ Business School Bochum (Priv. FH);6
-094;40720;Freie Theologische H (FTH) Gießen (Priv.-Theol. H) ;4
-095;11530;Universitätsklinikum Schleswig-Holstein;1
-096;10955;Universität Vechta;1
-098;10935;U Hildesheim;1
-099;10940;U Lüneburg;1
-100;11510;U Kiel;1
-101;11515;U Lübeck;1
-102;10605;U Hamburg;1
-103;10915;U Göttingen;1
-104;10610;Technische Universität Hamburg;1
-105;10505;U Bremen;1
-106;10625;Bucerius Law School Hamburg (Priv. U);1
-108;11015;U Bochum;1
-109;11020;U Bonn;1
-110;11030;U Düsseldorf;1
-111;11045;U Köln;1
-112;11055;U Münster;1
-113;11025;TU Dortmund;1
-114;11010;U Bielefeld;1
-115;11050;Deutsche Sporthochschule Köln (U);1
-116;10710;U Frankfurt a.M.;1
-117;10715;U Gießen;1
-118;10730;U Marburg;1
-119;11135;Wissenschaftliche H für Unternehmensführung, Vallendar (Priv. U);1
-120;11130;U Trier;1
-121;11105;Rheinland-Pfälzische Technische Universität;1
-122;11115;U Mainz;1
-123;11125;Deutsche Universität für Verwaltungswissenschaften Speyer;1
-124;10105;U Freiburg i.Br.;1
-125;10110;U Heidelberg;1
-126;10125;U Konstanz;1
-127;10140;U Tübingen;1
-128;10150;Wissenschaftliche H Bierbronnen (Priv. U);1
-129;11110;Universität Koblenz;1
-131;10225;U Erlangen-Nürnberg;1
-132;10230;U München;1
-133;10260;U Würzburg;1
-134;10255;U Regensburg;1
-135;10205;U Augsburg;1
-136;11205;U des Saarlandes Saarbrücken;1
-137;10720;Universitätsklinikum Gießen und Marburg (Priv. H);1
-138;10305;FU Berlin;1
-139;11120;Universitätsmedizin der U Mainz;1
-141;60182;Allensbach Hochschule Konstanz (Priv. FH);6
-143;10905;TU Braunschweig;1
-144;10910;TU Clausthal;1
-145;10920;U Hannover;1
-146;10160;Zeppelin Universität Friedrichshafen (Priv. U);1
-147;11340;DIU-Dresden International University (Priv. U);1
-148;11005;TH Aachen (U);1
-149;11075;Universität Witten-Herdecke (Priv. U);1
-150;61048;H für Finanzwirtschaft & Management Bonn (Priv. FH);6
-151;60765;CVJM-Hochschule Kassel (Priv. FH);6
-152;10350;International Psychoanalytic University Berlin (Priv. U);1
-153;10705;TU Darmstadt;1
-154;10740;EBS U für Wirtschaft und Recht (Priv. U);1
-155;40725;Evangelische Hochschule Tabor in Marburg (Priv.-Theol. H);4
-156;60349;Media University of Applied Sciences Berlin, Campus Berlin (Priv. FH);6
-157;60422;Fachhochschule für Sport und Management Potsdam (Priv. FH);6
-158;10120;Karlsruher Institut für Technologie (KIT) - Bereich Hochschule (U);1
-159;10135;U Stuttgart;1
-160;60367;Quadriga Hochschule Berlin (Priv. FH);6
-163;10235;TU München in München, Straubing, Garching und Weihenstephan;1
-168;61065;CBS International Business School, Campus Köln, Brühl und Neuss (Priv. FH);6
-169;10310;TU Berlin;1
-170;10325;ESCP Europe Wirtschaftshochschule Berlin (Priv. U);1
-171;10245;H für Politik München (U);1
-173;10925;Medizinische H Hannover (U);1
-174;10930;Tierärztliche H Hannover (U);1
-176;60334;BSP Business and Law School - Hochschule für Management und Recht Berlin in Berlin (Priv. FH);6
-177;61011;Hochschule für Gesundheit Bochum (FH);6
-178;60912;Hochschule Weserbergland (HSW), Hameln (Priv. FH);6
-179;60520;IU Internationale Hochschule Erfurt in Bremen (Priv. FH) ;6
-180;10115;U Hohenheim;1
-181;10130;U Mannheim;1
-182;10145;U Ulm;1
-183;10170;Freie Hochschule Stuttgart, Seminar für Waldorfpädagogik (Priv. U);1
-184;10355;Psychologische Hochschule Berlin (Priv. U);1
-185;61365;Fachhochschule Dresden (Priv. FH);6
-187;60647;Brand University Hamburg (Priv. FH);6
-188;60650;MSH Medical School Hamburg (Priv. FH);6
-189;10360;Bard College Berlin, A Liberal Arts University (Priv. U);1
-191;60965;Leibniz - Fachhochschule Hannover (Priv. FH);6
-192;60363;VICTORIA - Internationale Hochschule Berlin in Berlin (Priv. FH);6
-194;60163;Internationale Hochschule Liebenzell (Kirchl. FH);6
-195;61043;Fliedner Fachhochschule Düsseldorf (Priv. FH);6
-196;10630;KLU Kühne Logistics University (Priv. U);1
-197;60175;Hochschule der Wirtschaft für Management (HdWM) Mannheim (Priv. FH);6
-199;60340;Medical School Berlin, H für Gesundheit und Medizin (Priv. FH);6
-200;40710;Theol. Fakultät Fulda (Kirchl.-Theol. H);4
-202;40705;Phil.-Theol. H Frankfurt a.M. (Kirchl.-Theol. H);4
-203;41020;Theol. Fakultät Paderborn (Kirchl.-Theol. H);4
-204;41105;Theol. Fakultät Trier (Kirchl.-Theol. H);4
-205;41110;Vinzenz Pallotti University Vallendar (Kirchl.-Theol. H);4
-206;41025;Kölner H für Katholische Theologie (Kirchl.-Theol. H);4
-208;41015;Phil.-Theol. H Münster (Kirchl.-Theol. H);4
-210;60267;SRH Wilhelm Löhe Hochschule, Fürth (Priv. FH);6
-215;60178;Hochschule Fresenius Heidelberg (Priv. FH);6
-217;40210;H für Philosophie München (Kirchl.-Theol. H);4
-220;60728;Hochschule Geisenheim University (FH);6
-221;60259;HDBW Hochschule der Bayerischen Wirtschaft für angewandte Wissenschaften (Priv. FH);6
-222;40717;Theologische H Ewersbach in Dietzhölztal (Priv.-Theol. H);4
-224;60361;Hochschule für angewandte Pädagogik Berlin (Priv. FH);6
-227;41035;Kirchliche Hochschule Wuppertal (Kirchl.-Theol. H);4
-228;61059;IST-Hochschule für Management Düsseldorf (Priv. FH);6
-229;60364;Berlin International University of Applied Sciences (Priv. FH);6
-230;10175;H für jüdische Studien Heidelberg (Kirchl. U);1
-232;40715;Luth.-Theologische H Oberursel (Kirchl.-Theol. H) ;4
-235;41405;Theol. H Friedensau (Kirchl.-Theol. H);4
-236;60930;FH für Interkulturelle Theologie Hermannsburg (Priv. FH);6
-238;60180;VWA-Hochschule für berufsbegleitendes Studium Stuttgart (Priv. FH);6
-241;60642;Northern Business School Hamburg (Priv. FH);6
-242;10420;Medizinische Hochschule Brandenburg in Neuruppin (Priv. U);1
-243;51040;Alanus H Alfter (Priv. Kunst-H);5
-244;61055;praxisHochschule Köln (Priv. FH);6
-249;51320;Palucca Hochschule für Tanz Dresden (Kunst-H);5
-250;50610;H für Musik und Theater Hamburg (Kunst-H);5
-251;50310;Weißensee Kunsthochschule Berlin (Kunst-H);5
-252;50315;H für Musik Berlin (Kunst-H);5
-253;50910;Hochschule für Musik, Theater und Medien Hannover (Kunst-H);5
-254;50320;H für Schauspielkunst Berlin (Kunst-H);5
-255;10425;Filmuniversität Babelsberg;1
-256;51005;H für Musik Detmold (Kunst-H);5
-257;51020;Folkwang U der Künste Essen (Kunst-H);5
-258;51030;H für Musik und Tanz Köln (Kunst-H);5
-259;51510;Musikhochschule Lübeck (Kunst-H);5
-260;51405;Burg Giebichenstein Kunsthochschule Halle (Kunst-H);5
-261;50505;H für Künste Bremen (Kunst-H);5
-262;50710;H für Musik und Darstellende Kunst Frankfurt a.M. (Kunst-H);5
-263;51305;H für Bildende Künste Dresden (Kunst-H);5
-264;51325;H für Graphik und Buchkunst Leipzig (Kunst-H);5
-265;50105;Staatl. H für Musik Freiburg i.Br. (Kunst-H);5
-266;50125;Staatl. H für Musik und Darstellende Kunst Mannheim (Kunst-H);5
-267;50120;Staatl. H für Musik Karlsruhe (Kunst-H);5
-269;50135;Staatl. H für Musik und Darstellende Kunst Stuttgart (Kunst-H);5
-270;50140;Staatl. H für Musik Trossingen (Kunst-H);5
-271;50230;H für Musik Würzburg (Kunst-H);5
-272;50215;H für Musik und Theater München (Kunst-H);5
-273;50210;H für Fernsehen und Film München (Kunst-H);5
-274;51330;H für Musik und Theater Leipzig (Kunst-H);5
-276;51210;Hochschule für Musik Saarbrücken (Kunst-H);5
-277;51205;H der Bildenden Künste Saarbrücken (Kunst-H);5
-279;50305;U der Künste Berlin (Kunst-H);5
-280;51315;H für Musik Dresden (Kunst-H);5
-281;50605;H für Bildende Künste Hamburg (Kunst-H);5
-283;50905;H für Bildende Künste Braunschweig (Kunst-H);5
-285;51605;H für Musik Weimar (Kunst-H);5
-286;51010;Kunstakademie Düsseldorf (Kunst-H);5
-287;51015;Robert-Schumann-H Düsseldorf (Kunst-H);5
-288;51025;KH für Medien Köln (Kunst-H);5
-289;51035;Kunstakademie Münster (Kunst-H);5
-290;50705;H für Bildende Künste - Städelschule Frankfurt a.M. (Kunst-H);5
-292;50715;H für Gestaltung Offenbach (Kunst-H);5
-293;51310;H für Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden (Kirchl. Kunst-H);5
-294;50115;Staatl. H für Gestaltung Karlsruhe (Kunst-H);5
-295;50110;Staatl. Akademie der Bildenden Künste Karlsruhe (Kunst-H);5
-296;50130;Staatl. Akademie der Bildenden Künste Stuttgart (Kunst-H);5
-298;50205;Akademie der Bildenden Künste München (Kunst-H);5
-299;50220;Akademie der Bildenden Künste Nürnberg (Kunst-H);5
-300;51410;Evang. H für Kirchenmusik Halle (Kirchl. Kunst-H);5
-301;50225;H für Musik Nürnberg (Kunst-H);5
-302;50235;H für evang. Kirchenmusik Bayreuth (Kirchl. Kunst-H);5
-303;50805;H für Musik und Theater Rostock (Kunst-H);5
-304;50240;H für kath. Kirchenmusik und Musikpädagogik, Regensburg (Kirchl. Kunst-H);5
-305;61038;H Ruhr-West (FH) ;6
-306;61034;H Rhein-Waal (FH);6
-307;61022;H Hamm-Lippstadt (FH);6
-308;51045;Hochschule der bildenden Künste (HBK) Essen (Priv. Kunst-H);5
-309;61070;HSD Hochschule Döpfer Potsdam in Köln (Priv. FH);6
-310;11505;EUF Europa-Universität Flensburg;1
-312;60177;Hochschule für Kommunikation und Gestaltung (Priv. FH);6
-313;50330;Barenboim-Said Akademie Berlin (Priv. Kunst-H);5
-314;60357;CODE University of Applied Sciences Berlin (Priv. FH);6
-323;61150;H für Gesellschaftsgestaltung Koblenz (Priv. FH);6
-324;61645;Duale Hochschule Gera-Eisenach (FH);6
-325;60435;Hochschule Clara Hoffbauer Potsdam (Priv. FH);6
-326;61540;DHSH - Duale Hochschule Schleswig-Holstein, Kiel (Priv. FH);6
-327;10365;German International University Berlin (Priv. U);1
-329;10430;HMU Health and Medical University Erfurt in Potsdam (Priv. U);1
-336;60345;Digital Business University Berlin (Priv. FH);6
-337;10227;Technische Universität Nürnberg;1
-343;60608;Berufliche Hochschule Hamburg (FH);6
-349;60440;XU Exponential University Potsdam (Priv. FH);6
-350;10415;U Potsdam;1
-364;60445;GISMA Business School Potsdam (Priv. FH);6
-366;30105;PH Freiburg i.Br.;3
-367;30110;PH Heidelberg;3
-368;30115;PH Karlsruhe;3
-370;30125;PH Schwäbisch Gmünd;3
-371;30120;PH Ludwigsburg;3
-372;60751;UoL-University of Labour Frankfurt (Priv. FH) ;6
-378;30130;PH Weingarten;3
-379;61044;Kolping H, Köln (Priv. FH);6
-388;60748;Tomorrow University of Applied Sciences, Frankfurt a. M. (Priv.FH);6
-389;60355;Humanistische Hochschule Berlin (Priv. FH);6
-390;60162;IFAA Hochschule Ketsch (Priv. FH);6
-393;61550;Promotionskolleg Schleswig-Holstein an der FH Kiel;6
-394;60772;Promotionszentrum Mobilität und Logistik, Frankfurt am Main;6
-395;61037;Promotionskolleg NRW, Bochum (FH);6
-397;10407;Brandenburgische TU Cottbus-Senftenberg;1
-398;60768;Promotionszentrum Soziale Arbeit, Wiesbaden;6
-399;60770;Promotionszentrum Angewandte Informatik, Darmstadt;6
-402;B0610;Berufsakademie Hamburg (Private BA);B
-403;B0705;Akademie für Tonkunst Darmstadt;B
-404;B0710;Berufsakademie Rhein-Main Rödermark (Private BA);B
-405;B0715;Brüder-Grimm-Berufsakademie Hanau (Private BA);B
-406;B0720;Dr. Hoch's Konservatorium - Musikakademie Frankfurt am Main;B
-407;B0725;Europäische Studienakademie Kälte-Klima-Lüftung (ESaK) Maintal (Private BA);B
-408;B0730;Hessische Berufsakademie Frankfurt (Private BA);B
-409;B0760;Internationale Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba) (Private BA);B
-410;B0770;Musikakademie der Stadt Kassel Louis Spohr;B
-411;B0775;Private Berufsakademie Fulda;B
-412;B0785;Wiesbadener Musikakademie (WMA);B
-413;B0910;Berufsakademie Holztechnik Melle (Private BA);B
-414;B0915;Berufsakademie für Bankwirtschaft Hannover-Rastede (Private BA);B
-415;B0920;Berufsakademie für IT und Wirtschaft Oldenburg (Private BA);B
-416;B0925;Berufsakademie Göttingen (Private BA);B
-417;B0930;Berufsakademie Lüneburg (Private BA);B
-419;B0940;Berufsakademie Welfenakademie Braunschweig (Private BA);B
-420;B0615;Berufsakademie Nord GmbH, University of Cooperative Education Hamburg (Private BA);B
-421;B1215;ASW - Berufsakademie Saarland Neunkirchen (Private BA) ;B
-422;B1220;BA GSS - Berufsakademie für Gesundheits- und Sozialwesen Saarland gGmbH, Saarbrücken (Private BA);B
-423;B1225;ISBA gGmbH - Internationale Studien- und Berufsakademie, Saarbrücken (Private BA);B
-424;B1310;Berufsakademie Sachsen - Staatliche Studienakademie;B
-426;B0718;Deutsche Berufsakademie Sport und Gesundheit (dba) in Baunatal (Private BA);B
-427;B0945;Berufsakademie Wilhelmshaven (Private BA);B
-428;B1230;Berufsakademie Heimerer GmbH, Quierschied (Private BA);B
-484;60287;Promotionszentrum Digitale Technologien und ihre Anwendung,  Deggendorf;6
-485;60288;Promotionszentrum Analytics4Health, Coburg;6
-486;60289;Promotionszentrum Ressourceneffizienz und Digitalisierung, Amberg-Weiden;6
-487;60290;Promotionszentrum Künstliche Intelligenz/Informatik, Ingolstadt ;6
-488;60291;Promotionszentrum Ingenieurwissenschaften, Ingolstadt;6
-489;60292;Promotionszentrum Integrales Bauen, München;6
-490;60293;Promotionszentrum DIWAG, Neu-Ulm	;6
-491;60294;Promotionszentrum Angewandte Informatik, Regensburg;6
-492;60295;Promotionszentrum Materialien und Produktionstechnik, Nürnberg;6
-493;60296;Promotionszentrum CARRI, München;6
-494;60438;GU- Deutsche Hochschule für angewandte Wissenschaften, Potsdam (Priv. FH);6
-495;61046;INU - Innovative University of Applied Sciences, Köln (Priv. FH);6
-496;60185;media Akademie - Hochschule Stuttgart (Priv. FH);6
-498;60920;Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH);6
-499;60907;Hochschule Emden/Leer (FH);6
-501;61505;Hochschule Flensburg (FH);6
-502;61515;FH Kiel;6
-503;61520;Technische Hochschule Lübeck (FH);6
-505;61535;FH Wedel (Priv. FH);6
-506;71505;FH für Verwaltung und Dienstleistung Altenholz (Verw-FH)  ;7
-508;51505;Muthesius Kunsthochschule Kiel (Kunst-H);5
-509;61510;FH Westküste, Heide;6
-511;61355;Evangelische Hochschule Dresden (Kirchl. FH);6
-512;61305;H für Technik und Wirtschaft Dresden, Hochschule für angewandte Wissenschaften (FH);6
-513;61310;H für Technik, Wirtschaft und Kultur Leipzig, Hochschule für angewandte Wissenschaften (FH);6
-514;61315;H Mittweida (University of Applied Sciences), Hochschule für angewandte Wissenschaften (FH);6
-515;61320;H Zittau/Görlitz, Hochschule für angewandte Wissenschaften (FH);6
-516;61325;Westsächsische H Zwickau, Hochschule für angewandte Wissenschaften (FH);6
-519;71310;H der Sächsischen Polizei (FH) (Verw-FH);7
-521;60605;H für Angewandte Wissenschaften Hamburg (FH);6
-522;60620;HFH Hamburger Fern-H (Priv. FH);6
-523;60630;Evang. H für Soziale Arbeit und Diakonie, Hamburg (Kirchl. FH);6
-524;70605;Akademie der Polizei Hamburg (Verw-FH);7
-525;61036;FH Südwestfalen;6
-526;60615;Europ. Fern-H Hamburg GmbH Hamburg (Priv. FH);6
-527;60353;Mediadesign Hochschule Berlin in Berlin (Priv. FH);6
-528;61525;Hochschule der Wirtschaft (Nordakademie) Elmshorn (Priv. FH);6
-531;60905;Hochschule Braunschweig-Wolfenbüttel (FH);6
-533;60910;Hochschule Hannover (FH);6
-538;60915;Hochschule Hildesheim/Holzminden/Göttingen (FH);6
-539;60940;Fachhochschule für die Wirtschaft Hannover (FHDW) (Priv. FH);6
-540;60935;Private Hochschule Göttingen (Priv. FH);6
-541;60950;H für Wirtschaft und Technik Vechta/Diepholz (Priv. FH);6
-543;60945;FH Ottersberg (Priv. FH);6
-550;60925;Hochschule Osnabrück (FH);6
-566;60510;H Bremerhaven (FH);6
-567;70505;H für öffentliche Verwaltung Bremen (Verw-FH);7
-568;60505;H Bremen (FH);6
-569;61054;International School of Management Dortmund in Dortmund und Köln (Priv. FH);6
-570;61021;Westfälische H in Gelsenkirchen/Bocholt/Recklinghausen (FH) ;6
-571;61003;FH Aachen;6
-572;61039;IU Intern. Hochschule Erfurt in Bad Honnef,Dortmund,Düsseldorf,Essen,Köln und Münster (Priv. FH);6
-573;61006;Hochschule Bielefeld (FH);6
-575;61009;Hochschule Bochum (FH);6
-577;61015;FH Dortmund;6
-578;61018;H Düsseldorf (FH);6
-580;61063;University of Europe for Applied Sciences Potsdam in Iserlohn (Priv. FH);6
-582;61042;FH des Mittelstandes in Bielefeld, Köln und Frechen (Priv. FH);6
-583;61024;Technische Hochschule Köln (FH) ;6
-584;61033;H Niederrhein (FH);6
-586;61027;TH Ostwestfalen-Lippe in Lemgo/Detmold/Höxter (FH);6
-589;61030;FH Münster;6
-590;61072;FH der Wirtschaft Paderborn (Priv. FH);6
-598;61045;TH Georg Agricola Bochum (Priv. FH);6
-599;61069;Rheinische Hochschule Köln (Priv. FH);6
-600;61075;Evang. Hochschule Rheinland-Westfalen-Lippe, Bochum (Kirchl. FH);6
-603;61078;Kath. Hochschule Nordrhein-Westfalen (Kirchl. FH);6
-607;71015;Hochschule für Polizei und öffentliche Verwaltung NW (Verw-FH);7
-618;71005;FH für Rechtspflege NW in Bad Münstereifel (Verw-FH);7
-619;71010;Hochschule für Finanzen Nordrhein-Westfalen in Nordkirchen (Verw-FH);7
-620;71020;Hochschule des Bundes für öffentliche Verwaltung, Brühl und Münster;7
-621;60705;h_da - H Darmstadt (FH);6
-622;60710;Frankfurt University of Applied Sciences (FH);6
-623;60720;Technische Hochschule Mittelhessen (THM), FH;6
-624;60725;Hochschule RheinMain (FH) ;6
-627;60760;Evangelische Hochschule Darmstadt (EHD), (Kirchl. FH);6
-628;60750;Hochschule Fresenius Idstein in Idstein, Frankfurt und Wiesbaden (Priv. FH);6
-629;60715;Hochschule Fulda (FH);6
-632;70705;FH für Archivwesen Marburg (Verw-FH);7
-633;70710;Hessische Hochschule für Finanzen und Rechtspflege Rotenburg (Verw-FH);7
-634;70715;Hessische Hochschule für öffentliches Management und Sicherheit Wiesbaden (Verw-FH);7
-636;60730;H der Deutschen Gesetzl. Unfallversicherung, Bad Hersfeld (Priv. FH);6
-637;10735;Frankfurt School of Finance & Management-HfB (Priv. U);1
-638;71305;Hochschule Meißen (FH) und Fortbildungszentrum (Verw-FH);7
-639;60740;Wilhelm Büchner Hochschule Darmstadt (Priv. Fern-FH);6
-640;60755;DIPLOMA - FH Nordhessen (Priv. FH);6
-641;61051;Europäische FH (EUFH) in Brühl, Köln, Neuss und Rheine (Priv. FH);6
-643;60430;Theologische Hochschule Elstal (Kirchl. FH);6
-651;61105;Technische Hochschule Bingen (FH);6
-652;61110;Hochschule Kaiserslautern (FH);6
-653;61115;Hochschule Koblenz (FH);6
-658;61130;Hochschule Trier (FH);6
-660;61145;Katholische Hochschule Mainz (Kirchl. FH);6
-662;71110;Hochschule der Deutschen Bundesbank Hachenburg (Verw-FH);7
-663;71115;Hochschule für öffentliche Verwaltung Rheinland-Pfalz (HöV), Mayen;7
-664;71105;Hochschule für Finanzen Rheinland-Pfalz (HFin) in Edenkoben (Verw-FH);7
-665;61120;Hochschule für Wirtschaft und Gesellschaft Ludwigshafen (FH);6
-666;61135;Hochschule Worms (FH);6
-667;61125;Hochschule Mainz (FH);6
-668;60263;Hochschule für angewandtes Management, Ismaning (Priv. FH);6
-669;60745;Provadis School of Intern. Management and Technology, Frankfurt a.M. (Priv. FH);6
-671;60103;Hochschule Aalen - Technik und Wirtschaft (FH);6
-672;60109;H Biberach a. d. Riss (FH);6
-673;60115;H Esslingen (FH);6
-674;60118;H Furtwangen (FH);6
-675;60121;H Heilbronn (FH);6
-676;60124;H Karlsruhe (FH);6
-677;60127;H Konstanz (FH);6
-678;60132;H Mannheim (FH);6
-679;60134;H Nürtingen (FH);6
-680;60137;H Offenburg (FH);6
-681;60140;H Pforzheim (FH);6
-682;60143;H Ravensburg-Weingarten (FH);6
-683;60146;H für Technik und Wirtschaft Reutlingen (FH);6
-684;60106;H Albstadt-Sigmaringen (FH);6
-685;60158;Hochschule für Technik Stuttgart (FH);6
-686;60155;FH Stuttgart, H der Medien;6
-687;60161;Technische Hochschule Ulm (FH);6
-690;60189;Evang. Hochschule Freiburg (Kirchl. FH);6
-691;60198;Kath. Hochschule Freiburg i.Br. (Kirchl. FH);6
-697;60186;Merz Akademie Hochschule für Gestaltung, Kunst und Medien, Stuttgart (Priv. FH);6
-702;60183;AKAD Hochschule Stuttgart (Priv. Fern-FH);6
-705;60152;H für Gestaltung Schwäbisch Gmünd (FH);6
-706;70105;FH für öffentliche Verwaltung Kehl (Verw-FH);7
-707;70110;Hochschule Ludwigsburg für öffentliche Verwaltung und Finanzen (Verw-FH)  ;7
-709;60171;SRH Hochschule Heidelberg (Priv. FH);6
-711;60149;H für Forstwirtschaft Rottenburg (FH);6
-712;70115;FH für Rechtspflege Schwetzingen (Verw-FH)  ;7
-714;70120;Staatl. H für Polizei Villingen-Schwenningen (Verw-FH)  ;7
-718;60179;SRH Fernhochschule, Riedlingen (Priv. FH);6
-719;60195;Evangelische Hochschule Ludwigsburg (Kirchl. FH);6
-721;60213;Technische Hochschule Augsburg (FH);6
-722;60215;Hochschule für angewandte Wissenschaften Coburg (FH);6
-724;60238;Hochschule für angewandte Wissenschaften München (FH);6
-725;60244;Technische Hochschule Nürnberg Georg Simon Ohm (FH);6
-726;60247;Ostbayerische Technische Hochschule Regensburg (FH);6
-730;60250;TH Rosenheim (FH);6
-731;60253;H für angewandte Wissenschaften Weihenstephan-Triesdorf (FH);6
-735;60257;Technische Hochschule Würzburg-Schweinfurt (THWS) (FH);6
-737;60272;Evang. Hochschule Nürnberg (Kirchl. FH);6
-738;60275;Katholische Stiftungshochschule München (Kirchl. FH);6
-744;60231;Hochschule für angewandte Wissenschaften Kempten (FH);6
-745;60234;Hochschule für angewandte Wissenschaften Landshut (FH);6
-746;70205;Hochschule für den öffentlichen Dienst in Bayern (Verw-FH);7
-752;60220;Technische Hochschule Deggendorf (FH);6
-753;60225;Hochschule für angewandte Wissenschaften Hof (FH);6
-754;60228;Technische Hochschule Ingolstadt (FH);6
-755;60203;Ostbayerische Technische Hochschule Amberg-Weiden (FH);6
-756;60206;Hochschule für angewandte Wissenschaften Ansbach (FH);6
-757;60241;Hochschule für angewandte Wissenschaften Neu-Ulm (FH);6
-758;60266;Munich Business School München (Priv. FH);6
-759;60210;TH Aschaffenburg (FH);6
-761;61205;H für Technik und Wirtschaft des Saarlandes Saarbrücken (FH);6
-763;71205;FH für Verwaltung Saarbrücken (Verw-FH);7
-767;60735;accadis Hochschule Bad Homburg (Priv. FH);6
-768;60192;Theologisches Seminar Reutlingen (Kirchl. FH);6
-769;60315;H für Technik und Wirtschaft Berlin (FH);6
-770;60380;Katholische Hochschule für Sozialwesen Berlin (Kirchl. FH);6
-771;60310;Berliner Hochschule für Technik (FH);6
-772;60320;HWR Berlin (FH);6
-773;60305;Alice Salomon Hochschule Berlin (FH);6
-775;60370;Evangelische Hochschule Berlin (Kirchl. FH);6
-778;60805;Hochschule Neubrandenburg (FH);6
-779;60810;Hochschule Stralsund (FH);6
-781;61605;FH Erfurt;6
-782;61610;Ernst-Abbe-Hochschule Jena (FH);6
-783;61620;Hochschule Schmalkalden (FH);6
-784;60815;Hochschule Wismar (FH);6
-785;70410;FH für Finanzen Brandenburg Königs Wusterhausen (Verw-FH);7
-786;71610;Thüringer FH für öffentliche Verwaltung Gotha (Verw-FH)  ;7
-788;61615;Hochschule Nordhausen (FH);6
-789;70405;Hochschule der Polizei Brandenburg in Oranienburg (Verw-FH);7
-790;70805;FH für öffentliche Verwaltung, Polizei und Rechtspflege in Güstrow (Verw-FH);7
-791;60405;Technische Hochschule Brandenburg (FH);6
-792;60410;Hochschule für nachhaltige Entwicklung Eberswalde (FH);6
-794;60425;Technische Hochschule Wildau (FH);6
-795;60420;FH Potsdam;6
-796;10340;Steinbeis Hochschule in Berlin (Priv. U);1
-797;60356;SRH Berlin University of Applied Sciences in Berlin (Priv. FH);6
-799;70610;Norddeutsche Akademie für Finanzen und Steuerrecht Hamburg (Verw-FH);7
-800;61420;Hochschule Merseburg (FH);6
-801;61415;H Magdeburg-Stendal (FH);6
-802;61410;H Harz (FH);6
-803;61405;H Anhalt (FH);6
-806;71405;FH Polizei Sachsen-Anhalt, Aschersleben (Verw-FH)  ;7
-808;61060;SRH Hochschule Nordrhein-Westfalen Hamm (Priv. FH);6
-809;60625;HSBA Hamburg School of Business Admin. (Priv. FH);6
-810;61057;H für Ökonomie und Management Essen (Standorte in Nordrhein-Westfalen), (Priv. FH);6
-811;61012;H Bonn-Rhein-Sieg (FH);6
-814;60927;Hochschule21, Buxtehude (Priv. FH);6
-815;60174;Karlshochschule International University, Karlsruhe (Priv. FH);6
-817;60142;Duale Hochschule Baden-Württemberg, Stuttgart (FH);6
-818;71120;Hochschule der Polizei Rheinland-Pfalz in Büchenbeuren (Verw-FH);7
-819;10745;Charlotte Fresenius Hochschule Wiesbaden in Wiesbaden (Priv. U);1
-820;60450;Hochschule für Gesundheitsberufe Eberswalde (HGE) - (Priv. FH)	;6
-821;60150;Europäische Hochschule für Innovation und Perspektive (EHIP), Backnang (Priv. FH);6
-900;89805;Sonstige deutsche Hochschulen;8
-950;89850;Berufsakademie in Deutschland;8
-999;99905;Hochschulen im Ausland;9
-A01;60262;Hochschule Fresenius Idstein in München (Priv. FH);6
-A02;60645;Hochschule Fresenius Idstein in Hamburg (Priv. FH);6
-A03;61066;Hochschule Fresenius Idstein in Köln und Düsseldorf (Priv. FH);6
-A06;70125;Hochschule des Bundes für öffentliche Verwaltung, Mannheim;7
-A07;70310;Hochschule des Bundes für öffentliche Verwaltung, Berlin;7
-A08;70720;Hochschule des Bundes für öffentliche Verwaltung, Hessen;7
-A09;71510;Hochschule des Bundes für öffentliche Verwaltung, Lübeck;7
-A10;60268;Deutsche Hochschule für Gesundheit und Sport Berlin in Ismaning (Priv. FH);6
-A11;61067;Deutsche Hochschule für Gesundheit und Sport Berlin in Unna (Priv. FH);6
-A12;61073;Media University of Applied Sciences Berlin, Campus Köln (Priv. FH);6
-A16;60184;VICTORIA - Internationale Hochschule Berlin in Baden Baden (Priv. FH);6
-A21;60369;Hochschule Fresenius Idstein in Berlin (Priv. FH);6
-A22;60835;Europäische FH (EUFH) in Rostock (Priv. FH);6
-A23;60944;FH des Mittelstandes (FHM) in Hannover (Priv. FH);6
-A24;60830;FH des Mittelstandes (FHM) in Rostock und Schwerin (Priv. FH);6
-A25;60825;Hochschule für angewandte Wissenschaften der Bundesagentur für Arbeit in Schwerin (FH);6
-A26;60166;H Macromedia für angewandte Wissenschaften Stuttgart, Campus Stuttgart und Freiburg (Priv. FH);6
-A27;61062;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Köln (Priv. FH) ;6
-A28;60678;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Hamburg (Priv. FH)  ;6
-A29;60338;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Berlin (Priv. FH);6
-A30;60672;IB Hochschule für Gesundheit und Soziales Berlin in Hamburg (Priv. FH);6
-A31;60249;IB Hochschule für Gesundheit und Soziales Berlin in München (Priv. FH)  ;6
-A32;60188;IB Hochschule für Gesundheit und Soziales Berlin in Stuttgart (Priv. FH)   ;6
-A33;60758;Media University of Applied Sciences Berlin, Campus Frankfurt (Priv. FH);6
-A34;60670;BSP Business and Law School - Hochschule für Management und Recht Berlin in Hamburg (Priv. FH) ;6
-A36;60248;Mediadesign Hochschule Berlin in München (Priv. FH);6
-A37;60374;IU Internationale Hochschule Erfurt in Berlin (Priv. FH) ;6
-A38;60372;University of Europe for Applied Sciences Potsdam in Berlin (Priv. FH);6
-A39;61338;SRH Berlin University of Applied Sciences in Dresden (Priv. FH);6
-A40;60351;H für Ökonomie und Management Essen in Berlin (Priv. FH);6
-A41;61336;H für Ökonomie und Management Essen in Leipzig (Priv. FH);6
-A42;60775;H für Ökonomie und Management Essen in Kassel und Frankfurt (Priv. FH);6
-A43;60942;H für Ökonomie und Management Essen in Hannover (Priv. FH);6
-A44;60261;H für Ökonomie und Management Essen in Augsburg, München und Nürnberg (Priv. FH);6
-A45;60668;H für Ökonomie und Management Essen in Hamburg (Priv. FH);6
-A46;60525;H für Ökonomie und Management Essen in Bremen (Priv. FH);6
-A47;60164;H für Ökonomie und Management Essen in Karlsruhe, Mannheim und Stuttgart (Priv. FH);6
-A48;60258;FH des Mittelstandes (FHM) in Bamberg (Priv. FH) ;6
-A49;61040;IB Hochschule für Gesundheit und Soziales Berlin in Köln (Priv. FH);6
-A50;61041;Mediadesign Hochschule Berlin in Düsseldorf (Priv. FH)  ;6
-A51;60675;University of Europe for Applied Sciences Potsdam in Hamburg (Priv. FH);6
-A52;61155;CBS International Business School, Campus Mainz (Priv. FH) ;6
-A54;10148;TU München in Heilbronn;1
-A55;60277;IU Internationale Hochschule Erfurt in München, Augsburg und Nürnberg (Priv. FH);6
-A56;60279;International School of Management Dortmund in München (Priv. FH);6
-A57;60168;International School of Management Dortmund in Stuttgart (Priv. FH);6
-A58;60354;FH des Mittelstandes (FHM) in Berlin (Priv. FH) ;6
-A59;60649;International School of Management Dortmund in Hamburg (Priv. FH)  ;6
-A60;60165;IU Internationale Hochschule Erfurt in Freiburg, Mannheim und Stuttgart (Priv. FH) ;6
-A61;61331;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Leipzig (Priv. FH);6
-A62;61650;IU Internationale Hochschule Erfurt in Erfurt (Priv. FH) ;6
-A63;60680;IU Internationale Hochschule Erfurt in Hamburg (Priv. FH);6
-A64;60780;International School of Management Dortmund in Frankfurt (Priv. FH);6
-A65;60783;IU Internationale Hochschule Erfurt in Frankfurt (Priv. FH);6
-A66;60359;International School of Management Dortmund in Berlin (Priv. FH);6
-A67;60437;University of Europe for Applied Sciences Potsdam in Potsdam (Priv. FH) ;6
-A68;60667;SRH Berlin University of Applied Sciences in Hamburg (Priv. FH) ;6
-A69;61220;H für Ökonomie und Management Essen in Saarbrücken (Priv. FH)  ;6
-A70;61333;IU Internationale Hochschule Erfurt in Leipzig und Dresden (Priv. FH);6
-A71;60269;HSD Hochschule Döpfer Potsdam in Regensburg (Priv. FH);6
-A72;60776;Hochschule Macromedia für angewandte Wissenschaften Stuttgart, Campus Frankfurt a. M. (Priv. FH);6
-A73;60358;Europäische FH (EUFH) in Berlin (Priv. FH);6
-A74;61160;IU Internationale Hochschule Erfurt in Mainz (Priv. FH);6
-A75;61545;IU Internationale Hochschule Erfurt in Lübeck (Priv. FH);6
-A76;60933;IU Internationale Hochschule Erfurt in Hannover (Priv. FH);6
-A77;10265;Charlotte Fresenius Hochschule Wiesbaden in München (Priv. U);1
-A78;10635;Charlotte Fresenius Hochschule Wiesbaden in Hamburg (Priv. U);1
-A79;60424;HSD Hochschule Döpfer Potsdam in Potsdam (Priv. FH);6
-A80;61430;Steinbeis Hochschule in Magdeburg (Priv. FH);6
-A81;11625;HMU Health and Medical University Erfurt in Erfurt (Priv. U);1
-A82;11077;Charlotte Fresenius Hochschule Wiesbaden in Köln (Priv. U);1
+Hochschule;SortierschlÃ¼ssel;Name;GÃ¼ltig ab;GÃ¼ltig bis;HochschulArt;
+001;10725;U Kassel;20042;99999;1;
+002;60515;APOLLON H der Gesundheitswirtschaft Bremen (Priv. FH);20102;99999;6;
+003;60265;Hochschule Macromedia fÃ¼r angewandte Wissenschaften Stuttgart, Campus MÃ¼nchen (Priv. FH);20182;99999;6;
+004;61074;FH der Diakonie Bielefeld-Bethel (Kirchl. FH);20171;99999;6;
+006;60129;Hochschule fÃ¼r angewandte Wissenschaften der Bundesagentur fÃ¼r Arbeit in Mannheim (FH);20222;99999;6;
+008;11034;U Duisburg-Essen;20062;99999;1;
+012;11060;U Paderborn;20042;99999;1;
+013;11065;U Siegen;20042;99999;1;
+014;11070;U Wuppertal;20042;99999;1;
+015;11040;FernuniversitÃ¤t Hagen;20042;99999;1;
+017;60333;Touro College Berlin (Priv. FH);20062;99999;6;
+018;10315;Charite - UniversitÃ¤tsmedizin Berlin;20042;99999;1;
+019;10410;Europa-U Viadrina Frankfurt (Oder);20042;99999;1;
+020;10320;Humboldt-UniversitÃ¤t Berlin;20042;99999;1;
+026;10810;U Rostock;20042;99999;1;
+027;10805;U Greifswald;20042;99999;1;
+030;11405;U Halle;20042;99999;1;
+031;11410;U Magdeburg;20042;99999;1;
+036;11325;U Leipzig;20042;99999;1;
+037;11310;TU Dresden;20042;99999;1;
+038;11305;TU Chemnitz;20042;99999;1;
+039;11320;TU Bergakademie Freiberg;20042;99999;1;
+049;11615;U Jena;20042;99999;1;
+050;10210;U Bamberg;20042;99999;1;
+051;10215;U Bayreuth;20042;99999;1;
+052;10945;U Oldenburg;20042;99999;1;
+053;10950;U OsnabrÃ¼ck;20042;99999;1;
+054;10250;U Passau;20042;99999;1;
+055;10220;Kath. U EichstÃ¤tt-Ingolstadt (Kirchl. U);20171;99999;1;
+056;40215;Augustana-H Neuendettelsau (Kirchl.-Theol. H);20171;99999;4;
+058;11620;Bauhaus-U Weimar;20042;99999;1;
+059;11610;TU Ilmenau;20042;99999;1;
+062;11605;U Erfurt;20042;99999;1;
+063;11345;HHL Leipzig Graduate School of Management (Priv. U);20171;99999;1;
+064;11315;TU Dresden (Med. FakultÃ¤t);20042;99999;1;
+065;11330;U Leipzig (Med. FakultÃ¤t);20042;99999;1;
+066;10510;Constructor University Bremen gGmbH (Priv. U);20222;99999;1;
+067;10330;Europ. School of Management and Technology, Berlin (Priv. U);20171;99999;1;
+068;10335;Hertie School of Governance Berlin (Priv. U);20171;99999;1;
+069;10615;HafenCity UniversitÃ¤t Hamburg;20052;99999;1;
+070;60335;bbw Hochschule Berlin (Priv. FH);20092;99999;6;
+071;41012;H fÃ¼r Kirchenmusik Herford-Witten (Kirchl.-Theol. H);20211;99999;4;
+072;60264;Internationale Hochschule SDI MÃ¼nchen-Hochschule fÃ¼r angewandte Wissenschaften (Priv. FH)  ;20192;99999;6;
+073;61640;SRH University of Applied Sciences Heidelberg in Gera (Priv. FH);20242;99999;6;
+074;70910;Norddeutsche Hochschule fÃ¼r Rechtspflege Hildesheim (Verw-FH);20171;99999;7;
+075;70930;Kommunale H fÃ¼r Verwaltung in Niedersachsen, Hannover (Priv. Verw-FH);20171;99999;7;
+076;60347;IB Hochschule fÃ¼r Gesundheit und Soziales Berlin in Berlin (Priv. FH);20192;99999;6;
+079;60336;Akkon Hochschule Berlin (Priv. FH);20171;99999;6;
+080;10620;Helmut-Schmidt-UniversitÃ¤t Hamburg;20042;99999;1;
+081;10240;U der Bundeswehr MÃ¼nchen;20042;99999;1;
+082;60352;Deutsche Hochschule fÃ¼r Gesundheit und Sport Berlin in Berlin (Priv. FH);20181;99999;6;
+086;61215;Deutsche Hochschule fÃ¼r PrÃ¤vention und Gesundheitsmanagement, SaarbrÃ¼cken (Priv. FH);20082;99999;6;
+091;11080;Deutsche Hochschule der Polizei, MÃ¼nster (U) ;20171;99999;1;
+093;61047;EBZ Business School Bochum (Priv. FH);20082;99999;6;
+094;40720;Freie Theologische H (FTH) GieÃŸen (Priv.-Theol. H) ;20171;99999;4;
+095;11530;UniversitÃ¤tsklinikum Schleswig-Holstein;20052;99999;1;
+096;10955;UniversitÃ¤t Vechta;20102;99999;1;
+098;10935;U Hildesheim;20042;99999;1;
+099;10940;U LÃ¼neburg;20042;99999;1;
+100;11510;U Kiel;20042;99999;1;
+101;11515;U LÃ¼beck;20042;99999;1;
+102;10605;U Hamburg;20042;99999;1;
+103;10915;U GÃ¶ttingen;20042;99999;1;
+104;10610;Technische UniversitÃ¤t Hamburg;20191;99999;1;
+105;10505;U Bremen;20042;99999;1;
+106;10625;Bucerius Law School Hamburg (Priv. U);20171;99999;1;
+108;11015;U Bochum;20042;99999;1;
+109;11020;U Bonn;20042;99999;1;
+110;11030;U DÃ¼sseldorf;20042;99999;1;
+111;11045;U KÃ¶ln;20042;99999;1;
+112;11055;U MÃ¼nster;20042;99999;1;
+113;11025;TU Dortmund;20192;99999;1;
+114;11010;U Bielefeld;20042;99999;1;
+115;11050;Deutsche Sporthochschule KÃ¶ln (U);20171;99999;1;
+116;10710;U Frankfurt a.M.;20042;99999;1;
+117;10715;U GieÃŸen;20042;99999;1;
+118;10730;U Marburg;20042;99999;1;
+119;11135;Wissenschaftliche H fÃ¼r UnternehmensfÃ¼hrung, Vallendar (Priv. U);20171;99999;1;
+120;11130;U Trier;20042;99999;1;
+121;11105;Rheinland-PfÃ¤lzische Technische UniversitÃ¤t;20231;99999;1;
+122;11115;U Mainz;20042;99999;1;
+123;11125;Deutsche UniversitÃ¤t fÃ¼r Verwaltungswissenschaften Speyer;20121;99999;1;
+124;10105;U Freiburg i.Br.;20042;99999;1;
+125;10110;U Heidelberg;20042;99999;1;
+126;10125;U Konstanz;20042;99999;1;
+127;10140;U TÃ¼bingen;20042;99999;1;
+128;10150;Wissenschaftliche H Bierbronnen (Priv. U);20171;99999;1;
+129;11110;UniversitÃ¤t Koblenz;20231;99999;1;
+131;10225;U Erlangen-NÃ¼rnberg;20042;99999;1;
+132;10230;U MÃ¼nchen;20042;99999;1;
+133;10260;U WÃ¼rzburg;20042;99999;1;
+134;10255;U Regensburg;20042;99999;1;
+135;10205;U Augsburg;20042;99999;1;
+136;11205;U des Saarlandes SaarbrÃ¼cken;20042;99999;1;
+137;10720;UniversitÃ¤tsklinikum GieÃŸen und Marburg (Priv. H);20171;99999;1;
+138;10305;FU Berlin;20042;99999;1;
+139;11120;UniversitÃ¤tsmedizin der U Mainz;20092;99999;1;
+141;60182;Allensbach Hochschule Konstanz (Priv. FH);20152;99999;6;
+143;10905;TU Braunschweig;20042;99999;1;
+144;10910;TU Clausthal;20042;99999;1;
+145;10920;U Hannover;20042;99999;1;
+146;10160;Zeppelin UniversitÃ¤t Friedrichshafen (Priv. U);20171;99999;1;
+147;11340;DIU-Dresden International University (Priv. U);20171;99999;1;
+148;11005;TH Aachen (U);20171;99999;1;
+149;11075;UniversitÃ¤t Witten-Herdecke (Priv. U);20171;99999;1;
+150;61048;H fÃ¼r Finanzwirtschaft & Management Bonn (Priv. FH);20201;99999;6;
+151;60765;CVJM-Hochschule Kassel (Priv. FH);20091;99999;6;
+152;10350;International Psychoanalytic University Berlin (Priv. U);20171;99999;1;
+153;10705;TU Darmstadt;20042;99999;1;
+154;10740;EBS U fÃ¼r Wirtschaft und Recht (Priv. U);20171;99999;1;
+155;40725;Evangelische Hochschule Tabor in Marburg (Priv.-Theol. H);20171;99999;4;
+156;60349;Media University of Applied Sciences Berlin, Campus Berlin (Priv. FH);20242;99999;6;
+157;60422;Fachhochschule fÃ¼r Sport und Management Potsdam (Priv. FH);20171;99999;6;
+158;10120;Karlsruher Institut fÃ¼r Technologie (KIT) - Bereich Hochschule (U);20171;99999;1;
+159;10135;U Stuttgart;20042;99999;1;
+160;60367;Quadriga Hochschule Berlin (Priv. FH);20101;99999;6;
+163;10235;TU MÃ¼nchen in MÃ¼nchen, Straubing, Garching und Weihenstephan;20182;99999;1;
+168;61065;CBS International Business School, Campus KÃ¶ln und Neuss (Priv. FH);20242;99999;6;
+169;10310;TU Berlin;20042;99999;1;
+170;10325;ESCP Europe Wirtschaftshochschule Berlin (Priv. U);20171;99999;1;
+171;10245;H fÃ¼r Politik MÃ¼nchen (U);20171;99999;1;
+173;10925;Medizinische H Hannover (U);20171;99999;1;
+174;10930;TierÃ¤rztliche H Hannover (U);20171;99999;1;
+176;60334;BSP Business and Law School - Hochschule fÃ¼r Management und Recht Berlin in Berlin (Priv. FH);20192;99999;6;
+178;60912;Hochschule Weserbergland (HSW), Hameln (Priv. FH);20171;99999;6;
+179;60520;IU Internationale Hochschule Erfurt in Bremen (Priv. FH) ;20222;99999;6;
+180;10115;U Hohenheim;20042;99999;1;
+181;10130;U Mannheim;20042;99999;1;
+182;10145;U Ulm;20042;99999;1;
+183;10170;Freie Hochschule Stuttgart, Seminar fÃ¼r WaldorfpÃ¤dagogik (Priv. U);20171;99999;1;
+184;10355;Psychologische Hochschule Berlin (Priv. U);20171;99999;1;
+185;61365;Fachhochschule Dresden (Priv. FH);20102;99999;6;
+187;60647;Brand University Hamburg (Priv. FH);20192;99999;6;
+188;60650;MSH Medical School Hamburg (Priv. FH);20102;99999;6;
+189;10360;Bard College Berlin, A Liberal Arts University (Priv. U);20171;99999;1;
+191;60965;Leibniz - Fachhochschule Hannover (Priv. FH);20112;99999;6;
+192;60363;VICTORIA - Internationale Hochschule Berlin in Berlin (Priv. FH);20202;99999;6;
+194;60163;Internationale Hochschule Liebenzell (Kirchl. FH);20171;99999;6;
+195;61043;Fliedner Fachhochschule DÃ¼sseldorf (Priv. FH);20171;99999;6;
+196;10630;KLU KÃ¼hne Logistics University (Priv. U);20171;99999;1;
+197;60175;Hochschule der Wirtschaft fÃ¼r Management (HdWM) Mannheim (Priv. FH);20112;99999;6;
+199;60340;Medical School Berlin, H fÃ¼r Gesundheit und Medizin (Priv. FH);20122;99999;6;
+200;40710;Theol. FakultÃ¤t Fulda (Kirchl.-Theol. H);20171;99999;4;
+202;40705;Phil.-Theol. H Frankfurt a.M. (Kirchl.-Theol. H);20171;99999;4;
+203;41020;Theol. FakultÃ¤t Paderborn (Kirchl.-Theol. H);20171;99999;4;
+204;41105;Theol. FakultÃ¤t Trier (Kirchl.-Theol. H);20171;99999;4;
+205;41110;Vinzenz Pallotti University Vallendar (Kirchl.-Theol. H);20221;99999;4;
+206;41025;KÃ¶lner H fÃ¼r Katholische Theologie (Kirchl.-Theol. H);20211;99999;4;
+208;41015;Phil.-Theol. H MÃ¼nster (Kirchl.-Theol. H);20171;99999;4;
+210;60267;SRH University of Applied Sciences Heidelberg in FÃ¼rth (Priv. FH);20242;99999;6;
+215;60178;Hochschule Fresenius Heidelberg (Priv. FH);20172;99999;6;
+217;40210;H fÃ¼r Philosophie MÃ¼nchen (Kirchl.-Theol. H);20171;99999;4;
+220;60728;Hochschule Geisenheim University (FH);20131;99999;6;
+221;60259;HDBW Hochschule der Bayerischen Wirtschaft fÃ¼r angewandte Wissenschaften (Priv. FH);20142;99999;6;
+222;40717;Theologische H Ewersbach in DietzhÃ¶lztal (Priv.-Theol. H);20171;99999;4;
+224;60361;Hochschule fÃ¼r Soziale Arbeit und PÃ¤dagogik (HSAP), Berlin (Priv. FH);20241;99999;6;
+227;41035;Kirchliche Hochschule Wuppertal (Kirchl.-Theol. H);20241;99999;4;
+228;61059;IST-Hochschule fÃ¼r Management DÃ¼sseldorf (Priv. FH);20131;99999;6;
+229;60364;Berlin International University of Applied Sciences (Priv. FH);20181;99999;6;
+230;10175;H fÃ¼r jÃ¼dische Studien Heidelberg (Kirchl. U);20171;99999;1;
+232;40715;Luth.-Theologische H Oberursel (Kirchl.-Theol. H) ;20171;99999;4;
+235;41405;Theol. H Friedensau (Kirchl.-Theol. H);20171;99999;4;
+236;60930;FH fÃ¼r Interkulturelle Theologie Hermannsburg (Priv. FH);20171;99999;6;
+238;60180;VWA-Hochschule fÃ¼r berufsbegleitendes Studium Stuttgart (Priv. FH);20181;99999;6;
+241;60642;Northern Business School Hamburg (Priv. FH);20141;99999;6;
+242;10420;Medizinische Hochschule Brandenburg in Neuruppin (Priv. U);20171;99999;1;
+243;51040;Alanus H Alfter (Priv. Kunst-H);20171;99999;5;
+249;51320;Palucca Hochschule fÃ¼r Tanz Dresden (Kunst-H);20171;99999;5;
+250;50610;H fÃ¼r Musik und Theater Hamburg (Kunst-H);20171;99999;5;
+251;50310;WeiÃŸensee Kunsthochschule Berlin (Kunst-H);20212;99999;5;
+252;50315;H fÃ¼r Musik Berlin (Kunst-H);20171;99999;5;
+253;50910;Hochschule fÃ¼r Musik, Theater und Medien Hannover (Kunst-H);20171;99999;5;
+254;50320;H fÃ¼r Schauspielkunst Berlin (Kunst-H);20171;99999;5;
+255;10425;FilmuniversitÃ¤t Babelsberg;20142;99999;1;
+256;51005;H fÃ¼r Musik Detmold (Kunst-H);20171;99999;5;
+257;51020;Folkwang U der KÃ¼nste Essen (Kunst-H);20211;99999;5;
+258;51030;H fÃ¼r Musik und Tanz KÃ¶ln (Kunst-H);20202;99999;5;
+259;51510;Musikhochschule LÃ¼beck (Kunst-H);20171;99999;5;
+260;51405;Burg Giebichenstein Kunsthochschule Halle (Kunst-H);20171;99999;5;
+261;50505;H fÃ¼r KÃ¼nste Bremen (Kunst-H);20171;99999;5;
+262;50710;H fÃ¼r Musik und Darstellende Kunst Frankfurt a.M. (Kunst-H);20171;99999;5;
+263;51305;H fÃ¼r Bildende KÃ¼nste Dresden (Kunst-H);20171;99999;5;
+264;51325;H fÃ¼r Graphik und Buchkunst Leipzig (Kunst-H);20171;99999;5;
+265;50105;Staatl. H fÃ¼r Musik Freiburg i.Br. (Kunst-H);20171;99999;5;
+266;50125;Staatl. H fÃ¼r Musik und Darstellende Kunst Mannheim (Kunst-H);20171;99999;5;
+267;50120;Staatl. H fÃ¼r Musik Karlsruhe (Kunst-H);20171;99999;5;
+269;50135;Staatl. H fÃ¼r Musik und Darstellende Kunst Stuttgart (Kunst-H);20171;99999;5;
+270;50140;Staatl. H fÃ¼r Musik Trossingen (Kunst-H);20171;99999;5;
+271;50230;H fÃ¼r Musik WÃ¼rzburg (Kunst-H);20171;99999;5;
+272;50215;H fÃ¼r Musik und Theater MÃ¼nchen (Kunst-H);20171;99999;5;
+273;50210;H fÃ¼r Fernsehen und Film MÃ¼nchen (Kunst-H);20171;99999;5;
+274;51330;H fÃ¼r Musik und Theater Leipzig (Kunst-H);20171;99999;5;
+276;51210;Hochschule fÃ¼r Musik SaarbrÃ¼cken (Kunst-H);20171;99999;5;
+277;51205;H der Bildenden KÃ¼nste SaarbrÃ¼cken (Kunst-H);20171;99999;5;
+279;50305;U der KÃ¼nste Berlin (Kunst-H);20171;99999;5;
+280;51315;H fÃ¼r Musik Dresden (Kunst-H);20171;99999;5;
+281;50605;H fÃ¼r Bildende KÃ¼nste Hamburg (Kunst-H);20171;99999;5;
+283;50905;H fÃ¼r Bildende KÃ¼nste Braunschweig (Kunst-H);20171;99999;5;
+285;51605;H fÃ¼r Musik Weimar (Kunst-H);20171;99999;5;
+286;51010;Kunstakademie DÃ¼sseldorf (Kunst-H);20171;99999;5;
+287;51015;Robert-Schumann-H DÃ¼sseldorf (Kunst-H);20171;99999;5;
+288;51025;KH fÃ¼r Medien KÃ¶ln (Kunst-H);20171;99999;5;
+289;51035;Kunstakademie MÃ¼nster (Kunst-H);20171;99999;5;
+290;50705;H fÃ¼r Bildende KÃ¼nste - StÃ¤delschule Frankfurt a.M. (Kunst-H);20171;99999;5;
+292;50715;H fÃ¼r Gestaltung Offenbach (Kunst-H);20171;99999;5;
+293;51310;H fÃ¼r Kirchenmusik der Evang.-Luth. Landeskirche Sachsens, Dresden (Kirchl. Kunst-H);20171;99999;5;
+294;50115;Staatl. H fÃ¼r Gestaltung Karlsruhe (Kunst-H);20171;99999;5;
+295;50110;Staatl. Akademie der Bildenden KÃ¼nste Karlsruhe (Kunst-H);20171;99999;5;
+296;50130;Staatl. Akademie der Bildenden KÃ¼nste Stuttgart (Kunst-H);20171;99999;5;
+298;50205;Akademie der Bildenden KÃ¼nste MÃ¼nchen (Kunst-H);20171;99999;5;
+299;50220;Akademie der Bildenden KÃ¼nste NÃ¼rnberg (Kunst-H);20171;99999;5;
+300;51410;Evang. H fÃ¼r Kirchenmusik Halle (Kirchl. Kunst-H);20171;99999;5;
+301;50225;H fÃ¼r Musik NÃ¼rnberg (Kunst-H);20171;99999;5;
+302;50235;H fÃ¼r evang. Kirchenmusik Bayreuth (Kirchl. Kunst-H);20171;99999;5;
+303;50805;H fÃ¼r Musik und Theater Rostock (Kunst-H);20171;99999;5;
+304;50240;H fÃ¼r kath. Kirchenmusik und MusikpÃ¤dagogik, Regensburg (Kirchl. Kunst-H);20171;99999;5;
+305;61038;H Ruhr-West (FH) ;20202;99999;6;
+306;61034;H Rhein-Waal (FH);20202;99999;6;
+307;61022;H Hamm-Lippstadt (FH);20202;99999;6;
+308;51045;Hochschule der bildenden KÃ¼nste (HBK) Essen (Priv. Kunst-H);20181;99999;5;
+309;61070;HSD Hochschule DÃ¶pfer Potsdam in KÃ¶ln (Priv. FH);20222;99999;6;
+310;11505;EUF Europa-UniversitÃ¤t Flensburg;20162;99999;1;
+312;60177;Hochschule fÃ¼r Kommunikation und Gestaltung (Priv. FH);20142;99999;6;
+313;50330;Barenboim-Said Akademie Berlin (Priv. Kunst-H);20171;99999;5;
+314;60357;CODE University of Applied Sciences Berlin (Priv. FH);20172;99999;6;
+323;61150;H fÃ¼r Gesellschaftsgestaltung Koblenz (Priv. FH);20231;99999;6;
+324;61645;Duale Hochschule Gera-Eisenach (FH);20162;99999;6;
+326;61540;DHSH - Duale Hochschule Schleswig-Holstein, Kiel (Priv. FH);20182;99999;6;
+327;10365;German International University Berlin (Priv. U);20192;99999;1;
+329;10430;HMU Health and Medical University Erfurt in Potsdam (Priv. U);20231;99999;1;
+336;60345;Digital Business University Berlin (Priv. FH);20192;99999;6;
+337;10227;Technische UniversitÃ¤t NÃ¼rnberg;20211;99999;1;
+343;60608;Berufliche Hochschule Hamburg (FH);20212;99999;6;
+349;60440;XU Exponential University Potsdam (Priv. FH);20192;99999;6;
+350;10415;U Potsdam;20042;99999;1;
+364;60445;Gisma University of Applied Sciences Potsdam (Priv. FH);20242;99999;6;
+366;30105;PH Freiburg i.Br.;20042;99999;3;
+367;30110;PH Heidelberg;20042;99999;3;
+368;30115;PH Karlsruhe;20042;99999;3;
+370;30125;PH SchwÃ¤bisch GmÃ¼nd;20042;99999;3;
+371;30120;PH Ludwigsburg;20042;99999;3;
+372;60751;UoL-University of Labour Frankfurt (Priv. FH) ;20212;99999;6;
+378;30130;PH Weingarten;20042;99999;3;
+379;61044;Kolping H, KÃ¶ln (Priv. FH);20212;99999;6;
+388;60748;Tomorrow University of Applied Sciences, Frankfurt a. M. (Priv.Fern-FH);20231;99999;6;
+389;60355;Humanistische Hochschule Berlin (Priv. FH);20232;99999;6;
+390;60162;IFAA Hochschule Ketsch (Priv. FH);20232;99999;6;
+391;10417;Medizinische UniversitÃ¤t Lausitz - Carl Thiem (MUL), Cottbus;20242;99999;1;
+393;61550;Promotionskolleg Schleswig-Holstein an der FH Kiel;20232;99999;6;
+394;60772;Promotionszentrum MobilitÃ¤t und Logistik, Frankfurt am Main;20212;99999;6;
+395;61037;Promotionskolleg NRW, Bochum (FH);20222;99999;6;
+397;10407;Brandenburgische TU Cottbus-Senftenberg;20132;99999;1;
+398;60768;Promotionszentrum Soziale Arbeit, Wiesbaden;20202;99999;6;
+399;60770;Promotionszentrum Angewandte Informatik, Darmstadt;20202;99999;6;
+402;B0610;Berufsakademie Hamburg (Private BA);20172;99999;B;
+403;B0705;Akademie fÃ¼r Tonkunst Darmstadt;20172;99999;B;
+404;B0710;Berufsakademie Rhein-Main RÃ¶dermark (Private BA);20172;99999;B;
+405;B0715;BrÃ¼der-Grimm-Berufsakademie Hanau (Private BA);20172;99999;B;
+406;B0720;Dr. Hoch's Konservatorium - Musikakademie Frankfurt am Main;20172;99999;B;
+407;B0725;EuropÃ¤ische Studienakademie KÃ¤lte-Klima-LÃ¼ftung (ESaK) Maintal (Private BA);20172;99999;B;
+408;B0730;Hessische Berufsakademie Frankfurt (Private BA);20172;99999;B;
+409;B0760;Internationale Berufsakademie der F+U Unternehmensgruppe Darmstadt (iba) (Private BA);20172;99999;B;
+410;B0770;Musikakademie der Stadt Kassel Louis Spohr;20172;99999;B;
+411;B0775;Private Berufsakademie Fulda;20172;99999;B;
+412;B0785;Wiesbadener Musikakademie (WMA);20172;99999;B;
+413;B0910;Berufsakademie Holztechnik Melle (Private BA);20172;99999;B;
+414;B0915;Berufsakademie fÃ¼r Bankwirtschaft Hannover-Rastede (Private BA);20172;99999;B;
+415;B0920;Berufsakademie fÃ¼r IT und Wirtschaft Oldenburg (Private BA);20172;99999;B;
+416;B0925;Berufsakademie GÃ¶ttingen (Private BA);20172;99999;B;
+417;B0930;Berufsakademie LÃ¼neburg (Private BA);20172;99999;B;
+419;B0940;Berufsakademie Welfenakademie Braunschweig (Private BA);20172;99999;B;
+420;B0615;Berufsakademie Nord GmbH, University of Cooperative Education Hamburg (Private BA);20212;99999;B;
+421;B1215;ASW - Berufsakademie Saarland Neunkirchen (Private BA) ;20172;99999;B;
+422;B1220;BA GSS - Berufsakademie fÃ¼r Gesundheits- und Sozialwesen Saarland gGmbH, SaarbrÃ¼cken (Private BA);20172;99999;B;
+423;B1225;ISBA gGmbH - Internationale Studien- und Berufsakademie, SaarbrÃ¼cken (Private BA);20172;99999;B;
+426;B0718;Deutsche Berufsakademie Sport und Gesundheit (dba) in Baunatal (Private BA);20172;99999;B;
+427;B0945;Berufsakademie Wilhelmshaven (Private BA);20192;99999;B;
+428;B1230;Berufsakademie Heimerer GmbH, Quierschied (Private BA);20202;99999;B;
+475;60281;Promotionszentrum Advanced Building Technologies, TH Rosenheim;20242;99999;6;
+476;60280;Promotionszentrum NITRO, TH Augsburg;20242;99999;6;
+477;60297;Promotionszentrum Transformation und nachhaltige Entwicklung, HaW Kempten;20242;99999;6;
+478;60282;Promotionszentrum Sustainable Land Use Systems, H Weihenstephan-Triesdorf (FH);20242;99999;6;
+479;60157;Promotionsverband Baden-WÃ¼rttemberg, Stuttgart;20242;99999;6;
+480;60283;Promotionszentrum Energietechnik (PZE), TH NÃ¼rnberg;20242;99999;6;
+481;60284;Promotionszentrum Center for Physical and Biomedical Engineering/HaW MÃ¼nchen;20242;99999;6;
+482;60285;Promotionszentrum Sozial- und Gesundheitswiss. Gestaltung von Transformationsprozessen, Regensburg;20242;99999;6;
+483;60286;Promotionszentrum Nachhaltige und Intelligente Systeme (NISys), WÃ¼rzburg-Schweinfurt;20241;99999;6;
+484;60287;Promotionszentrum Digitale Technologien und ihre Anwendung, Deggendorf;20241;99999;6;
+485;60288;Promotionszentrum Analytics4Health, Coburg;20241;99999;6;
+486;60289;Promotionszentrum Ressourceneffizienz und Digitalisierung, Amberg-Weiden;20241;99999;6;
+487;60290;Promotionszentrum KÃ¼nstliche Intelligenz/Informatik, Ingolstadt ;20232;99999;6;
+488;60291;Promotionszentrum Ingenieurwissenschaften, Ingolstadt;20232;99999;6;
+489;60292;Promotionszentrum Integrales Bauen, MÃ¼nchen;20232;99999;6;
+490;60293;Promotionszentrum DIWAG, Neu-Ulm	;20232;99999;6;
+491;60294;Promotionszentrum Angewandte Informatik, Regensburg;20232;99999;6;
+492;60295;Promotionszentrum Materialien und Produktionstechnik, NÃ¼rnberg;20232;99999;6;
+493;60296;Promotionszentrum CARRI, MÃ¼nchen;20232;99999;6;
+494;60438;GU- Deutsche Hochschule fÃ¼r angewandte Wissenschaften, Potsdam (Priv. FH);20231;99999;6;
+495;61046;INU - Innovative University of Applied Sciences, KÃ¶ln (Priv. FH);20241;99999;6;
+496;60185;media Akademie - Hochschule Stuttgart (Priv. FH);20161;99999;6;
+498;60920;Hochschule Wilhelmshaven/Oldenburg/Elsfleth (FH);20102;99999;6;
+499;60907;Hochschule Emden/Leer (FH);20102;99999;6;
+501;61505;Hochschule Flensburg (FH);20162;99999;6;
+502;61515;FH Kiel;20042;99999;6;
+503;61520;Technische Hochschule LÃ¼beck (FH);20182;99999;6;
+505;61535;FH Wedel (Priv. FH);20171;99999;6;
+506;71505;FH fÃ¼r Verwaltung und Dienstleistung Altenholz (Verw-FH)  ;20171;99999;7;
+508;51505;Muthesius Kunsthochschule Kiel (Kunst-H);20171;99999;5;
+509;61510;FH WestkÃ¼ste, Heide;20042;99999;6;
+511;61355;Evangelische Hochschule Dresden (Kirchl. FH);20171;99999;6;
+512;61305;H fÃ¼r Technik und Wirtschaft Dresden, Hochschule fÃ¼r angewandte Wissenschaften (FH);20171;99999;6;
+513;61310;H fÃ¼r Technik, Wirtschaft und Kultur Leipzig, Hochschule fÃ¼r angewandte Wissenschaften (FH);20171;99999;6;
+514;61315;H Mittweida (University of Applied Sciences), Hochschule fÃ¼r angewandte Wissenschaften (FH);20171;99999;6;
+515;61320;H Zittau/GÃ¶rlitz, Hochschule fÃ¼r angewandte Wissenschaften (FH);20171;99999;6;
+516;61325;WestsÃ¤chsische H Zwickau, Hochschule fÃ¼r angewandte Wissenschaften (FH);20171;99999;6;
+519;71310;H der SÃ¤chsischen Polizei (FH) (Verw-FH);20181;99999;7;
+521;60605;H fÃ¼r Angewandte Wissenschaften Hamburg (FH);20171;99999;6;
+522;60620;HFH Hamburger Fern-H (Priv. FH);20042;99999;6;
+523;60630;Evang. H fÃ¼r Soziale Arbeit und Diakonie, Hamburg (Kirchl. FH);20171;99999;6;
+524;70605;Akademie der Polizei Hamburg (Verw-FH);20171;99999;7;
+525;61036;FH SÃ¼dwestfalen;20042;99999;6;
+526;60615;Europ. Fern-H Hamburg GmbH Hamburg (Priv. FH);20042;99999;6;
+527;60353;Mediadesign Hochschule Berlin in Berlin (Priv. FH);20171;99999;6;
+528;61525;Hochschule der Wirtschaft (Nordakademie) Elmshorn (Priv. FH);20171;99999;6;
+531;60905;Hochschule Braunschweig-WolfenbÃ¼ttel (FH);20102;99999;6;
+533;60910;Hochschule Hannover (FH);20102;99999;6;
+538;60915;Hochschule Hildesheim/Holzminden/GÃ¶ttingen (FH);20102;99999;6;
+539;60940;Fachhochschule fÃ¼r die Wirtschaft Hannover (FHDW) (Priv. FH);20202;99999;6;
+540;60935;Private Hochschule GÃ¶ttingen (Priv. FH);20171;99999;6;
+541;60950;H fÃ¼r Wirtschaft und Technik Vechta/Diepholz (Priv. FH);20182;99999;6;
+543;60945;FH Ottersberg (Priv. FH);20062;99999;6;
+550;60925;Hochschule OsnabrÃ¼ck (FH);20102;99999;6;
+566;60510;H Bremerhaven (FH);20171;99999;6;
+567;70505;H fÃ¼r Ã¶ffentliche Verwaltung Bremen (Verw-FH);20171;99999;7;
+568;60505;H Bremen (FH);20171;99999;6;
+569;61054;International School of Management Dortmund in Dortmund und KÃ¶ln (Priv. FH);20182;99999;6;
+570;61021;WestfÃ¤lische H in Gelsenkirchen/Bocholt/Recklinghausen (FH) ;20211;99999;6;
+571;61003;FH Aachen;20042;99999;6;
+572;61039;IU Intern. Hochschule Erfurt in Bad Honnef,Dortmund,DÃ¼sseldorf,Essen,KÃ¶ln und MÃ¼nster (Priv. FH);20221;99999;6;
+573;61006;Hochschule Bielefeld (FH);20231;99999;6;
+575;61009;Hochschule Bochum (FH);20162;99999;6;
+577;61015;FH Dortmund;20042;99999;6;
+578;61018;H DÃ¼sseldorf (FH);20202;99999;6;
+580;61063;University of Europe for Applied Sciences Potsdam in Iserlohn (Priv. FH);20202;99999;6;
+582;61042;FH des Mittelstandes in Bielefeld, KÃ¶ln und Frechen (Priv. FH);20201;99999;6;
+583;61024;Technische Hochschule KÃ¶ln (FH) ;20192;99999;6;
+584;61033;H Niederrhein (FH);20202;99999;6;
+586;61027;TH Ostwestfalen-Lippe in Lemgo/Detmold/HÃ¶xter (FH);20211;99999;6;
+589;61030;FH MÃ¼nster;20042;99999;6;
+590;61072;FH der Wirtschaft Paderborn (Priv. FH);20212;99999;6;
+598;61045;TH Georg Agricola Bochum (Priv. FH);20211;99999;6;
+599;61069;Rheinische Hochschule KÃ¶ln (Priv. FH);20241;99999;6;
+600;61075;Evang. Hochschule Rheinland-Westfalen-Lippe, Bochum (Kirchl. FH);20171;99999;6;
+603;61078;Kath. Hochschule Nordrhein-Westfalen (Kirchl. FH);20171;99999;6;
+607;71015;Hochschule fÃ¼r Polizei und Ã¶ffentliche Verwaltung NW (Verw-FH);20192;99999;7;
+618;71005;FH fÃ¼r Rechtspflege NW in Bad MÃ¼nstereifel (Verw-FH);20171;99999;7;
+619;71010;Hochschule fÃ¼r Finanzen Nordrhein-Westfalen in Nordkirchen (Verw-FH);20201;99999;7;
+620;71020;Hochschule des Bundes fÃ¼r Ã¶ffentliche Verwaltung, BrÃ¼hl und MÃ¼nster;20171;99999;7;
+621;60705;h_da - H Darmstadt (FH);20062;99999;6;
+622;60710;Frankfurt University of Applied Sciences (FH);20141;99999;6;
+623;60720;Technische Hochschule Mittelhessen (THM), FH;20111;99999;6;
+624;60725;Hochschule RheinMain (FH) ;20092;99999;6;
+627;60760;Evangelische Hochschule Darmstadt (EHD), (Kirchl. FH);20171;99999;6;
+628;60750;Hochschule Fresenius Idstein in Idstein, Frankfurt und Wiesbaden (Priv. FH);20191;99999;6;
+629;60715;Hochschule Fulda (FH);20181;99999;6;
+632;70705;FH fÃ¼r Archivwesen Marburg (Verw-FH);20171;99999;7;
+633;70710;Hessische Hochschule fÃ¼r Finanzen und Rechtspflege Rotenburg (Verw-FH);20171;99999;7;
+634;70715;Hessische Hochschule fÃ¼r Ã¶ffentliches Management und Sicherheit Wiesbaden (Verw-FH);20221;99999;7;
+636;60730;H der Deutschen Gesetzl. Unfallversicherung, Bad Hersfeld (Priv. FH);20091;99999;6;
+637;10735;Frankfurt School of Finance & Management-HfB (Priv. U);20171;99999;1;
+638;71305;Hochschule MeiÃŸen (FH) und Fortbildungszentrum (Verw-FH);20172;99999;7;
+639;60740;Wilhelm BÃ¼chner Hochschule Darmstadt (Priv. Fern-FH);20082;99999;6;
+640;60755;DIPLOMA - FH Nordhessen (Priv. FH);20092;99999;6;
+641;61051;EuropÃ¤ische FH (EUFH) in BrÃ¼hl, KÃ¶ln, Neuss und Rheine (Priv. FH);20182;99999;6;
+643;60430;Theologische Hochschule Elstal (Kirchl. FH);20171;99999;6;
+651;61105;Technische Hochschule Bingen (FH);20162;99999;6;
+652;61110;Hochschule Kaiserslautern (FH);20142;99999;6;
+653;61115;Hochschule Koblenz (FH);20131;99999;6;
+658;61130;Hochschule Trier (FH);20131;99999;6;
+660;61145;Katholische Hochschule Mainz (Kirchl. FH);20171;99999;6;
+662;71110;Hochschule der Deutschen Bundesbank Hachenburg (Priv. Verw-FH);20242;99999;7;
+663;71115;Hochschule fÃ¼r Ã¶ffentliche Verwaltung Rheinland-Pfalz (HÃ¶V), Mayen;20151;99999;7;
+664;71105;Hochschule fÃ¼r Finanzen Rheinland-Pfalz (HFin) in Edenkoben (Verw-FH);20172;99999;7;
+665;61120;Hochschule fÃ¼r Wirtschaft und Gesellschaft Ludwigshafen (FH);20191;99999;6;
+666;61135;Hochschule Worms (FH);20142;99999;6;
+667;61125;Hochschule Mainz (FH);20142;99999;6;
+668;60263;Hochschule fÃ¼r angewandtes Management, Ismaning (Priv. FH);20172;99999;6;
+669;60745;Provadis School of Intern. Management and Technology, Frankfurt a.M. (Priv. FH);20042;99999;6;
+671;60103;Hochschule Aalen - Technik und Wirtschaft (FH);20161;99999;6;
+672;60109;H Biberach a. d. Riss (FH);20171;99999;6;
+673;60115;H Esslingen (FH);20062;99999;6;
+674;60118;H Furtwangen (FH);20171;99999;6;
+675;60121;H Heilbronn (FH);20171;99999;6;
+676;60124;H Karlsruhe (FH);20042;99999;6;
+677;60127;H Konstanz (FH);20171;99999;6;
+678;60132;H Mannheim (FH);20062;99999;6;
+679;60134;H NÃ¼rtingen (FH);20171;99999;6;
+680;60137;H Offenburg (FH);20171;99999;6;
+681;60140;H Pforzheim (FH);20171;99999;6;
+682;60143;H Ravensburg-Weingarten (FH);20171;99999;6;
+683;60146;H fÃ¼r Technik und Wirtschaft Reutlingen (FH);20171;99999;6;
+684;60106;H Albstadt-Sigmaringen (FH);20042;99999;6;
+685;60158;Hochschule fÃ¼r Technik Stuttgart (FH);20151;99999;6;
+686;60155;FH Stuttgart, H der Medien;20042;99999;6;
+687;60161;Technische Hochschule Ulm (FH);20191;99999;6;
+690;60189;Evang. Hochschule Freiburg (Kirchl. FH);20171;99999;6;
+691;60198;Kath. Hochschule Freiburg i.Br. (Kirchl. FH);20171;99999;6;
+697;60186;Merz Akademie Hochschule fÃ¼r Gestaltung, Kunst und Medien, Stuttgart (Priv. FH);20112;99999;6;
+702;60183;AKAD Hochschule Stuttgart (Priv. Fern-FH);20171;99999;6;
+705;60152;H fÃ¼r Gestaltung SchwÃ¤bisch GmÃ¼nd (FH);20171;99999;6;
+706;70105;FH fÃ¼r Ã¶ffentliche Verwaltung Kehl (Verw-FH);20171;99999;7;
+707;70110;Hochschule Ludwigsburg fÃ¼r Ã¶ffentliche Verwaltung und Finanzen (Verw-FH)  ;20212;99999;7;
+709;60171;SRH University of Applied Sciences Heidelberg in Heidelberg, Karlsruhe und Stuttgart (Priv. FH);20242;99999;6;
+711;60149;H fÃ¼r Forstwirtschaft Rottenburg (FH);20062;99999;6;
+712;70115;FH fÃ¼r Rechtspflege Schwetzingen (Verw-FH)  ;20171;99999;7;
+714;70120;Staatl. H fÃ¼r Polizei Villingen-Schwenningen (Verw-FH)  ;20201;99999;7;
+718;60179;SRH Fernhochschule, Riedlingen (Priv. FH);20211;99999;6;
+719;60195;Evangelische Hochschule Ludwigsburg (Kirchl. FH);20181;99999;6;
+721;60213;Technische Hochschule Augsburg (FH);20231;99999;6;
+722;60215;Hochschule fÃ¼r angewandte Wissenschaften Coburg (FH);20182;99999;6;
+724;60238;Hochschule fÃ¼r angewandte Wissenschaften MÃ¼nchen (FH);20182;99999;6;
+725;60244;Technische Hochschule NÃ¼rnberg Georg Simon Ohm (FH);20132;99999;6;
+726;60247;Ostbayerische Technische Hochschule Regensburg (FH);20132;99999;6;
+730;60250;TH Rosenheim (FH);20182;99999;6;
+731;60253;H fÃ¼r angewandte Wissenschaften Weihenstephan-Triesdorf (FH);20182;99999;6;
+735;60257;Technische Hochschule WÃ¼rzburg-Schweinfurt (THWS) (FH);20231;99999;6;
+737;60272;Evang. Hochschule NÃ¼rnberg (Kirchl. FH);20171;99999;6;
+738;60275;Katholische Stiftungshochschule MÃ¼nchen (Kirchl. FH);20172;99999;6;
+744;60231;Hochschule fÃ¼r angewandte Wissenschaften Kempten (FH);20182;99999;6;
+745;60234;Hochschule fÃ¼r angewandte Wissenschaften Landshut (FH);20182;99999;6;
+746;70205;Hochschule fÃ¼r den Ã¶ffentlichen Dienst in Bayern (Verw-FH);20171;99999;7;
+752;60220;Technische Hochschule Deggendorf (FH);20131;99999;6;
+753;60225;Hochschule fÃ¼r angewandte Wissenschaften Hof (FH);20182;99999;6;
+754;60228;Technische Hochschule Ingolstadt (FH);20132;99999;6;
+755;60203;Ostbayerische Technische Hochschule Amberg-Weiden (FH);20132;99999;6;
+756;60206;Hochschule fÃ¼r angewandte Wissenschaften Ansbach (FH);20182;99999;6;
+757;60241;Hochschule fÃ¼r angewandte Wissenschaften Neu-Ulm (FH);20182;99999;6;
+758;60266;Munich Business School MÃ¼nchen (Priv. FH);20042;99999;6;
+759;60210;TH Aschaffenburg (FH);20191;99999;6;
+761;61205;H fÃ¼r Technik und Wirtschaft des Saarlandes SaarbrÃ¼cken (FH);20171;99999;6;
+763;71205;FH fÃ¼r Verwaltung SaarbrÃ¼cken (Verw-FH);20171;99999;7;
+767;60735;accadis Hochschule Bad Homburg (Priv. FH);20091;99999;6;
+768;60192;Theologisches Seminar Reutlingen (Kirchl. FH);20171;99999;6;
+769;60315;H fÃ¼r Technik und Wirtschaft Berlin (FH);20171;99999;6;
+770;60380;Katholische Hochschule fÃ¼r Sozialwesen Berlin (Kirchl. FH);20171;99999;6;
+771;60310;Berliner Hochschule fÃ¼r Technik (FH);20212;99999;6;
+772;60320;HWR Berlin (FH);20171;99999;6;
+773;60305;Alice Salomon Hochschule Berlin (FH);20212;99999;6;
+775;60370;Evangelische Hochschule Berlin (Kirchl. FH);20171;99999;6;
+778;60805;Hochschule Neubrandenburg (FH);20162;99999;6;
+779;60810;Hochschule Stralsund (FH);20162;99999;6;
+781;61605;FH Erfurt;20042;99999;6;
+782;61610;Ernst-Abbe-Hochschule Jena (FH);20142;99999;6;
+783;61620;Hochschule Schmalkalden (FH);20162;99999;6;
+784;60815;Hochschule Wismar (FH);20162;99999;6;
+785;70410;FH fÃ¼r Finanzen Brandenburg KÃ¶nigs Wusterhausen (Verw-FH);20171;99999;7;
+786;71610;ThÃ¼ringer FH fÃ¼r Ã¶ffentliche Verwaltung Gotha (Verw-FH)  ;20171;99999;7;
+788;61615;Hochschule Nordhausen (FH);20162;99999;6;
+789;70405;Hochschule der Polizei Brandenburg in Oranienburg (Verw-FH);20192;99999;7;
+790;70805;FH fÃ¼r Ã¶ffentliche Verwaltung, Polizei und Rechtspflege in GÃ¼strow (Verw-FH);20171;99999;7;
+791;60405;Technische Hochschule Brandenburg (FH);20162;99999;6;
+792;60410;Hochschule fÃ¼r nachhaltige Entwicklung Eberswalde (FH);20102;99999;6;
+794;60425;Technische Hochschule Wildau (FH);20171;99999;6;
+795;60420;FH Potsdam;20042;99999;6;
+796;10340;Steinbeis Hochschule in Berlin (Priv. U);20222;99999;1;
+797;60356;SRH University of Applied Sciences Heidelberg in Berlin (Priv. FH);20242;99999;6;
+799;70610;Norddeutsche Akademie fÃ¼r Finanzen und Steuerrecht Hamburg (Verw-FH);20171;99999;7;
+800;61420;Hochschule Merseburg (FH);20102;99999;6;
+801;61415;H Magdeburg-Stendal (FH);20042;99999;6;
+802;61410;H Harz (FH);20042;99999;6;
+803;61405;H Anhalt (FH);20042;99999;6;
+806;71405;FH Polizei Sachsen-Anhalt, Aschersleben (Verw-FH)  ;20171;99999;7;
+808;61060;SRH University of Applied Sciences Heidelberg in Hamm und KÃ¶ln (Priv. FH);20242;99999;6;
+809;60625;HSBA Hamburg School of Business Admin. (Priv. FH);20052;99999;6;
+810;61057;H fÃ¼r Ã–konomie und Management Essen (Standorte in Nordrhein-Westfalen), (Priv. FH);20171;99999;6;
+811;61012;H Bonn-Rhein-Sieg (FH);20202;99999;6;
+814;60927;Hochschule21, Buxtehude (Priv. FH);20052;99999;6;
+815;60174;Karlshochschule International University, Karlsruhe (Priv. FH);20091;99999;6;
+817;60142;Duale Hochschule Baden-WÃ¼rttemberg, Stuttgart (FH);20142;99999;6;
+818;71120;Hochschule der Polizei Rheinland-Pfalz in BÃ¼chenbeuren (Verw-FH);20171;99999;7;
+819;10745;Charlotte Fresenius Hochschule Wiesbaden in Wiesbaden (Priv. U);20221;99999;1;
+820;60450;Hochschule fÃ¼r Gesundheitsberufe Eberswalde (HGE) - (Priv. FH)	;20232;99999;6;
+821;60150;EuropÃ¤ische Hochschule fÃ¼r Innovation und Perspektive (EHIP), Backnang (Priv. FH);20241;99999;6;
+822;61328;Duale Hochschule Sachsen (FH);20251;99999;6;
+823;10435;German University of Applied Sciences Potsdam (Priv. U);20251;99999;1;
+900;89805;Sonstige deutsche Hochschulen;20042;99999;8;
+950;89850;Berufsakademie in Deutschland;20171;99999;8;
+999;99905;Hochschulen im Ausland;20042;99999;9;
+A01;60262;Hochschule Fresenius Idstein in MÃ¼nchen (Priv. FH);20151;99999;6;
+A02;60645;Hochschule Fresenius Idstein in Hamburg (Priv. FH);20151;99999;6;
+A03;61066;Hochschule Fresenius Idstein in KÃ¶ln und DÃ¼sseldorf (Priv. FH);20161;99999;6;
+A06;70125;Hochschule des Bundes fÃ¼r Ã¶ffentliche Verwaltung, Mannheim;20171;99999;7;
+A07;70310;Hochschule des Bundes fÃ¼r Ã¶ffentliche Verwaltung, Berlin;20171;99999;7;
+A08;70720;Hochschule des Bundes fÃ¼r Ã¶ffentliche Verwaltung, Hessen;20171;99999;7;
+A09;71510;Hochschule des Bundes fÃ¼r Ã¶ffentliche Verwaltung, LÃ¼beck;20171;99999;7;
+A10;60268;Deutsche Hochschule fÃ¼r Gesundheit und Sport Berlin in Ismaning (Priv. FH);20181;99999;6;
+A11;61067;Deutsche Hochschule fÃ¼r Gesundheit und Sport Berlin in Unna (Priv. FH);20181;99999;6;
+A12;61073;Media University of Applied Sciences Berlin, Campus KÃ¶ln (Priv. FH);20242;99999;6;
+A16;60184;VICTORIA - Internationale Hochschule Berlin in Baden Baden (Priv. FH);20202;99999;6;
+A21;60369;Hochschule Fresenius Idstein in Berlin (Priv. FH);20151;99999;6;
+A22;60835;EuropÃ¤ische FH (EUFH) in Rostock (Priv. FH);20171;99999;6;
+A23;60944;FH des Mittelstandes (FHM) in Hannover (Priv. FH);20162;99999;6;
+A24;60830;FH des Mittelstandes (FHM) in Rostock und Schwerin (Priv. FH);20162;99999;6;
+A25;60825;Hochschule fÃ¼r angewandte Wissenschaften der Bundesagentur fÃ¼r Arbeit in Schwerin (FH);20222;99999;6;
+A26;60166;H Macromedia fÃ¼r angewandte Wissenschaften Stuttgart, Campus Stuttgart und Freiburg (Priv. FH);20182;99999;6;
+A27;61062;Hochschule Macromedia fÃ¼r angewandte Wissenschaften Stuttgart, Campus KÃ¶ln (Priv. FH) ;20182;99999;6;
+A28;60678;Hochschule Macromedia fÃ¼r angewandte Wissenschaften Stuttgart, Campus Hamburg (Priv. FH)  ;20182;99999;6;
+A29;60338;Hochschule Macromedia fÃ¼r angewandte Wissenschaften Stuttgart, Campus Berlin (Priv. FH);20182;99999;6;
+A30;60672;IB Hochschule fÃ¼r Gesundheit und Soziales Berlin in Hamburg (Priv. FH);20192;99999;6;
+A31;60249;IB Hochschule fÃ¼r Gesundheit und Soziales Berlin in MÃ¼nchen (Priv. FH)  ;20192;99999;6;
+A32;60188;IB Hochschule fÃ¼r Gesundheit und Soziales Berlin in Stuttgart (Priv. FH)   ;20192;99999;6;
+A33;60758;Media University of Applied Sciences Berlin, Campus Frankfurt (Priv. FH);20242;99999;6;
+A34;60670;BSP Business and Law School - Hochschule fÃ¼r Management und Recht Berlin in Hamburg (Priv. FH) ;20192;99999;6;
+A36;60248;Mediadesign Hochschule Berlin in MÃ¼nchen (Priv. FH);20171;99999;6;
+A37;60374;IU Internationale Hochschule Erfurt in Berlin (Priv. FH) ;20211;99999;6;
+A38;60372;University of Europe for Applied Sciences Potsdam in Berlin (Priv. FH);20202;99999;6;
+A39;61338;SRH University of Applied Sciences Heidelberg in Dresden (Priv. FH);20242;99999;6;
+A40;60351;H fÃ¼r Ã–konomie und Management Essen in Berlin (Priv. FH);20171;99999;6;
+A41;61336;H fÃ¼r Ã–konomie und Management Essen in Leipzig (Priv. FH);20171;99999;6;
+A42;60775;H fÃ¼r Ã–konomie und Management Essen in Kassel und Frankfurt (Priv. FH);20171;99999;6;
+A43;60942;H fÃ¼r Ã–konomie und Management Essen in Hannover (Priv. FH);20171;99999;6;
+A44;60261;H fÃ¼r Ã–konomie und Management Essen in Augsburg, MÃ¼nchen und NÃ¼rnberg (Priv. FH);20171;99999;6;
+A45;60668;H fÃ¼r Ã–konomie und Management Essen in Hamburg (Priv. FH);20171;99999;6;
+A46;60525;H fÃ¼r Ã–konomie und Management Essen in Bremen (Priv. FH);20171;99999;6;
+A47;60164;H fÃ¼r Ã–konomie und Management Essen in Karlsruhe, Mannheim und Stuttgart (Priv. FH);20201;99999;6;
+A48;60258;FH des Mittelstandes (FHM) in Bamberg (Priv. FH) ;20171;99999;6;
+A49;61040;IB Hochschule fÃ¼r Gesundheit und Soziales Berlin in KÃ¶ln (Priv. FH);20192;99999;6;
+A50;61041;Mediadesign Hochschule Berlin in DÃ¼sseldorf (Priv. FH)  ;20171;99999;6;
+A51;60675;University of Europe for Applied Sciences Potsdam in Hamburg (Priv. FH);20202;99999;6;
+A52;61155;CBS International Business School, Campus Mainz (Priv. FH) ;20201;99999;6;
+A54;10148;TU MÃ¼nchen in Heilbronn;20182;99999;1;
+A55;60277;IU Internationale Hochschule Erfurt in MÃ¼nchen, Augsburg und NÃ¼rnberg (Priv. FH);20221;99999;6;
+A56;60279;International School of Management Dortmund in MÃ¼nchen (Priv. FH);20182;99999;6;
+A57;60168;International School of Management Dortmund in Stuttgart (Priv. FH);20181;99999;6;
+A58;60354;FH des Mittelstandes (FHM) in Berlin (Priv. FH) ;20182;99999;6;
+A59;60649;International School of Management Dortmund in Hamburg (Priv. FH)  ;20182;99999;6;
+A60;60165;IU Internationale Hochschule Erfurt in Freiburg, Mannheim und Stuttgart (Priv. FH) ;20222;99999;6;
+A61;61331;Hochschule Macromedia fÃ¼r angewandte Wissenschaften Stuttgart, Campus Leipzig (Priv. FH);20192;99999;6;
+A62;61650;IU Internationale Hochschule Erfurt in Erfurt (Priv. FH) ;20211;99999;6;
+A63;60680;IU Internationale Hochschule Erfurt in Hamburg (Priv. FH);20211;99999;6;
+A64;60780;International School of Management Dortmund in Frankfurt (Priv. FH);20192;99999;6;
+A65;60783;IU Internationale Hochschule Erfurt in Frankfurt (Priv. FH);20211;99999;6;
+A66;60359;International School of Management Dortmund in Berlin (Priv. FH);20202;99999;6;
+A67;60437;University of Europe for Applied Sciences Potsdam in Potsdam (Priv. FH) ;20202;99999;6;
+A68;60667;SRH University of Applied Sciences Heidelberg in Hamburg (Priv. FH) ;20242;99999;6;
+A69;61220;H fÃ¼r Ã–konomie und Management Essen in SaarbrÃ¼cken (Priv. FH)  ;20202;99999;6;
+A70;61333;IU Internationale Hochschule Erfurt in Leipzig und Dresden (Priv. FH);20221;99999;6;
+A71;60269;HSD Hochschule DÃ¶pfer Potsdam in Regensburg (Priv. FH);20222;99999;6;
+A72;60776;Hochschule Macromedia fÃ¼r angewandte Wissenschaften Stuttgart, Campus Frankfurt a. M. (Priv. FH);20212;99999;6;
+A73;60358;EuropÃ¤ische FH (EUFH) in Berlin (Priv. FH);20221;99999;6;
+A74;61160;IU Internationale Hochschule Erfurt in Mainz (Priv. FH);20221;99999;6;
+A75;61545;IU Internationale Hochschule Erfurt in LÃ¼beck (Priv. FH);20221;99999;6;
+A76;60933;IU Internationale Hochschule Erfurt in Hannover (Priv. FH);20222;99999;6;
+A77;10265;Charlotte Fresenius Hochschule Wiesbaden in MÃ¼nchen (Priv. U);20222;99999;1;
+A78;10635;Charlotte Fresenius Hochschule Wiesbaden in Hamburg (Priv. U);20222;99999;1;
+A79;60424;HSD Hochschule DÃ¶pfer Potsdam in Potsdam (Priv. FH);20222;99999;6;
+A80;61430;Steinbeis Hochschule in Magdeburg (Priv. FH);20222;99999;6;
+A81;11625;HMU Health and Medical University Erfurt in Erfurt (Priv. U);20231;99999;1;
+A82;11077;Charlotte Fresenius Hochschule Wiesbaden in KÃ¶ln (Priv. U);20242;99999;1;
+A83;61542;SRH University of Applied Sciences Heidelberg in Heide (Priv. FH);20242;99999;6;
+A84;60530;SRH University of Applied Sciences Heidelberg in Bremen (Priv. FH);20241;99999;6;

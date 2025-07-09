@@ -1,251 +1,252 @@
-000;1001;Deutschland;1;1
-112;1810;Gibraltar (Britisches Überseegebiet);0;1
-113;1820;Guernsey (Britisches Überseegebiet);0;1
-114;1840;Jersey (Britisches Überseegebiet);0;1
-115;1830;Insel Man (Britisches Überseegebiet);0;1
-116;1860;Svalbard und Jan Mayen (u. a. Bäreninsel, Spitzbergen) (Norwegisches Überseegebiet);0;1
-121;1100;Albanien;0;1
-122;1140;Bosnien und Herzegowina;0;1
-123;1120;Andorra;0;1
-124;1005;Belgien;1;1
-125;1007;Bulgarien;1;1
-126;1009;Dänemark;1;1
-127;1013;Estland;1;1
-128;1017;Finnland;1;1
-129;1021;Frankreich;1;1
-130;1035;Kroatien;1;1
-131;1077;Slowenien;1;1
-134;1025;Griechenland;1;1
-135;1029;Irland;1;1
-136;1180;Island;0;1
-137;1033;Italien;1;1
-139;1037;Lettland;1;1
-140;1290;Montenegro;0;1
-141;1220;Liechtenstein;0;1
-142;1041;Litauen;1;1
-143;1045;Luxemburg;1;1
-144;1295;Nordmazedonien;0;1
-145;1049;Malta;1;1
-146;1260;Moldau, Republik;0;1
-147;1280;Monaco;0;1
-148;1053;Niederlande;1;1
-149;1300;Norwegen;0;1
-150;1190;Kosovo;0;1
-151;1057;Österreich;1;1
-152;1061;Polen;1;1
-153;1065;Portugal;1;1
-154;1067;Rumänien;1;1
-155;1073;Slowakei;1;1
-156;1360;San Marino;0;1
-157;1069;Schweden;1;1
-158;1380;Schweiz;0;1
-160;1340;Russische Föderation;0;1
-161;1081;Spanien;1;1
-163;1420;Türkei;0;1
-164;1085;Tschechien;1;1
-165;1089;Ungarn;1;1
-166;1440;Ukraine;0;1
-167;1460;Vatikanstadt;0;1
-168;1470;Vereinigtes Königreich;0;1
-169;1130;Belarus;0;1
-170;1390;Serbien;0;1
-181;1097;Zypern;1;1
-182;1850;Färöer (Dänisches Überseegebiet);0;1
-185;1800;Britisches Überseegebiet außerhalb Europas;0;1
-211;2810;Mayotte (Französisches Überseegebiet);0;2
-214;2820;Réunion (Französisches Überseegebiet);0;2
-216;2830;Spanische Hoheitsplätze in Nordafrika (Spanisches Überseegebiet);0;2
-221;2045;Algerien;0;2
-223;2060;Angola;0;2
-224;2165;Eritrea;0;2
-225;2030;Äthiopien;0;2
-226;2345;Lesotho;0;2
-227;2090;Botsuana;0;2
-229;2075;Benin;0;2
-230;2150;Dschibuti;0;2
-231;2135;Cote d'Ivoire;0;2
-232;2525;Nigeria;0;2
-233;2630;Simbabwe;0;2
-236;2180;Gabun;0;2
-237;2195;Gambia;0;2
-238;2210;Ghana;0;2
-239;2450;Mauretanien;0;2
-242;2130;Cabo Verde;0;2
-243;2285;Kenia;0;2
-244;2300;Komoren;0;2
-245;2330;Kongo, Republik;0;2
-246;2315;Kongo, Dem. Republik;0;2
-247;2360;Liberia;0;2
-248;2375;Libyen;0;2
-249;2390;Madagaskar;0;2
-251;2420;Mali;0;2
-252;2435;Marokko;0;2
-253;2465;Mauritius;0;2
-254;2480;Mosambik;0;2
-255;2510;Niger;0;2
-256;2405;Malawi;0;2
-257;2555;Sambia;0;2
-258;2105;Burkina Faso;0;2
-259;2240;Guinea-Bissau;0;2
-261;2225;Guinea;0;2
-262;2255;Kamerun;0;2
-263;2675;Südafrika;0;2
-265;2540;Ruanda;0;2
-267;2495;Namibia;0;2
-268;2570;Sao Tome und Principe;0;2
-269;2585;Senegal;0;2
-271;2600;Seychellen;0;2
-272;2615;Sierra Leone;0;2
-273;2645;Somalia;0;2
-274;2015;Äquatorialguinea;0;2
-277;2665;Sudan;0;2
-278;2670;Südsudan;0;2
-281;2170;Eswatini;0;2
-282;2705;Tansania, Ver. Republik;0;2
-283;2720;Togo;0;2
-284;2735;Tschad;0;2
-285;2750;Tunesien;0;2
-286;2765;Uganda;0;2
-287;2000;Ägypten;0;2
-289;2780;Zentralafrik. Republik;0;2
-291;2120;Burundi;0;2
-311;3910;Aruba (Niederländisches Überseegebiet);0;3
-315;3940;Französisch-Guayana (Französisches Überseegebiet);0;3
-316;3900;Amerikanische Jungferninseln (US-Überseegebiet);0;3
-317;3945;Guadeloupe (Französisches Überseegebiet);0;3
-319;3950;Martinique (Französisches Überseegebiet);0;3
-320;3000;Antigua und Barbuda;0;3
-321;3920;Curaçao (Niederländisches Überseegebiet);0;3
-322;3075;Barbados;0;3
-323;3025;Argentinien;0;3
-324;3050;Bahamas;0;3
-325;3905;Puerto Rico (US-Überseegebiet);0;3
-326;3125;Bolivien;0;3
-327;3150;Brasilien;0;3
-328;3375;Guyana;0;3
-329;3955;St. Barthélemy (Französisches Überseegebiet);0;3
-330;3100;Belize;0;3
-331;3960;St. Martin (französischer Teil) (Französisches Überseegebiet);0;3
-332;3175;Chile;0;3
-333;3225;Dominica;0;3
-334;3200;Costa Rica;0;3
-335;3250;Dominikanische Republik;0;3
-336;3275;Ecuador;0;3
-337;3300;El Salvador;0;3
-338;3965;St. Pierre und Miquelon (Französisches Überseegebiet);0;3
-340;3325;Grenada;0;3
-341;3925;St. Martin (niederländischer Teil) (Niederländisches Überseegebiet);0;3
-342;3930;Grönland (Dänisches Überseegebiet);0;3
-343;3970;Navassa (US-Überseegebiet);0;3
-344;3915;Bonaire, Saba, St. Eustatius (Niederländisches Überseegebiet);0;3
-345;3350;Guatemala;0;3
-346;3400;Haiti;0;3
-347;3425;Honduras;0;3
-348;3475;Kanada;0;3
-349;3500;Kolumbien;0;3
-351;3525;Kuba;0;3
-352;3935;Clipperton (Französisches Überseegebiet);0;3
-353;3550;Mexiko;0;3
-354;3575;Nicaragua;0;3
-355;3450;Jamaika;0;3
-357;3600;Panama;0;3
-359;3625;Paraguay;0;3
-361;3650;Peru;0;3
-364;3750;Suriname;0;3
-365;3800;Uruguay;0;3
-366;3700;St. Lucia;0;3
-367;3825;Venezuela;0;3
-368;3850;Vereinigte Staaten;0;3
-369;3725;St. Vincent und die Grenadinen;0;3
-370;3675;St. Kitts und Nevis;0;3
-371;3775;Trinidad und Tobago;0;3
-411;4170;Hongkong;0;4
-412;4510;Macau;0;4
-421;4300;Jemen;0;4
-422;4020;Armenien;0;4
-423;4000;Afghanistan;0;4
-424;4060;Bahrain;0;4
-425;4040;Aserbaidschan;0;4
-426;4100;Bhutan;0;4
-427;4580;Myanmar;0;4
-429;4120;Brunei Darussalam;0;4
-430;4160;Georgien;0;4
-431;4740;Sri Lanka;0;4
-432;4900;Vietnam;0;4
-434;4420;Korea, Dem. Volksrepublik;0;4
-436;4180;Indien;0;4
-437;4200;Indonesien;0;4
-438;4220;Irak;0;4
-439;4240;Iran, Islamische Republik;0;4
-441;4260;Israel;0;4
-442;4280;Japan;0;4
-444;4360;Kasachstan;0;4
-445;4320;Jordanien;0;4
-446;4340;Kambodscha;0;4
-447;4380;Katar;0;4
-448;4460;Kuwait;0;4
-449;4480;Laos, Dem. Volksrepublik;0;4
-450;4400;Kirgisistan;0;4
-451;4500;Libanon;0;4
-454;4540;Malediven;0;4
-456;4620;Oman;0;4
-457;4560;Mongolei;0;4
-458;4600;Nepal;0;4
-459;4950;Palästinensische Gebiete;0;4
-460;4080;Bangladesch;0;4
-461;4660;Pakistan;0;4
-462;4680;Philippinen;0;4
-465;4800;Taiwan;0;4
-467;4440;Korea, Republik;0;4
-469;4880;Vereinigte Arabische Emirate;0;4
-470;4780;Tadschikistan;0;4
-471;4840;Turkmenistan;0;4
-472;4700;Saudi-Arabien;0;4
-474;4720;Singapur;0;4
-475;4760;Syrien, Arab. Republik;0;4
-476;4820;Thailand;0;4
-477;4860;Usbekistan;0;4
-479;4140;China;0;4
-482;4520;Malaysia;0;4
-483;4830;Timor-Leste;0;4
-499;4980;Übriges Asien;0;4
-510;5865;Heard und McDonaldinseln (Australisches Überseegebiet);0;5
-511;5875;Korallenmeerinseln (Australisches Überseegebiet);0;5
-512;5870;Kokosinseln (Australisches Überseegebiet);0;5
-513;5900;Neukaledonien (Französisches Überseegebiet);0;5
-514;5835;Nördliche Marianen (US-Überseegebiet);0;5
-515;5880;Norfolkinsel (Australisches Überseegebiet);0;5
-517;5820;Amerikanisch-Samoa (US-Überseegebiet);0;5
-519;5815;Tokelau (Neuseeländisches Überseegebiet);0;5
-520;5905;Wallis und Futuna (Französisches Überseegebiet);0;5
-521;5885;Weihnachtsinsel (Australisches Überseegebiet);0;5
-522;5845;Bouvetinsel (Norwegisches Überseegebiet);0;5
-523;5000;Australien;0;5
-524;5550;Salomonen;0;5
-525;5855;Ashmore- und Cartierinseln (Australisches Überseegebiet);0;5
-526;5100;Fidschi;0;5
-527;5050;Cookinseln;0;5
-528;5890;Französisch-Polynesien (Französisches Überseegebiet);0;5
-529;5825;Guam (US-Überseegebiet);0;5
-530;5150;Kiribati;0;5
-531;5300;Nauru;0;5
-532;5750;Vanuatu;0;5
-533;5400;Niue;0;5
-534;5840;Kleinere Amerikanische Überseeinseln (US-Überseegebiet);0;5
-535;5850;Norwegisches Antarktis-Territorium (Norwegisches Überseegebiet);0;5
-536;5350;Neuseeland;0;5
-537;5450;Palau;0;5
-538;5500;Papua-Neuguinea;0;5
-540;5700;Tuvalu;0;5
-541;5650;Tonga;0;5
-542;5895;Französische Süd- und Antarktisgebiete (Französisches Überseegebiet);0;5
-543;5600;Samoa;0;5
-544;5200;Marshallinseln;0;5
-545;5250;Mikronesien;0;5
-546;5805;Chilenische Antarktis (Chilenisches Überseegebiet);0;5
-547;5860;Australisches Antarktis-Territorium (Australisches Überseegebiet);0;5
-548;5800;Argentinische Antarktis (Argentinisches Überseegebiet);0;5
-549;5810;Neuseeländische Antarktis: Ross-Nebengebiet (Neuseeländisches Überseegebiet);0;5
-997;9000;Staatenlos;0;9
-998;9200;Ungeklärt;0;9
-999;9400;Ohne Angabe;0;9
+Staat;SortierschlÃ¼ssel;Name;GÃ¼ltig ab;GÃ¼ltig bis;Kontinent;Mitglied der EU;
+000;1001;Deutschland;20042;99999;1;1;
+112;1810;Gibraltar (Britisches Ãœberseegebiet);20142;99999;1;0;
+113;1820;Guernsey (Britisches Ãœberseegebiet);20142;99999;1;0;
+114;1840;Jersey (Britisches Ãœberseegebiet);20142;99999;1;0;
+115;1830;Insel Man (Britisches Ãœberseegebiet);20142;99999;1;0;
+116;1860;Svalbard und Jan Mayen (u. a. BÃ¤reninsel, Spitzbergen) (Norwegisches Ãœberseegebiet);20142;99999;1;0;
+121;1100;Albanien;20042;99999;1;0;
+122;1140;Bosnien und Herzegowina;20042;99999;1;0;
+123;1120;Andorra;20042;99999;1;0;
+124;1005;Belgien;20042;99999;1;1;
+125;1007;Bulgarien;20071;99999;1;1;
+126;1009;DÃ¤nemark;20042;99999;1;1;
+127;1013;Estland;20042;99999;1;1;
+128;1017;Finnland;20042;99999;1;1;
+129;1021;Frankreich;20042;99999;1;1;
+130;1035;Kroatien;20132;99999;1;1;
+131;1077;Slowenien;20042;99999;1;1;
+134;1025;Griechenland;20042;99999;1;1;
+135;1029;Irland;20042;99999;1;1;
+136;1180;Island;20042;99999;1;0;
+137;1033;Italien;20042;99999;1;1;
+139;1037;Lettland;20042;99999;1;1;
+140;1290;Montenegro;20062;99999;1;0;
+141;1220;Liechtenstein;20042;99999;1;0;
+142;1041;Litauen;20042;99999;1;1;
+143;1045;Luxemburg;20042;99999;1;1;
+144;1295;Nordmazedonien;20191;99999;1;0;
+145;1049;Malta;20042;99999;1;1;
+146;1260;Moldau, Republik;20042;99999;1;0;
+147;1280;Monaco;20042;99999;1;0;
+148;1053;Niederlande;20042;99999;1;1;
+149;1300;Norwegen;20042;99999;1;0;
+150;1190;Kosovo;20082;99999;1;0;
+151;1057;Ã–sterreich;20042;99999;1;1;
+152;1061;Polen;20042;99999;1;1;
+153;1065;Portugal;20042;99999;1;1;
+154;1067;RumÃ¤nien;20071;99999;1;1;
+155;1073;Slowakei;20042;99999;1;1;
+156;1360;San Marino;20042;99999;1;0;
+157;1069;Schweden;20042;99999;1;1;
+158;1380;Schweiz;20042;99999;1;0;
+160;1340;Russische FÃ¶deration;20042;99999;1;0;
+161;1081;Spanien;20042;99999;1;1;
+163;1420;TÃ¼rkei;20042;99999;1;0;
+164;1085;Tschechien;20181;99999;1;1;
+165;1089;Ungarn;20042;99999;1;1;
+166;1440;Ukraine;20042;99999;1;0;
+167;1460;Vatikanstadt;20042;99999;1;0;
+168;1470;Vereinigtes KÃ¶nigreich;20201;99999;1;0;
+169;1130;Belarus;20221;99999;1;0;
+170;1390;Serbien;20092;99999;1;0;
+181;1097;Zypern;20042;99999;1;1;
+182;1850;FÃ¤rÃ¶er (DÃ¤nisches Ãœberseegebiet);20142;99999;1;0;
+185;1800;Britisches Ãœberseegebiet auÃŸerhalb Europas;20142;99999;1;0;
+211;2810;Mayotte (FranzÃ¶sisches Ãœberseegebiet);20142;99999;2;0;
+214;2820;RÃ©union (FranzÃ¶sisches Ãœberseegebiet);20142;99999;2;0;
+216;2830;Spanische HoheitsplÃ¤tze in Nordafrika (Spanisches Ãœberseegebiet);20142;99999;2;0;
+221;2045;Algerien;20042;99999;2;0;
+223;2060;Angola;20042;99999;2;0;
+224;2165;Eritrea;20042;99999;2;0;
+225;2030;Ã„thiopien;20042;99999;2;0;
+226;2345;Lesotho;20042;99999;2;0;
+227;2090;Botsuana;20042;99999;2;0;
+229;2075;Benin;20042;99999;2;0;
+230;2150;Dschibuti;20042;99999;2;0;
+231;2135;Cote d'Ivoire;20042;99999;2;0;
+232;2525;Nigeria;20042;99999;2;0;
+233;2630;Simbabwe;20042;99999;2;0;
+236;2180;Gabun;20042;99999;2;0;
+237;2195;Gambia;20042;99999;2;0;
+238;2210;Ghana;20042;99999;2;0;
+239;2450;Mauretanien;20042;99999;2;0;
+242;2130;Cabo Verde;20221;99999;2;0;
+243;2285;Kenia;20042;99999;2;0;
+244;2300;Komoren;20042;99999;2;0;
+245;2330;Kongo, Republik;20042;99999;2;0;
+246;2315;Kongo, Dem. Republik;20042;99999;2;0;
+247;2360;Liberia;20042;99999;2;0;
+248;2375;Libyen;20042;99999;2;0;
+249;2390;Madagaskar;20042;99999;2;0;
+251;2420;Mali;20042;99999;2;0;
+252;2435;Marokko;20042;99999;2;0;
+253;2465;Mauritius;20042;99999;2;0;
+254;2480;Mosambik;20042;99999;2;0;
+255;2510;Niger;20042;99999;2;0;
+256;2405;Malawi;20042;99999;2;0;
+257;2555;Sambia;20042;99999;2;0;
+258;2105;Burkina Faso;20042;99999;2;0;
+259;2240;Guinea-Bissau;20042;99999;2;0;
+261;2225;Guinea;20042;99999;2;0;
+262;2255;Kamerun;20042;99999;2;0;
+263;2675;SÃ¼dafrika;20042;99999;2;0;
+265;2540;Ruanda;20042;99999;2;0;
+267;2495;Namibia;20042;99999;2;0;
+268;2570;Sao Tome und Principe;20042;99999;2;0;
+269;2585;Senegal;20042;99999;2;0;
+271;2600;Seychellen;20042;99999;2;0;
+272;2615;Sierra Leone;20042;99999;2;0;
+273;2645;Somalia;20042;99999;2;0;
+274;2015;Ã„quatorialguinea;20042;99999;2;0;
+277;2665;Sudan;20111;99999;2;0;
+278;2670;SÃ¼dsudan;20111;99999;2;0;
+281;2170;Eswatini;20221;99999;2;0;
+282;2705;Tansania, Ver. Republik;20042;99999;2;0;
+283;2720;Togo;20042;99999;2;0;
+284;2735;Tschad;20042;99999;2;0;
+285;2750;Tunesien;20042;99999;2;0;
+286;2765;Uganda;20042;99999;2;0;
+287;2000;Ã„gypten;20042;99999;2;0;
+289;2780;Zentralafrik. Republik;20042;99999;2;0;
+291;2120;Burundi;20042;99999;2;0;
+311;3910;Aruba (NiederlÃ¤ndisches Ãœberseegebiet);20142;99999;3;0;
+315;3940;FranzÃ¶sisch-Guayana (FranzÃ¶sisches Ãœberseegebiet);20142;99999;3;0;
+316;3900;Amerikanische Jungferninseln (US-Ãœberseegebiet);20142;99999;3;0;
+317;3945;Guadeloupe (FranzÃ¶sisches Ãœberseegebiet);20142;99999;3;0;
+319;3950;Martinique (FranzÃ¶sisches Ãœberseegebiet);20142;99999;3;0;
+320;3000;Antigua und Barbuda;20042;99999;3;0;
+321;3920;CuraÃ§ao (NiederlÃ¤ndisches Ãœberseegebiet);20142;99999;3;0;
+322;3075;Barbados;20042;99999;3;0;
+323;3025;Argentinien;20042;99999;3;0;
+324;3050;Bahamas;20042;99999;3;0;
+325;3905;Puerto Rico (US-Ãœberseegebiet);20142;99999;3;0;
+326;3125;Bolivien;20042;99999;3;0;
+327;3150;Brasilien;20042;99999;3;0;
+328;3375;Guyana;20042;99999;3;0;
+329;3955;St. BarthÃ©lemy (FranzÃ¶sisches Ãœberseegebiet);20142;99999;3;0;
+330;3100;Belize;20042;99999;3;0;
+331;3960;St. Martin (franzÃ¶sischer Teil) (FranzÃ¶sisches Ãœberseegebiet);20172;99999;3;0;
+332;3175;Chile;20042;99999;3;0;
+333;3225;Dominica;20042;99999;3;0;
+334;3200;Costa Rica;20042;99999;3;0;
+335;3250;Dominikanische Republik;20042;99999;3;0;
+336;3275;Ecuador;20042;99999;3;0;
+337;3300;El Salvador;20042;99999;3;0;
+338;3965;St. Pierre und Miquelon (FranzÃ¶sisches Ãœberseegebiet);20142;99999;3;0;
+340;3325;Grenada;20042;99999;3;0;
+341;3925;St. Martin (niederlÃ¤ndischer Teil) (NiederlÃ¤ndisches Ãœberseegebiet);20142;99999;3;0;
+342;3930;GrÃ¶nland (DÃ¤nisches Ãœberseegebiet);20142;99999;3;0;
+343;3970;Navassa (US-Ãœberseegebiet);20142;99999;3;0;
+344;3915;Bonaire, Saba, St. Eustatius (NiederlÃ¤ndisches Ãœberseegebiet);20142;99999;3;0;
+345;3350;Guatemala;20042;99999;3;0;
+346;3400;Haiti;20042;99999;3;0;
+347;3425;Honduras;20042;99999;3;0;
+348;3475;Kanada;20042;99999;3;0;
+349;3500;Kolumbien;20042;99999;3;0;
+351;3525;Kuba;20042;99999;3;0;
+352;3935;Clipperton (FranzÃ¶sisches Ãœberseegebiet);20142;99999;3;0;
+353;3550;Mexiko;20042;99999;3;0;
+354;3575;Nicaragua;20042;99999;3;0;
+355;3450;Jamaika;20042;99999;3;0;
+357;3600;Panama;20042;99999;3;0;
+359;3625;Paraguay;20042;99999;3;0;
+361;3650;Peru;20042;99999;3;0;
+364;3750;Suriname;20042;99999;3;0;
+365;3800;Uruguay;20042;99999;3;0;
+366;3700;St. Lucia;20042;99999;3;0;
+367;3825;Venezuela;20042;99999;3;0;
+368;3850;Vereinigte Staaten;20042;99999;3;0;
+369;3725;St. Vincent und die Grenadinen;20042;99999;3;0;
+370;3675;St. Kitts und Nevis;20042;99999;3;0;
+371;3775;Trinidad und Tobago;20042;99999;3;0;
+411;4170;Hongkong;20142;99999;4;0;
+412;4510;Macau;20142;99999;4;0;
+421;4300;Jemen;20042;99999;4;0;
+422;4020;Armenien;20042;99999;4;0;
+423;4000;Afghanistan;20042;99999;4;0;
+424;4060;Bahrain;20042;99999;4;0;
+425;4040;Aserbaidschan;20042;99999;4;0;
+426;4100;Bhutan;20042;99999;4;0;
+427;4580;Myanmar;20042;99999;4;0;
+429;4120;Brunei Darussalam;20042;99999;4;0;
+430;4160;Georgien;20042;99999;4;0;
+431;4740;Sri Lanka;20042;99999;4;0;
+432;4900;Vietnam;20042;99999;4;0;
+434;4420;Korea, Dem. Volksrepublik;20042;99999;4;0;
+436;4180;Indien;20042;99999;4;0;
+437;4200;Indonesien;20042;99999;4;0;
+438;4220;Irak;20042;99999;4;0;
+439;4240;Iran, Islamische Republik;20042;99999;4;0;
+441;4260;Israel;20042;99999;4;0;
+442;4280;Japan;20042;99999;4;0;
+444;4360;Kasachstan;20042;99999;4;0;
+445;4320;Jordanien;20042;99999;4;0;
+446;4340;Kambodscha;20042;99999;4;0;
+447;4380;Katar;20042;99999;4;0;
+448;4460;Kuwait;20042;99999;4;0;
+449;4480;Laos, Dem. Volksrepublik;20042;99999;4;0;
+450;4400;Kirgisistan;20042;99999;4;0;
+451;4500;Libanon;20042;99999;4;0;
+454;4540;Malediven;20042;99999;4;0;
+456;4620;Oman;20042;99999;4;0;
+457;4560;Mongolei;20042;99999;4;0;
+458;4600;Nepal;20042;99999;4;0;
+459;4950;PalÃ¤stinensische Gebiete;20132;99999;4;0;
+460;4080;Bangladesch;20042;99999;4;0;
+461;4660;Pakistan;20042;99999;4;0;
+462;4680;Philippinen;20042;99999;4;0;
+465;4800;Taiwan;20132;99999;4;0;
+467;4440;Korea, Republik;20042;99999;4;0;
+469;4880;Vereinigte Arabische Emirate;20042;99999;4;0;
+470;4780;Tadschikistan;20042;99999;4;0;
+471;4840;Turkmenistan;20042;99999;4;0;
+472;4700;Saudi-Arabien;20042;99999;4;0;
+474;4720;Singapur;20042;99999;4;0;
+475;4760;Syrien, Arab. Republik;20042;99999;4;0;
+476;4820;Thailand;20042;99999;4;0;
+477;4860;Usbekistan;20042;99999;4;0;
+479;4140;China;20132;99999;4;0;
+482;4520;Malaysia;20042;99999;4;0;
+483;4830;Timor-Leste;20072;99999;4;0;
+499;4980;Ãœbriges Asien;20132;99999;4;0;
+510;5865;Heard und McDonaldinseln (Australisches Ãœberseegebiet);20142;99999;5;0;
+511;5875;Korallenmeerinseln (Australisches Ãœberseegebiet);20142;99999;5;0;
+512;5870;Kokosinseln (Australisches Ãœberseegebiet);20142;99999;5;0;
+513;5900;Neukaledonien (FranzÃ¶sisches Ãœberseegebiet);20142;99999;5;0;
+514;5835;NÃ¶rdliche Marianen (US-Ãœberseegebiet);20142;99999;5;0;
+515;5880;Norfolkinsel (Australisches Ãœberseegebiet);20142;99999;5;0;
+517;5820;Amerikanisch-Samoa (US-Ãœberseegebiet);20142;99999;5;0;
+519;5815;Tokelau (NeuseelÃ¤ndisches Ãœberseegebiet);20142;99999;5;0;
+520;5905;Wallis und Futuna (FranzÃ¶sisches Ãœberseegebiet);20142;99999;5;0;
+521;5885;Weihnachtsinsel (Australisches Ãœberseegebiet);20142;99999;5;0;
+522;5845;Bouvetinsel (Norwegisches Ãœberseegebiet);20142;99999;5;0;
+523;5000;Australien;20042;99999;5;0;
+524;5550;Salomonen;20042;99999;5;0;
+525;5855;Ashmore- und Cartierinseln (Australisches Ãœberseegebiet);20142;99999;5;0;
+526;5100;Fidschi;20042;99999;5;0;
+527;5050;Cookinseln;20042;99999;5;0;
+528;5890;FranzÃ¶sisch-Polynesien (FranzÃ¶sisches Ãœberseegebiet);20142;99999;5;0;
+529;5825;Guam (US-Ãœberseegebiet);20142;99999;5;0;
+530;5150;Kiribati;20042;99999;5;0;
+531;5300;Nauru;20042;99999;5;0;
+532;5750;Vanuatu;20042;99999;5;0;
+533;5400;Niue;20042;99999;5;0;
+534;5840;Kleinere Amerikanische Ãœberseeinseln (US-Ãœberseegebiet);20142;99999;5;0;
+535;5850;Norwegisches Antarktis-Territorium (Norwegisches Ãœberseegebiet);20142;99999;5;0;
+536;5350;Neuseeland;20042;99999;5;0;
+537;5450;Palau;20042;99999;5;0;
+538;5500;Papua-Neuguinea;20042;99999;5;0;
+540;5700;Tuvalu;20042;99999;5;0;
+541;5650;Tonga;20042;99999;5;0;
+542;5895;FranzÃ¶sische SÃ¼d- und Antarktisgebiete (FranzÃ¶sisches Ãœberseegebiet);20142;99999;5;0;
+543;5600;Samoa;20042;99999;5;0;
+544;5200;Marshallinseln;20042;99999;5;0;
+545;5250;Mikronesien;20042;99999;5;0;
+546;5805;Chilenische Antarktis (Chilenisches Ãœberseegebiet);20142;99999;5;0;
+547;5860;Australisches Antarktis-Territorium (Australisches Ãœberseegebiet);20142;99999;5;0;
+548;5800;Argentinische Antarktis (Argentinisches Ãœberseegebiet);20142;99999;5;0;
+549;5810;NeuseelÃ¤ndische Antarktis: Ross-Nebengebiet (NeuseelÃ¤ndisches Ãœberseegebiet);20142;99999;5;0;
+997;9000;Staatenlos;20042;99999;9;0;
+998;9200;UngeklÃ¤rt;20042;99999;9;0;
+999;9400;Ohne Angabe;20042;99999;9;0;

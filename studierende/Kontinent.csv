@@ -1,6 +1,7 @@
-1;;Europa
-2;;Afrika
-3;;Amerika
-4;;Asien
-5;;Australien und Ozeanien
-9;;Staatenlos, Ungekl�rt, Ohne Angabe
+Kontinent;Sortierschlüssel;Name;Gültig ab;Gültig bis;
+1;;Europa;20042;99999;
+2;;Afrika;20042;99999;
+3;;Amerika;20042;99999;
+4;;Asien;20042;99999;
+5;;Australien und Ozeanien;20042;99999;
+9;;Staatenlos, Ungeklärt, Ohne Angabe;20042;99999;
