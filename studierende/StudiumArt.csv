@@ -1,5 +1,6 @@
-1;;Pr�senzstudium in Deutschland
-2;;Fernstudium in Deutschland
-3;;Praxissemester in Deutschland
-4;;Pr�senzstudium im Ausland
-5;;Praxissemester im Ausland
+StudiumArt;Sortierschlüssel;Name;Gültig ab;Gültig bis;
+1;;Präsenzstudium in Deutschland;20062;99999;
+2;;Fernstudium in Deutschland;20062;99999;
+3;;Praxissemester in Deutschland;20062;99999;
+4;;Präsenzstudium im Ausland;20062;99999;
+5;;Praxissemester im Ausland;20062;99999;

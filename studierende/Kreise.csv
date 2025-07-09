@@ -1,732 +1,733 @@
-01001;;Flensburg, Stadt
-01002;;Kiel, Landeshauptstadt
-01003;;Lübeck, Hansestadt
-01004;;Neumünster, Stadt
-01051;;Dithmarschen
-01053;;Herzogtum Lauenburg
-01054;;Nordfriesland
-01055;;Ostholstein
-01056;;Pinneberg
-01057;;Plön
-01058;;Rendsburg-Eckernförde
-01059;;Schleswig-Flensburg
-01060;;Segeberg
-01061;;Steinburg
-01062;;Stormarn
-01999;;Schleswig-Holstein, ohne Angabe des Kreises
-02000;;Hamburg, Freie und Hansestadt
-02999;;Hamburg, ohne Angabe des Kreises
-03101;;Braunschweig, Stadt
-03102;;Salzgitter, Stadt
-03103;;Wolfsburg, Stadt
-03151;;Gifhorn
-03152;;Göttingen (bis November 2016)
-03153;;Goslar
-03154;;Helmstedt
-03155;;Northeim
-03156;;Osterode am Harz (bis November 2016)
-03157;;Peine
-03158;;Wolfenbüttel
-03159;;Göttingen 
-03201;;Hannover, Landeshauptstadt (bis 2001)
-03241;;Region Hannover
-03251;;Diepholz
-03252;;Hameln-Pyrmont
-03253;;Hannover (bis 2001)
-03254;;Hildesheim
-03255;;Holzminden
-03256;;Nienburg (Weser)
-03257;;Schaumburg
-03351;;Celle
-03352;;Cuxhaven
-03353;;Harburg
-03354;;Lüchow-Dannenberg
-03355;;Lüneburg
-03356;;Osterholz
-03357;;Rotenburg (Wümme)
-03358;;Heidekreis
-03359;;Stade
-03360;;Uelzen
-03361;;Verden
-03401;;Delmenhorst, Stadt
-03402;;Emden, Stadt
-03403;;Oldenburg (Oldenburg), Stadt
-03404;;Osnabrück, Stadt
-03405;;Wilhelmshaven, Stadt
-03451;;Ammerland
-03452;;Aurich
-03453;;Cloppenburg
-03454;;Emsland
-03455;;Friesland
-03456;;Grafschaft Bentheim
-03457;;Leer
-03458;;Oldenburg
-03459;;Osnabrück
-03460;;Vechta
-03461;;Wesermarsch
-03462;;Wittmund
-03999;;Niedersachsen, ohne Angabe des Kreises
-04011;;Bremen, Stadt
-04012;;Bremerhaven, Stadt
-04999;;Bremen, ohne Angabe des Kreises
-05111;;Düsseldorf, Landeshauptstadt
-05112;;Duisburg, Stadt
-05113;;Essen, Stadt
-05114;;Krefeld, Stadt
-05116;;Mönchengladbach, Stadt
-05117;;Mülheim an der Ruhr, Stadt
-05119;;Oberhausen, Stadt
-05120;;Remscheid, Stadt
-05122;;Solingen, Klingenstadt
-05124;;Wuppertal, Stadt
-05154;;Kleve
-05158;;Mettmann
-05162;;Rhein-Kreis Neuss
-05166;;Viersen
-05170;;Wesel
-05313;;Aachen, Stadt (bis September 2009)
-05314;;Bonn, Stadt
-05315;;Köln, Stadt
-05316;;Leverkusen, Stadt
-05334;;Aachen, Städteregion
-05354;;Aachen (bis September 2009)
-05358;;Düren
-05362;;Rhein-Erft-Kreis 
-05366;;Euskirchen
-05370;;Heinsberg
-05374;;Oberbergischer Kreis
-05378;;Rheinisch-Bergischer Kreis
-05382;;Rhein-Sieg-Kreis
-05512;;Bottrop, Stadt
-05513;;Gelsenkirchen, Stadt
-05515;;Münster, Stadt
-05554;;Borken
-05558;;Coesfeld
-05562;;Recklinghausen
-05566;;Steinfurt
-05570;;Warendorf
-05711;;Bielefeld, Stadt
-05754;;Gütersloh
-05758;;Herford
-05762;;Höxter
-05766;;Lippe
-05770;;Minden-Lübbecke
-05774;;Paderborn
-05911;;Bochum, Stadt
-05913;;Dortmund, Stadt
-05914;;Hagen, Stadt der FernUniversität
-05915;;Hamm, Stadt
-05916;;Herne, Stadt
-05954;;Ennepe-Ruhr-Kreis
-05958;;Hochsauerlandkreis
-05962;;Märkischer Kreis
-05966;;Olpe
-05970;;Siegen-Wittgenstein
-05974;;Soest
-05978;;Unna
-05999;;Nordrhein-Westfalen, ohne Angabe des Kreises
-06411;;Darmstadt, Wissenschaftsstadt
-06412;;Frankfurt am Main, Stadt
-06413;;Offenbach am Main, Stadt
-06414;;Wiesbaden, Landeshauptstadt
-06431;;Bergstraße
-06432;;Darmstadt-Dieburg
-06433;;Groß-Gerau
-06434;;Hochtaunuskreis
-06435;;Main-Kinzig-Kreis
-06436;;Main-Taunus-Kreis
-06437;;Odenwaldkreis
-06438;;Offenbach
-06439;;Rheingau-Taunus-Kreis
-06440;;Wetteraukreis
-06531;;Gießen
-06532;;Lahn-Dill-Kreis
-06533;;Limburg-Weilburg
-06534;;Marburg-Biedenkopf
-06535;;Vogelsbergkreis
-06611;;Kassel, documenta-Stadt
-06631;;Fulda
-06632;;Hersfeld-Rotenburg
-06633;;Kassel
-06634;;Schwalm-Eder-Kreis
-06635;;Waldeck-Frankenberg
-06636;;Werra-Meißner-Kreis
-06999;;Hessen, ohne Angabe des Kreises
-07111;;Koblenz, kreisfreie Stadt
-07131;;Ahrweiler
-07132;;Altenkirchen (Westerwald)
-07133;;Bad Kreuznach
-07134;;Birkenfeld
-07135;;Cochem-Zell
-07137;;Mayen-Koblenz
-07138;;Neuwied
-07140;;Rhein-Hunsrück-Kreis
-07141;;Rhein-Lahn-Kreis
-07143;;Westerwaldkreis
-07211;;Trier, kreisfreie Stadt
-07231;;Bernkastel-Wittlich
-07232;;Eifelkreis Bitburg-Prüm
-07233;;Vulkaneifel
-07235;;Trier-Saarburg
-07311;;Frankenthal (Pfalz), kreisfreie Stadt
-07312;;Kaiserslautern, kreisfreie Stadt
-07313;;Landau in der Pfalz, kreisfreie Stadt
-07314;;Ludwigshafen am Rhein, kreisfreie Stadt
-07315;;Mainz, kreisfreie Stadt
-07316;;Neustadt an der Weinstraße, kreisfreie Stadt
-07317;;Pirmasens, kreisfreie Stadt
-07318;;Speyer, kreisfreie Stadt
-07319;;Worms, kreisfreie Stadt
-07320;;Zweibrücken, kreisfreie Stadt
-07331;;Alzey-Worms
-07332;;Bad Dürkheim
-07333;;Donnersbergkreis
-07334;;Germersheim
-07335;;Kaiserslautern
-07336;;Kusel
-07337;;Südliche Weinstraße
-07338;;Rhein-Pfalz-Kreis (bis SS2005:Ludwigshafen)
-07339;;Mainz-Bingen
-07340;;Südwestpfalz
-07999;;Rheinland-Pfalz, ohne Angabe des Kreises
-08111;;Stuttgart, Landeshauptstadt
-08115;;Böblingen
-08116;;Esslingen
-08117;;Göppingen
-08118;;Ludwigsburg
-08119;;Rems-Murr-Kreis
-08121;;Heilbronn, Stadt
-08125;;Heilbronn
-08126;;Hohenlohekreis
-08127;;Schwäbisch Hall
-08128;;Main-Tauber-Kreis
-08135;;Heidenheim
-08136;;Ostalbkreis
-08211;;Baden-Baden, Stadt
-08212;;Karlsruhe, Stadt
-08215;;Karlsruhe
-08216;;Rastatt
-08221;;Heidelberg, Stadt
-08222;;Mannheim, Stadt
-08225;;Neckar-Odenwald-Kreis
-08226;;Rhein-Neckar-Kreis
-08231;;Pforzheim, Stadt
-08235;;Calw
-08236;;Enzkreis
-08237;;Freudenstadt
-08311;;Freiburg im Breisgau, Stadt
-08315;;Breisgau-Hochschwarzwald
-08316;;Emmendingen
-08317;;Ortenaukreis
-08325;;Rottweil
-08326;;Schwarzwald-Baar-Kreis
-08327;;Tuttlingen
-08335;;Konstanz
-08336;;Lörrach
-08337;;Waldshut
-08415;;Reutlingen
-08416;;Tübingen
-08417;;Zollernalbkreis
-08421;;Ulm, Stadt
-08425;;Alb-Donau-Kreis
-08426;;Biberach
-08435;;Bodenseekreis
-08436;;Ravensburg
-08437;;Sigmaringen
-08999;;Baden-Württemberg, ohne Angabe des Kreises
-09161;;Ingolstadt, Stadt
-09162;;München, Landeshauptstadt
-09163;;Rosenheim, Stadt
-09171;;Altötting
-09172;;Berchtesgadener Land
-09173;;Bad Tölz-Wolfratshausen
-09174;;Dachau
-09175;;Ebersberg
-09176;;Eichstätt
-09177;;Erding
-09178;;Freising
-09179;;Fürstenfeldbruck
-09180;;Garmisch-Partenkirchen
-09181;;Landsberg am Lech
-09182;;Miesbach
-09183;;Mühldorf am Inn
-09184;;München
-09185;;Neuburg-Schrobenhausen
-09186;;Pfaffenhofen an der Ilm
-09187;;Rosenheim
-09188;;Starnberg
-09189;;Traunstein
-09190;;Weilheim-Schongau
-09261;;Landshut, Stadt
-09262;;Passau, Stadt
-09263;;Straubing, Stadt
-09271;;Deggendorf
-09272;;Freyung-Grafenau
-09273;;Kelheim
-09274;;Landshut
-09275;;Passau
-09276;;Regen
-09277;;Rottal-Inn
-09278;;Straubing-Bogen
-09279;;Dingolfing-Landau
-09361;;Amberg, Stadt
-09362;;Regensburg, Stadt
-09363;;Weiden in der Oberpfalz, Stadt
-09371;;Amberg-Sulzbach
-09372;;Cham
-09373;;Neumarkt in der Oberpfalz
-09374;;Neustadt an der Waldnaab
-09375;;Regensburg
-09376;;Schwandorf
-09377;;Tirschenreuth
-09461;;Bamberg, Stadt
-09462;;Bayreuth, Stadt
-09463;;Coburg, Stadt
-09464;;Hof, Stadt
-09471;;Bamberg
-09472;;Bayreuth
-09473;;Coburg
-09474;;Forchheim
-09475;;Hof
-09476;;Kronach
-09477;;Kulmbach
-09478;;Lichtenfels
-09479;;Wunsiedel im Fichtelgebirge
-09561;;Ansbach, Stadt
-09562;;Erlangen, Stadt
-09563;;Fürth, Stadt
-09564;;Nürnberg, Stadt
-09565;;Schwabach, Stadt
-09571;;Ansbach
-09572;;Erlangen-Höchstadt
-09573;;Fürth
-09574;;Nürnberger Land
-09575;;Neustadt an der Aisch - Bad Windsheim
-09576;;Roth
-09577;;Weißenburg-Gunzenhausen
-09661;;Aschaffenburg, Stadt
-09662;;Schweinfurt, Stadt
-09663;;Würzburg, Stadt
-09671;;Aschaffenburg
-09672;;Bad Kissingen
-09673;;Rhön-Grabfeld
-09674;;Haßberge
-09675;;Kitzingen
-09676;;Miltenberg
-09677;;Main-Spessart
-09678;;Schweinfurt
-09679;;Würzburg
-09761;;Augsburg, Stadt
-09762;;Kaufbeuren, Stadt
-09763;;Kempten (Allgäu), Stadt
-09764;;Memmingen, Stadt
-09771;;Aichach-Friedberg
-09772;;Augsburg
-09773;;Dillingen an der Donau
-09774;;Günzburg
-09775;;Neu-Ulm
-09776;;Lindau (Bodensee)
-09777;;Ostallgäu
-09778;;Unterallgäu
-09779;;Donau-Ries
-09780;;Oberallgäu
-09999;;Bayern, ohne Angabe des Kreises
-10041;;Regionalverband Saarbrücken
-10042;;Merzig-Wadern
-10043;;Neunkirchen
-10044;;Saarlouis
-10045;;Saar-Pfalz-Kreis
-10046;;Sankt Wendel
-10999;;Saarland, ohne Angabe des Kreises
-11000;;Berlin
-11100;;Berlin West
-11200;;Berlin Ost
-11999;;Berlin, ohne Angabe des Kreises
-12001;;Brandenburg an der Havel, Stadt (bis 1993)
-12002;;Cottbus, Stadt (bis 1993)
-12003;;Eisenhüttenstadt, Stadt (bis 1993)
-12004;;Frankfurt (Oder), Stadt (bis 1993)
-12005;;Potsdam, Landeshauptstadt (bis 1993)
-12006;;Schwedt/Oder, Stadt (bis 1993)
-12011;;Angermünde (bis 1993)
-12012;;Bad Freienwalde (bis 1993)
-12013;;Bad Liebenwerda (bis 1993)
-12014;;Beeskow (bis 1993)
-12015;;Belzig (bis 1993)
-12016;;Bernau (bis 1993)
-12017;;Brandenburg (bis 1993)
-12018;;Calau (bis 1993)
-12019;;Cottbus (bis 1993)
-12020;;Eberswalde (bis 1993)
-12021;;Eisenhüttenstadt (bis 1993)
-12022;;Finsterwalde (bis 1993)
-12023;;Forst (bis 1993)
-12024;;Fürstenwalde (bis 1993)
-12025;;Gransee (bis 1993)
-12026;;Guben (bis 1993)
-12027;;Herzberg (bis 1993)
-12028;;Jüterborg (bis 1993)
-12029;;Königs-Wusterhausen (bis 1993)
-12030;;Kyritz (bis 1993)
-12031;;Lübben (bis 1993)
-12032;;Luckau (bis 1993)
-12033;;Luckenwalde (bis 1993)
-12034;;Nauen (bis 1993)
-12035;;Neuruppin (bis 1993)
-12036;;Oranienburg (bis 1993)
-12037;;Perleberg (bis 1993)
-12038;;Potsdam (bis 1993)
-12039;;Prenzlau (bis 1993)
-12040;;Pritzwalk (bis 1993)
-12041;;Rathenow (bis 1993)
-12042;;Seelow (bis 1993)
-12043;;Senftenberg (bis 1993)
-12044;;Spremberg (bis 1993)
-12045;;Strausberg (bis 1993)
-12046;;Templin (bis 1993)
-12047;;Wittstock (bis 1993)
-12048;;Zossen (bis 1993)
-12051;;Brandenburg an der Havel, Stadt
-12052;;Cottbus, Stadt
-12053;;Frankfurt (Oder), Stadt
-12054;;Potsdam, Landeshauptstadt
-12060;;Barnim
-12061;;Dahme-Spreewald
-12062;;Elbe-Elster
-12063;;Havelland
-12064;;Märkisch-Oderland
-12065;;Oberhavel
-12066;;Oberspreewald-Lausitz
-12067;;Oder-Spree
-12068;;Ostprignitz-Ruppin
-12069;;Potsdam-Mittelmark
-12070;;Prignitz
-12071;;Spree-Neiße
-12072;;Teltow-Fläming
-12073;;Uckermark
-12999;;Brandenburg, ohne Angabe des Kreises
-13001;;Greifswald, Hansestadt (bis 2011)
-13002;;Neubrandenburg, Stadt (bis 2011)
-13003;;Rostock, Hansestadt
-13004;;Schwerin, Landeshauptstadt
-13005;;Stralsund, Hansestadt (bis 2011)
-13006;;Wismar, Hansestadt (bis 2011)
-13011;;Altentreptow (bis 1993)
-13012;;Anklam (bis 1993)
-13013;;Bad Doberan (bis 1993)
-13014;;Bützow (bis 1993)
-13015;;Demmin (bis 1993)
-13016;;Gadebusch (bis 1993)
-13017;;Greifswald (bis 1993)
-13018;;Grevesmühlen (bis 1993)
-13019;;Grimmen (bis 1993)
-13020;;Güstrow (bis 1993)
-13021;;Hagenow (bis 1993)
-13022;;Ludwigslust (bis 1993)
-13023;;Lübz (bis 1993)
-13024;;Malchin (bis 1993)
-13025;;Neubrandenburg (bis 1993)
-13026;;Neustrelitz (bis 1993)
-13027;;Parchim (bis 1993)
-13028;;Pasewalk (bis 1993)
-13029;;Ribnitz-Damgarten (bis 1993)
-13030;;Röbel/ Müritz (bis 1993)
-13031;;Rostock (bis 1993)
-13032;;Rügen (bis 1993)
-13033;;Schwerin (bis 1993)
-13034;;Sternberg (bis 1993)
-13035;;Stralsund (bis 1993)
-13036;;Strasburg (bis 1993)
-13037;;Teterow (bis 1993)
-13038;;Ueckermünde (bis 1993)
-13039;;Waren (bis 1993)
-13040;;Wismar (bis 1993)
-13041;;Wolgast (bis 1993)
-13051;;Bad Doberan (bis 2011)
-13052;;Demmin (bis 2011)
-13053;;Güstrow (bis 2011)
-13054;;Ludwigslust (bis 2011)
-13055;;Mecklenburg-Strelitz (bis 2011)
-13056;;Müritz (bis 2011)
-13057;;Nordvorpommern (bis 2011)
-13058;;Nordwestmecklenburg (bis 2011)
-13059;;Ostvorpommern (bis 2011)
-13060;;Parchim (bis 2011)
-13061;;Rügen (bis 2011)
-13062;;Uecker-Randow (bis 2011)
-13071;;Mecklenburgische Seenplatte
-13072;;Landkreis Rostock
-13073;;Vorpommern-Rügen
-13074;;Nordwestmecklenburg 
-13075;;Vorpommern-Greifswald 
-13076;;Ludwigslust-Parchim
-13999;;Mecklenburg-Vorpommern, ohne Angabe des Kreises
-14001;;Chemnitz, Stadt ( bis 1993)
-14002;;Dresden, Stadt ( bis 1993)
-14003;;Görlitz, Stadt ( bis 1993)
-14004;;Leipzig, Stadt ( bis 1993)
-14005;;Plauen, Stadt ( bis 1993)
-14006;;Zwickau, Stadt ( bis 1993)
-14011;;Annaberg ( bis 1993)
-14012;;Aue ( bis 1993)
-14013;;Auerbach ( bis 1993)
-14014;;Bautzen ( bis 1993)
-14015;;Bischofswerda ( bis 1993)
-14016;;Borna ( bis 1993)
-14017;;Brand-Erbisdorf ( bis 1993)
-14018;;Chemnitz ( bis 1993)
-14019;;Delitzsch ( bis 1993)
-14020;;Dippoldiswalde ( bis 1993)
-14021;;Döbeln ( bis 1993)
-14022;;Dresden ( bis 1993)
-14023;;Eilenburg ( bis 1993)
-14024;;Flöha ( bis 1993)
-14025;;Freiberg ( bis 1993)
-14026;;Freital ( bis 1993)
-14027;;Geithain ( bis 1993)
-14028;;Glauchau ( bis 1993)
-14029;;Görlitz ( bis 1993)
-14030;;Grimma ( bis 1993)
-14031;;Großenhain ( bis 1993)
-14032;;Hainichen ( bis 1993)
-14033;;Hohenstein-Ernstthal ( bis 1993)
-14034;;Hoyerswerda ( bis 1993)
-14035;;Kamenz ( bis 1993)
-14036;;Klingenthal ( bis 1993)
-14037;;Leipzig ( bis 1993)
-14038;;Löbau ( bis 1993)
-14039;;Marienberg ( bis 1993)
-14040;;Meißen ( bis 1993)
-14041;;Niesky ( bis 1993)
-14042;;Oelsnitz ( bis 1993)
-14043;;Oschatz ( bis 1993)
-14044;;Pirna ( bis 1993)
-14045;;Plauen ( bis 1993)
-14046;;Reichenbach ( bis 1993)
-14047;;Riesa ( bis 1993)
-14048;;Rochlitz ( bis 1993)
-14049;;Schwarzenberg ( bis 1993)
-14050;;Sebnitz ( bis 1993)
-14051;;Stollberg ( bis 1993)
-14052;;Torgau ( bis 1993)
-14053;;Weißwasser ( bis 1993)
-14054;;Werdau ( bis 1993)
-14055;;Wurzen ( bis 1993)
-14056;;Zittau ( bis 1993)
-14057;;Zschopau ( bis 1993)
-14058;;Zwickau ( bis 1993)
-14061;;Chemnitz, Stadt (von 1994 bis 1996)
-14062;;Dresden, Landeshauptstadt (von 1994 bis 1996)
-14063;;Görlitz, Stadt (von 1994 bis 1996)
-14065;;Leipzig, Stadt (von 1994 bis 1996)
-14066;;Plauen, Stadt (von 1994 bis 1996)
-14067;;Zwickau, Stadt (von 1994 bis 1996)
-14071;;Annaberg (von 1994 bis 1996)
-14072;;Bautzen (von 1994 bis 1996)
-14073;;Chemnitzer Land (von 1994 bis 1996)
-14074;;Delitzsch (von 1994 bis 1996)
-14075;;Döbeln (von 1994 bis 1996)
-14076;;Elstertalkreis (von 1994 bis 1996)
-14077;;Freiberg (von 1994 bis 1996)
-14078;;Göltzschtalkreis (von 1994 bis 1996)
-14079;;Leipziger Land (von 1994 bis 1996)
-14080;;Meißen (von 1994 bis 1996)
-14081;;Mittlerer Erzgebirgskreis (von 1994 bis 1996)
-14082;;Mittweida (von 1994 bis 1996)
-14083;;Muldentalkreis (von 1994 bis 1996)
-14084;;Niederschlesischer Oberlausitzkreis (von 1994 bis 1996)
-14085;;Riesa-Großenhain (von 1994 bis 1996)
-14086;;Sächsischer Oberlausitzkreis (von 1994 bis 1996)
-14087;;Sächsische Schweiz (von 1994 bis 1996)
-14088;;Stollberg (von 1994 bis 1996)
-14089;;Torgau-Oschatz (von 1994 bis 1996)
-14090;;Weißeritzkreis (von 1994 bis 1996)
-14091;;Westerzgebirgskreis (von 1994 bis 1996)
-14092;;Kamenz (von 1994 bis 1996)
-14093;;Zwickauer Land (von 1994 bis 1996)
-14094;;Dresden-Land (von 1994 bis 1996)
-14095;;Hoyerswerda (von 1994 bis 1996)
-14161;;Chemnitz, Stadt (von 1997 bis Juli 2008)
-14166;;Plauen, Stadt (von 1997 bis Juli 2008)
-14167;;Zwickau, Stadt (von 1997 bis Juli 2008)
-14171;;Annaberg (von 1997 bis Juli 2008)
-14173;;Chemnitzer Land (von 1997 bis Juli 2008)
-14177;;Freiberg (von 1997 bis Juli 2008)
-14178;;Vogtlandkreis (von 1997 bis Juli 2008)
-14181;;Mittlerer Erzgebirgskreis (von 1997 bis Juli 2008)
-14182;;Mittweida (von 1997 bis Juli 2008)
-14188;;Stollberg (von 1997 bis Juli 2008)
-14191;;Aue-Schwarzenberg (von 1997 bis Juli 2008)
-14193;;Zwickauer Land (von 1997 bis Juli 2008)
-14262;;Dresden, Landeshauptstadt (von 1997 bis Juli 2008)
-14263;;Görlitz, Stadt (von 1997 bis Juli 2008)
-14264;;Hoyerswerda (von 1997 bis Juli 2008)
-14272;;Bautzen (von 1997 bis Juli 2008)
-14280;;Meißen (von 1997 bis Juli 2008)
-14284;;Niederschlesischer Oberlausitzkreis (von 1997 bis Juli 2008)
-14285;;Riesa-Großenhain (von 1997 bis Juli 2008)
-14286;;Löbau-Zittau (von 1997 bis Juli 2008)
-14287;;Sächsische Schweiz (von 1997 bis Juli 2008)
-14290;;Weißeritzkreis (von 1997 bis Juli 2008)
-14292;;Kamenz (von 1997 bis Juli 2008)
-14365;;Leipzig, Stadt (von 1997 bis Juli 2008)
-14374;;Delitzsch (von 1997 bis Juli 2008)
-14375;;Döbeln (von 1997 bis Juli 2008)
-14379;;Leipziger Land (von 1997 bis Juli 2008)
-14383;;Muldentalkreis (von 1997 bis Juli 2008)
-14389;;Torgau-Oschatz (von 1997 bis Juli 2008)
-14511;;Chemnitz, Stadt
-14521;;Erzgebirgskreis
-14522;;Mittelsachsen
-14523;;Vogtlandkreis
-14524;;Zwickau
-14612;;Dresden, Stadt
-14625;;Bautzen
-14626;;Görlitz
-14627;;Meißen
-14628;;Sächsische Schweiz-Osterzgebirge
-14713;;Leipzig, Stadt
-14729;;Leipzig
-14730;;Nordsachsen
-14999;;Sachsen, ohne Angabe des Kreises
-15001;;Dessau-Roßlau, Stadt
-15002;;Halle (Saale), Stadt
-15003;;Magdeburg, Landeshauptstadt
-15081;;Altmarkkreis Salzwedel
-15082;;Anhalt-Bitterfeld
-15083;;Börde
-15084;;Burgenlandkreis
-15085;;Harz
-15086;;Jerichower Land
-15087;;Mansfeld-Südharz
-15088;;Saalekreis
-15089;;Salzlandkreis
-15090;;Stendal
-15091;;Wittenberg
-15101;;Dessau, Stadt (bis Juni 2007)
-15112;;Bernburg (bis 1993)
-15113;;Bitterfeld (bis 1993)
-15118;;Gräfenhainichen (bis 1993)
-15124;;Jessen (bis 1993)
-15126;;Köthen (bis 1993)
-15134;;Roßlau (bis 1993)
-15144;;Wittenberg (bis 1993)
-15147;;Zerbst (bis 1993)
-15151;;Anhalt-Zerbst (bis Juni 2007)
-15153;;Bernburg (bis Juni 2007)
-15154;;Bitterfeld (bis Juni 2007)
-15159;;Köthen (bis Juni 2007)
-15171;;Wittenberg (bis Juni 2007)
-15202;;Halle/Saale, Stadt (bis Juni 2007)
-15211;;Aschersleben (bis 1993)
-15215;;Eisleben (bis 1993)
-15222;;Hettstedt (bis 1993)
-15223;;Hohenmölsen (bis 1993)
-15227;;Merseburg (bis 1993)
-15228;;Naumburg (bis 1993)
-15229;;Nebra (bis 1993)
-15233;;Querfurt (bis 1993)
-15235;;Saalkreis (bis 1993)
-15237;;Sangerhausen (bis 1993)
-15242;;Weißenfels (bis 1993)
-15246;;Zeitz (bis 1993)
-15256;;Burgenlandkreis (bis Juni 2007)
-15260;;Mansfelder Land (bis Juni 2007)
-15261;;Merseburg-Querfurt (bis Juni 2007)
-15265;;Saalkreis (bis Juni 2007)
-15266;;Sangerhausen (bis Juni 2007)
-15268;;Weißenfels (bis Juni 2007)
-15303;;Magdeburg, Landeshauptstadt (bis Juni 2007)
-15314;;Burg (bis 1993)
-15316;;Gardelegen (bis 1993)
-15317;;Genthin (bis 1993)
-15319;;Halberstadt (bis 1993)
-15320;;Haldensleben (bis 1993)
-15321;;Havelberg (bis 1993)
-15325;;Klötze (bis 1993)
-15330;;Oschersleben (bis 1993)
-15331;;Osterburg (bis 1993)
-15332;;Quedlinburg (bis 1993)
-15336;;Salzwedel (bis 1993)
-15338;;Schönebeck (bis 1993)
-15339;;Staßfurt (bis 1993)
-15340;;Stendal (bis 1993)
-15341;;Wanzleben (bis 1993)
-15343;;Wernigerode (bis 1993)
-15345;;Wolmirstedt (bis 1993)
-15352;;Aschersleben-Staßfurt (bis Juni 2007)
-15355;;Bördekreis (bis Juni 2007)
-15357;;Halberstadt (bis Juni 2007)
-15358;;Jerichower Land (bis Juni 2007)
-15362;;Ohrekreis (bis Juni 2007)
-15363;;Stendal (bis Juni 2007)
-15364;;Quedlinburg (bis Juni 2007)
-15367;;Schönebeck (bis Juni 2007)
-15369;;Wernigerode (bis Juni 2007)
-15370;;Altmarkkreis Salzwedel (bis Juni 2007)
-15999;;Sachsen-Anhalt, ohne Angabe des Kreises
-16001;;Erfurt, Stadt (bis 1993)
-16002;;Gera, Stadt (bis 1993)
-16003;;Jena, Stadt (bis 1993)
-16004;;Suhl, Stadt (bis 1993)
-16005;;Weimar, Stadt (bis 1993)
-16011;;Altenburg (bis 1993)
-16012;;Apolda (bis 1993)
-16013;;Arnstadt (bis 1993)
-16014;;Artern (bis 1993)
-16015;;Bad Salzungen (bis 1993)
-16016;;Eisenach (bis 1993)
-16017;;Eisenberg (bis 1993)
-16018;;Erfurt (bis 1993)
-16019;;Gera (bis 1993)
-16020;;Gotha (bis 1993)
-16021;;Greiz (bis 1993)
-16022;;Heiligenstadt (bis 1993)
-16023;;Hildburghausen (bis 1993)
-16024;;Ilmenau (bis 1993)
-16025;;Jena (bis 1993)
-16026;;Langensalza (bis 1993)
-16027;;Lobenstein (bis 1993)
-16028;;Meiningen (bis 1993)
-16029;;Mühlhausen (bis 1993)
-16030;;Neuhaus a. Rennweg (bis 1993)
-16031;;Nordhausen (bis 1993)
-16032;;Pößneck (bis 1993)
-16033;;Rudolstadt (bis 1993)
-16034;;Saalfeld (bis 1993)
-16035;;Schleiz (bis 1993)
-16036;;Schmalkalden (bis 1993)
-16037;;Schmölln (bis 1993)
-16038;;Sömmerda (bis 1993)
-16039;;Sondershausen (bis 1993)
-16040;;Sonneberg (bis 1993)
-16041;;Stadtroda (bis 1993)
-16042;;Suhl (bis 1993)
-16043;;Weimar (bis 1993)
-16044;;Worbis (bis 1993)
-16045;;Zeulenroda (bis 1993)
-16051;;Erfurt, Stadt
-16052;;Gera, Stadt
-16053;;Jena, Stadt
-16054;;Suhl, Stadt
-16055;;Weimar, Stadt
-16056;;Eisenach, Stadt (bis Juni 2021)
-16061;;Eichsfeld
-16062;;Nordhausen
-16063;;Wartburgkreis
-16064;;Unstrut-Hainich-Kreis
-16065;;Kyffhäuserkreis
-16066;;Schmalkalden-Meiningen
-16067;;Gotha
-16068;;Sömmerda
-16069;;Hildburghausen
-16070;;Ilm-Kreis
-16071;;Weimarer Land
-16072;;Sonneberg
-16073;;Saalfeld-Rudolstadt
-16074;;Saale-Holzland-Kreis
-16075;;Saale-Orla-Kreis
-16076;;Greiz
-16077;;Altenburger Land
-16999;;Thüringen, ohne Angabe des Kreises
-98999;;Ohne Angabe
+Kreise;SortierschlÃ¼ssel;Name;GÃ¼ltig ab;GÃ¼ltig bis;
+01001;;Flensburg, Stadt;20062;99999;
+01002;;Kiel, Landeshauptstadt;20062;99999;
+01003;;LÃ¼beck, Hansestadt;20142;99999;
+01004;;NeumÃ¼nster, Stadt;20062;99999;
+01051;;Dithmarschen;20062;99999;
+01053;;Herzogtum Lauenburg;20062;99999;
+01054;;Nordfriesland;20062;99999;
+01055;;Ostholstein;20062;99999;
+01056;;Pinneberg;20062;99999;
+01057;;PlÃ¶n;20062;99999;
+01058;;Rendsburg-EckernfÃ¶rde;20062;99999;
+01059;;Schleswig-Flensburg;20062;99999;
+01060;;Segeberg;20062;99999;
+01061;;Steinburg;20062;99999;
+01062;;Stormarn;20062;99999;
+01999;;Schleswig-Holstein, ohne Angabe des Kreises;20072;99999;
+02000;;Hamburg, Freie und Hansestadt;20142;99999;
+02999;;Hamburg, ohne Angabe des Kreises;20072;99999;
+03101;;Braunschweig, Stadt;20062;99999;
+03102;;Salzgitter, Stadt;20062;99999;
+03103;;Wolfsburg, Stadt;20062;99999;
+03151;;Gifhorn;20171;99999;
+03152;;GÃ¶ttingen (bis November 2016);20171;99999;
+03153;;Goslar;20062;99999;
+03154;;Helmstedt;20062;99999;
+03155;;Northeim;20062;99999;
+03156;;Osterode am Harz (bis November 2016);20171;99999;
+03157;;Peine;20062;99999;
+03158;;WolfenbÃ¼ttel;20062;99999;
+03159;;GÃ¶ttingen ;20171;99999;
+03201;;Hannover, Landeshauptstadt (bis 2001);20062;99999;
+03241;;Region Hannover;20062;99999;
+03251;;Diepholz;20062;99999;
+03252;;Hameln-Pyrmont;20062;99999;
+03253;;Hannover (bis 2001);20062;99999;
+03254;;Hildesheim;20062;99999;
+03255;;Holzminden;20062;99999;
+03256;;Nienburg (Weser);20062;99999;
+03257;;Schaumburg;20062;99999;
+03351;;Celle;20062;99999;
+03352;;Cuxhaven;20062;99999;
+03353;;Harburg;20062;99999;
+03354;;LÃ¼chow-Dannenberg;20062;99999;
+03355;;LÃ¼neburg;20062;99999;
+03356;;Osterholz;20062;99999;
+03357;;Rotenburg (WÃ¼mme);20062;99999;
+03358;;Heidekreis;20142;99999;
+03359;;Stade;20062;99999;
+03360;;Uelzen;20062;99999;
+03361;;Verden;20062;99999;
+03401;;Delmenhorst, Stadt;20062;99999;
+03402;;Emden, Stadt;20062;99999;
+03403;;Oldenburg (Oldenburg), Stadt;20062;99999;
+03404;;OsnabrÃ¼ck, Stadt;20062;99999;
+03405;;Wilhelmshaven, Stadt;20062;99999;
+03451;;Ammerland;20062;99999;
+03452;;Aurich;20062;99999;
+03453;;Cloppenburg;20062;99999;
+03454;;Emsland;20062;99999;
+03455;;Friesland;20062;99999;
+03456;;Grafschaft Bentheim;20062;99999;
+03457;;Leer;20062;99999;
+03458;;Oldenburg;20142;99999;
+03459;;OsnabrÃ¼ck;20062;99999;
+03460;;Vechta;20062;99999;
+03461;;Wesermarsch;20062;99999;
+03462;;Wittmund;20062;99999;
+03999;;Niedersachsen, ohne Angabe des Kreises;20072;99999;
+04011;;Bremen, Stadt;20062;99999;
+04012;;Bremerhaven, Stadt;20062;99999;
+04999;;Bremen, ohne Angabe des Kreises;20072;99999;
+05111;;DÃ¼sseldorf, Landeshauptstadt;20062;99999;
+05112;;Duisburg, Stadt;20062;99999;
+05113;;Essen, Stadt;20062;99999;
+05114;;Krefeld, Stadt;20062;99999;
+05116;;MÃ¶nchengladbach, Stadt;20062;99999;
+05117;;MÃ¼lheim an der Ruhr, Stadt;20142;99999;
+05119;;Oberhausen, Stadt;20062;99999;
+05120;;Remscheid, Stadt;20062;99999;
+05122;;Solingen, Klingenstadt;20142;99999;
+05124;;Wuppertal, Stadt;20062;99999;
+05154;;Kleve;20062;99999;
+05158;;Mettmann;20062;99999;
+05162;;Rhein-Kreis Neuss;20142;99999;
+05166;;Viersen;20062;99999;
+05170;;Wesel;20062;99999;
+05313;;Aachen, Stadt (bis September 2009);20102;99999;
+05314;;Bonn, Stadt;20062;99999;
+05315;;KÃ¶ln, Stadt;20062;99999;
+05316;;Leverkusen, Stadt;20062;99999;
+05334;;Aachen, StÃ¤dteregion;20102;99999;
+05354;;Aachen (bis September 2009);20102;99999;
+05358;;DÃ¼ren;20062;99999;
+05362;;Rhein-Erft-Kreis ;20142;99999;
+05366;;Euskirchen;20062;99999;
+05370;;Heinsberg;20062;99999;
+05374;;Oberbergischer Kreis;20062;99999;
+05378;;Rheinisch-Bergischer Kreis;20062;99999;
+05382;;Rhein-Sieg-Kreis;20062;99999;
+05512;;Bottrop, Stadt;20062;99999;
+05513;;Gelsenkirchen, Stadt;20062;99999;
+05515;;MÃ¼nster, Stadt;20062;99999;
+05554;;Borken;20062;99999;
+05558;;Coesfeld;20062;99999;
+05562;;Recklinghausen;20062;99999;
+05566;;Steinfurt;20062;99999;
+05570;;Warendorf;20062;99999;
+05711;;Bielefeld, Stadt;20062;99999;
+05754;;GÃ¼tersloh;20062;99999;
+05758;;Herford;20062;99999;
+05762;;HÃ¶xter;20062;99999;
+05766;;Lippe;20062;99999;
+05770;;Minden-LÃ¼bbecke;20062;99999;
+05774;;Paderborn;20062;99999;
+05911;;Bochum, Stadt;20062;99999;
+05913;;Dortmund, Stadt;20062;99999;
+05914;;Hagen, Stadt der FernUniversitÃ¤t;20142;99999;
+05915;;Hamm, Stadt;20062;99999;
+05916;;Herne, Stadt;20062;99999;
+05954;;Ennepe-Ruhr-Kreis;20062;99999;
+05958;;Hochsauerlandkreis;20062;99999;
+05962;;MÃ¤rkischer Kreis;20062;99999;
+05966;;Olpe;20062;99999;
+05970;;Siegen-Wittgenstein;20062;99999;
+05974;;Soest;20062;99999;
+05978;;Unna;20062;99999;
+05999;;Nordrhein-Westfalen, ohne Angabe des Kreises;20072;99999;
+06411;;Darmstadt, Wissenschaftsstadt;20142;99999;
+06412;;Frankfurt am Main, Stadt;20062;99999;
+06413;;Offenbach am Main, Stadt;20062;99999;
+06414;;Wiesbaden, Landeshauptstadt;20062;99999;
+06431;;BergstraÃŸe;20062;99999;
+06432;;Darmstadt-Dieburg;20062;99999;
+06433;;GroÃŸ-Gerau;20062;99999;
+06434;;Hochtaunuskreis;20062;99999;
+06435;;Main-Kinzig-Kreis;20062;99999;
+06436;;Main-Taunus-Kreis;20062;99999;
+06437;;Odenwaldkreis;20062;99999;
+06438;;Offenbach;20062;99999;
+06439;;Rheingau-Taunus-Kreis;20062;99999;
+06440;;Wetteraukreis;20062;99999;
+06531;;GieÃŸen;20062;99999;
+06532;;Lahn-Dill-Kreis;20062;99999;
+06533;;Limburg-Weilburg;20062;99999;
+06534;;Marburg-Biedenkopf;20062;99999;
+06535;;Vogelsbergkreis;20062;99999;
+06611;;Kassel, documenta-Stadt;20142;99999;
+06631;;Fulda;20062;99999;
+06632;;Hersfeld-Rotenburg;20062;99999;
+06633;;Kassel;20062;99999;
+06634;;Schwalm-Eder-Kreis;20062;99999;
+06635;;Waldeck-Frankenberg;20062;99999;
+06636;;Werra-MeiÃŸner-Kreis;20062;99999;
+06999;;Hessen, ohne Angabe des Kreises;20072;99999;
+07111;;Koblenz, kreisfreie Stadt;20142;99999;
+07131;;Ahrweiler;20062;99999;
+07132;;Altenkirchen (Westerwald);20062;99999;
+07133;;Bad Kreuznach;20062;99999;
+07134;;Birkenfeld;20062;99999;
+07135;;Cochem-Zell;20062;99999;
+07137;;Mayen-Koblenz;20062;99999;
+07138;;Neuwied;20062;99999;
+07140;;Rhein-HunsrÃ¼ck-Kreis;20062;99999;
+07141;;Rhein-Lahn-Kreis;20062;99999;
+07143;;Westerwaldkreis;20062;99999;
+07211;;Trier, kreisfreie Stadt;20142;99999;
+07231;;Bernkastel-Wittlich;20062;99999;
+07232;;Eifelkreis Bitburg-PrÃ¼m;20142;99999;
+07233;;Vulkaneifel;20142;99999;
+07235;;Trier-Saarburg;20062;99999;
+07311;;Frankenthal (Pfalz), kreisfreie Stadt;20142;99999;
+07312;;Kaiserslautern, kreisfreie Stadt;20142;99999;
+07313;;Landau in der Pfalz, kreisfreie Stadt;20142;99999;
+07314;;Ludwigshafen am Rhein, kreisfreie Stadt;20142;99999;
+07315;;Mainz, kreisfreie Stadt;20142;99999;
+07316;;Neustadt an der WeinstraÃŸe, kreisfreie Stadt;20142;99999;
+07317;;Pirmasens, kreisfreie Stadt;20142;99999;
+07318;;Speyer, kreisfreie Stadt;20142;99999;
+07319;;Worms, kreisfreie Stadt;20142;99999;
+07320;;ZweibrÃ¼cken, kreisfreie Stadt;20142;99999;
+07331;;Alzey-Worms;20062;99999;
+07332;;Bad DÃ¼rkheim;20062;99999;
+07333;;Donnersbergkreis;20062;99999;
+07334;;Germersheim;20062;99999;
+07335;;Kaiserslautern;20062;99999;
+07336;;Kusel;20062;99999;
+07337;;SÃ¼dliche WeinstraÃŸe;20062;99999;
+07338;;Rhein-Pfalz-Kreis (bis SS2005:Ludwigshafen);20062;99999;
+07339;;Mainz-Bingen;20062;99999;
+07340;;SÃ¼dwestpfalz;20062;99999;
+07999;;Rheinland-Pfalz, ohne Angabe des Kreises;20072;99999;
+08111;;Stuttgart, Landeshauptstadt;20062;99999;
+08115;;BÃ¶blingen;20062;99999;
+08116;;Esslingen;20062;99999;
+08117;;GÃ¶ppingen;20062;99999;
+08118;;Ludwigsburg;20062;99999;
+08119;;Rems-Murr-Kreis;20062;99999;
+08121;;Heilbronn, Stadt;20062;99999;
+08125;;Heilbronn;20062;99999;
+08126;;Hohenlohekreis;20062;99999;
+08127;;SchwÃ¤bisch Hall;20062;99999;
+08128;;Main-Tauber-Kreis;20062;99999;
+08135;;Heidenheim;20062;99999;
+08136;;Ostalbkreis;20062;99999;
+08211;;Baden-Baden, Stadt;20062;99999;
+08212;;Karlsruhe, Stadt;20062;99999;
+08215;;Karlsruhe;20062;99999;
+08216;;Rastatt;20062;99999;
+08221;;Heidelberg, Stadt;20062;99999;
+08222;;Mannheim, Stadt;20062;99999;
+08225;;Neckar-Odenwald-Kreis;20062;99999;
+08226;;Rhein-Neckar-Kreis;20062;99999;
+08231;;Pforzheim, Stadt;20062;99999;
+08235;;Calw;20062;99999;
+08236;;Enzkreis;20062;99999;
+08237;;Freudenstadt;20062;99999;
+08311;;Freiburg im Breisgau, Stadt;20062;99999;
+08315;;Breisgau-Hochschwarzwald;20062;99999;
+08316;;Emmendingen;20062;99999;
+08317;;Ortenaukreis;20062;99999;
+08325;;Rottweil;20062;99999;
+08326;;Schwarzwald-Baar-Kreis;20062;99999;
+08327;;Tuttlingen;20062;99999;
+08335;;Konstanz;20062;99999;
+08336;;LÃ¶rrach;20062;99999;
+08337;;Waldshut;20062;99999;
+08415;;Reutlingen;20062;99999;
+08416;;TÃ¼bingen;20062;99999;
+08417;;Zollernalbkreis;20062;99999;
+08421;;Ulm, Stadt;20062;99999;
+08425;;Alb-Donau-Kreis;20062;99999;
+08426;;Biberach;20062;99999;
+08435;;Bodenseekreis;20062;99999;
+08436;;Ravensburg;20062;99999;
+08437;;Sigmaringen;20062;99999;
+08999;;Baden-WÃ¼rttemberg, ohne Angabe des Kreises;20072;99999;
+09161;;Ingolstadt, Stadt;20062;99999;
+09162;;MÃ¼nchen, Landeshauptstadt;20062;99999;
+09163;;Rosenheim, Stadt;20062;99999;
+09171;;AltÃ¶tting;20062;99999;
+09172;;Berchtesgadener Land;20062;99999;
+09173;;Bad TÃ¶lz-Wolfratshausen;20062;99999;
+09174;;Dachau;20062;99999;
+09175;;Ebersberg;20062;99999;
+09176;;EichstÃ¤tt;20062;99999;
+09177;;Erding;20062;99999;
+09178;;Freising;20062;99999;
+09179;;FÃ¼rstenfeldbruck;20062;99999;
+09180;;Garmisch-Partenkirchen;20062;99999;
+09181;;Landsberg am Lech;20142;99999;
+09182;;Miesbach;20062;99999;
+09183;;MÃ¼hldorf am Inn;20142;99999;
+09184;;MÃ¼nchen;20062;99999;
+09185;;Neuburg-Schrobenhausen;20062;99999;
+09186;;Pfaffenhofen an der Ilm;20142;99999;
+09187;;Rosenheim;20062;99999;
+09188;;Starnberg;20062;99999;
+09189;;Traunstein;20062;99999;
+09190;;Weilheim-Schongau;20062;99999;
+09261;;Landshut, Stadt;20062;99999;
+09262;;Passau, Stadt;20062;99999;
+09263;;Straubing, Stadt;20062;99999;
+09271;;Deggendorf;20062;99999;
+09272;;Freyung-Grafenau;20062;99999;
+09273;;Kelheim;20062;99999;
+09274;;Landshut;20062;99999;
+09275;;Passau;20062;99999;
+09276;;Regen;20062;99999;
+09277;;Rottal-Inn;20062;99999;
+09278;;Straubing-Bogen;20062;99999;
+09279;;Dingolfing-Landau;20062;99999;
+09361;;Amberg, Stadt;20062;99999;
+09362;;Regensburg, Stadt;20062;99999;
+09363;;Weiden in der Oberpfalz, Stadt;20142;99999;
+09371;;Amberg-Sulzbach;20062;99999;
+09372;;Cham;20062;99999;
+09373;;Neumarkt in der Oberpfalz;20142;99999;
+09374;;Neustadt an der Waldnaab;20142;99999;
+09375;;Regensburg;20062;99999;
+09376;;Schwandorf;20062;99999;
+09377;;Tirschenreuth;20062;99999;
+09461;;Bamberg, Stadt;20062;99999;
+09462;;Bayreuth, Stadt;20062;99999;
+09463;;Coburg, Stadt;20062;99999;
+09464;;Hof, Stadt;20062;99999;
+09471;;Bamberg;20062;99999;
+09472;;Bayreuth;20062;99999;
+09473;;Coburg;20062;99999;
+09474;;Forchheim;20062;99999;
+09475;;Hof;20062;99999;
+09476;;Kronach;20062;99999;
+09477;;Kulmbach;20062;99999;
+09478;;Lichtenfels;20062;99999;
+09479;;Wunsiedel im Fichtelgebirge;20142;99999;
+09561;;Ansbach, Stadt;20062;99999;
+09562;;Erlangen, Stadt;20062;99999;
+09563;;FÃ¼rth, Stadt;20062;99999;
+09564;;NÃ¼rnberg, Stadt;20062;99999;
+09565;;Schwabach, Stadt;20062;99999;
+09571;;Ansbach;20062;99999;
+09572;;Erlangen-HÃ¶chstadt;20062;99999;
+09573;;FÃ¼rth;20062;99999;
+09574;;NÃ¼rnberger Land;20062;99999;
+09575;;Neustadt an der Aisch - Bad Windsheim;20142;99999;
+09576;;Roth;20062;99999;
+09577;;WeiÃŸenburg-Gunzenhausen;20062;99999;
+09661;;Aschaffenburg, Stadt;20062;99999;
+09662;;Schweinfurt, Stadt;20062;99999;
+09663;;WÃ¼rzburg, Stadt;20062;99999;
+09671;;Aschaffenburg;20062;99999;
+09672;;Bad Kissingen;20062;99999;
+09673;;RhÃ¶n-Grabfeld;20062;99999;
+09674;;HaÃŸberge;20062;99999;
+09675;;Kitzingen;20062;99999;
+09676;;Miltenberg;20062;99999;
+09677;;Main-Spessart;20062;99999;
+09678;;Schweinfurt;20062;99999;
+09679;;WÃ¼rzburg;20062;99999;
+09761;;Augsburg, Stadt;20062;99999;
+09762;;Kaufbeuren, Stadt;20062;99999;
+09763;;Kempten (AllgÃ¤u), Stadt;20062;99999;
+09764;;Memmingen, Stadt;20062;99999;
+09771;;Aichach-Friedberg;20062;99999;
+09772;;Augsburg;20062;99999;
+09773;;Dillingen an der Donau;20142;99999;
+09774;;GÃ¼nzburg;20062;99999;
+09775;;Neu-Ulm;20062;99999;
+09776;;Lindau (Bodensee);20142;99999;
+09777;;OstallgÃ¤u;20062;99999;
+09778;;UnterallgÃ¤u;20062;99999;
+09779;;Donau-Ries;20062;99999;
+09780;;OberallgÃ¤u;20062;99999;
+09999;;Bayern, ohne Angabe des Kreises;20072;99999;
+10041;;Regionalverband SaarbrÃ¼cken;20142;99999;
+10042;;Merzig-Wadern;20062;99999;
+10043;;Neunkirchen;20062;99999;
+10044;;Saarlouis;20062;99999;
+10045;;Saar-Pfalz-Kreis;20062;99999;
+10046;;Sankt Wendel;20062;99999;
+10999;;Saarland, ohne Angabe des Kreises;20072;99999;
+11000;;Berlin;20062;99999;
+11100;;Berlin West;20062;99999;
+11200;;Berlin Ost;20062;99999;
+11999;;Berlin, ohne Angabe des Kreises;20072;99999;
+12001;;Brandenburg an der Havel, Stadt (bis 1993);20062;99999;
+12002;;Cottbus, Stadt (bis 1993);20062;99999;
+12003;;EisenhÃ¼ttenstadt, Stadt (bis 1993);20062;99999;
+12004;;Frankfurt (Oder), Stadt (bis 1993);20062;99999;
+12005;;Potsdam, Landeshauptstadt (bis 1993);20062;99999;
+12006;;Schwedt/Oder, Stadt (bis 1993);20062;99999;
+12011;;AngermÃ¼nde (bis 1993);20062;99999;
+12012;;Bad Freienwalde (bis 1993);20062;99999;
+12013;;Bad Liebenwerda (bis 1993);20062;99999;
+12014;;Beeskow (bis 1993);20062;99999;
+12015;;Belzig (bis 1993);20062;99999;
+12016;;Bernau (bis 1993);20062;99999;
+12017;;Brandenburg (bis 1993);20062;99999;
+12018;;Calau (bis 1993);20062;99999;
+12019;;Cottbus (bis 1993);20062;99999;
+12020;;Eberswalde (bis 1993);20062;99999;
+12021;;EisenhÃ¼ttenstadt (bis 1993);20062;99999;
+12022;;Finsterwalde (bis 1993);20062;99999;
+12023;;Forst (bis 1993);20062;99999;
+12024;;FÃ¼rstenwalde (bis 1993);20062;99999;
+12025;;Gransee (bis 1993);20062;99999;
+12026;;Guben (bis 1993);20062;99999;
+12027;;Herzberg (bis 1993);20062;99999;
+12028;;JÃ¼terborg (bis 1993);20062;99999;
+12029;;KÃ¶nigs-Wusterhausen (bis 1993);20062;99999;
+12030;;Kyritz (bis 1993);20062;99999;
+12031;;LÃ¼bben (bis 1993);20062;99999;
+12032;;Luckau (bis 1993);20062;99999;
+12033;;Luckenwalde (bis 1993);20062;99999;
+12034;;Nauen (bis 1993);20062;99999;
+12035;;Neuruppin (bis 1993);20062;99999;
+12036;;Oranienburg (bis 1993);20062;99999;
+12037;;Perleberg (bis 1993);20062;99999;
+12038;;Potsdam (bis 1993);20062;99999;
+12039;;Prenzlau (bis 1993);20062;99999;
+12040;;Pritzwalk (bis 1993);20062;99999;
+12041;;Rathenow (bis 1993);20062;99999;
+12042;;Seelow (bis 1993);20062;99999;
+12043;;Senftenberg (bis 1993);20062;99999;
+12044;;Spremberg (bis 1993);20062;99999;
+12045;;Strausberg (bis 1993);20062;99999;
+12046;;Templin (bis 1993);20062;99999;
+12047;;Wittstock (bis 1993);20062;99999;
+12048;;Zossen (bis 1993);20062;99999;
+12051;;Brandenburg an der Havel, Stadt;20062;99999;
+12052;;Cottbus, Stadt;20142;99999;
+12053;;Frankfurt (Oder), Stadt;20062;99999;
+12054;;Potsdam, Landeshauptstadt;20062;99999;
+12060;;Barnim;20062;99999;
+12061;;Dahme-Spreewald;20062;99999;
+12062;;Elbe-Elster;20062;99999;
+12063;;Havelland;20062;99999;
+12064;;MÃ¤rkisch-Oderland;20062;99999;
+12065;;Oberhavel;20062;99999;
+12066;;Oberspreewald-Lausitz;20062;99999;
+12067;;Oder-Spree;20062;99999;
+12068;;Ostprignitz-Ruppin;20062;99999;
+12069;;Potsdam-Mittelmark;20062;99999;
+12070;;Prignitz;20062;99999;
+12071;;Spree-NeiÃŸe;20062;99999;
+12072;;Teltow-FlÃ¤ming;20062;99999;
+12073;;Uckermark;20062;99999;
+12999;;Brandenburg, ohne Angabe des Kreises;20072;99999;
+13001;;Greifswald, Hansestadt (bis 2011);20121;99999;
+13002;;Neubrandenburg, Stadt (bis 2011);20121;99999;
+13003;;Rostock, Hansestadt;20062;99999;
+13004;;Schwerin, Landeshauptstadt;20062;99999;
+13005;;Stralsund, Hansestadt (bis 2011);20121;99999;
+13006;;Wismar, Hansestadt (bis 2011);20121;99999;
+13011;;Altentreptow (bis 1993);20062;99999;
+13012;;Anklam (bis 1993);20062;99999;
+13013;;Bad Doberan (bis 1993);20062;99999;
+13014;;BÃ¼tzow (bis 1993);20062;99999;
+13015;;Demmin (bis 1993);20062;99999;
+13016;;Gadebusch (bis 1993);20062;99999;
+13017;;Greifswald (bis 1993);20062;99999;
+13018;;GrevesmÃ¼hlen (bis 1993);20062;99999;
+13019;;Grimmen (bis 1993);20062;99999;
+13020;;GÃ¼strow (bis 1993);20062;99999;
+13021;;Hagenow (bis 1993);20062;99999;
+13022;;Ludwigslust (bis 1993);20062;99999;
+13023;;LÃ¼bz (bis 1993);20062;99999;
+13024;;Malchin (bis 1993);20062;99999;
+13025;;Neubrandenburg (bis 1993);20062;99999;
+13026;;Neustrelitz (bis 1993);20062;99999;
+13027;;Parchim (bis 1993);20062;99999;
+13028;;Pasewalk (bis 1993);20062;99999;
+13029;;Ribnitz-Damgarten (bis 1993);20062;99999;
+13030;;RÃ¶bel/ MÃ¼ritz (bis 1993);20062;99999;
+13031;;Rostock (bis 1993);20062;99999;
+13032;;RÃ¼gen (bis 1993);20062;99999;
+13033;;Schwerin (bis 1993);20062;99999;
+13034;;Sternberg (bis 1993);20062;99999;
+13035;;Stralsund (bis 1993);20062;99999;
+13036;;Strasburg (bis 1993);20062;99999;
+13037;;Teterow (bis 1993);20062;99999;
+13038;;UeckermÃ¼nde (bis 1993);20062;99999;
+13039;;Waren (bis 1993);20062;99999;
+13040;;Wismar (bis 1993);20062;99999;
+13041;;Wolgast (bis 1993);20062;99999;
+13051;;Bad Doberan (bis 2011);20121;99999;
+13052;;Demmin (bis 2011);20121;99999;
+13053;;GÃ¼strow (bis 2011);20121;99999;
+13054;;Ludwigslust (bis 2011);20121;99999;
+13055;;Mecklenburg-Strelitz (bis 2011);20121;99999;
+13056;;MÃ¼ritz (bis 2011);20121;99999;
+13057;;Nordvorpommern (bis 2011);20121;99999;
+13058;;Nordwestmecklenburg (bis 2011);20121;99999;
+13059;;Ostvorpommern (bis 2011);20121;99999;
+13060;;Parchim (bis 2011);20121;99999;
+13061;;RÃ¼gen (bis 2011);20121;99999;
+13062;;Uecker-Randow (bis 2011);20121;99999;
+13071;;Mecklenburgische Seenplatte;20121;99999;
+13072;;Landkreis Rostock;20121;99999;
+13073;;Vorpommern-RÃ¼gen;20121;99999;
+13074;;Nordwestmecklenburg ;20121;99999;
+13075;;Vorpommern-Greifswald ;20121;99999;
+13076;;Ludwigslust-Parchim;20121;99999;
+13999;;Mecklenburg-Vorpommern, ohne Angabe des Kreises;20072;99999;
+14001;;Chemnitz, Stadt ( bis 1993);20062;99999;
+14002;;Dresden, Stadt ( bis 1993);20062;99999;
+14003;;GÃ¶rlitz, Stadt ( bis 1993);20062;99999;
+14004;;Leipzig, Stadt ( bis 1993);20062;99999;
+14005;;Plauen, Stadt ( bis 1993);20062;99999;
+14006;;Zwickau, Stadt ( bis 1993);20062;99999;
+14011;;Annaberg ( bis 1993);20062;99999;
+14012;;Aue ( bis 1993);20062;99999;
+14013;;Auerbach ( bis 1993);20062;99999;
+14014;;Bautzen ( bis 1993);20062;99999;
+14015;;Bischofswerda ( bis 1993);20062;99999;
+14016;;Borna ( bis 1993);20062;99999;
+14017;;Brand-Erbisdorf ( bis 1993);20062;99999;
+14018;;Chemnitz ( bis 1993);20062;99999;
+14019;;Delitzsch ( bis 1993);20062;99999;
+14020;;Dippoldiswalde ( bis 1993);20062;99999;
+14021;;DÃ¶beln ( bis 1993);20062;99999;
+14022;;Dresden ( bis 1993);20062;99999;
+14023;;Eilenburg ( bis 1993);20062;99999;
+14024;;FlÃ¶ha ( bis 1993);20062;99999;
+14025;;Freiberg ( bis 1993);20062;99999;
+14026;;Freital ( bis 1993);20062;99999;
+14027;;Geithain ( bis 1993);20062;99999;
+14028;;Glauchau ( bis 1993);20062;99999;
+14029;;GÃ¶rlitz ( bis 1993);20062;99999;
+14030;;Grimma ( bis 1993);20062;99999;
+14031;;GroÃŸenhain ( bis 1993);20062;99999;
+14032;;Hainichen ( bis 1993);20062;99999;
+14033;;Hohenstein-Ernstthal ( bis 1993);20062;99999;
+14034;;Hoyerswerda ( bis 1993);20062;99999;
+14035;;Kamenz ( bis 1993);20062;99999;
+14036;;Klingenthal ( bis 1993);20062;99999;
+14037;;Leipzig ( bis 1993);20062;99999;
+14038;;LÃ¶bau ( bis 1993);20062;99999;
+14039;;Marienberg ( bis 1993);20062;99999;
+14040;;MeiÃŸen ( bis 1993);20062;99999;
+14041;;Niesky ( bis 1993);20062;99999;
+14042;;Oelsnitz ( bis 1993);20062;99999;
+14043;;Oschatz ( bis 1993);20062;99999;
+14044;;Pirna ( bis 1993);20062;99999;
+14045;;Plauen ( bis 1993);20062;99999;
+14046;;Reichenbach ( bis 1993);20062;99999;
+14047;;Riesa ( bis 1993);20062;99999;
+14048;;Rochlitz ( bis 1993);20062;99999;
+14049;;Schwarzenberg ( bis 1993);20062;99999;
+14050;;Sebnitz ( bis 1993);20062;99999;
+14051;;Stollberg ( bis 1993);20062;99999;
+14052;;Torgau ( bis 1993);20062;99999;
+14053;;WeiÃŸwasser ( bis 1993);20062;99999;
+14054;;Werdau ( bis 1993);20062;99999;
+14055;;Wurzen ( bis 1993);20062;99999;
+14056;;Zittau ( bis 1993);20062;99999;
+14057;;Zschopau ( bis 1993);20062;99999;
+14058;;Zwickau ( bis 1993);20062;99999;
+14061;;Chemnitz, Stadt (von 1994 bis 1996);20062;99999;
+14062;;Dresden, Landeshauptstadt (von 1994 bis 1996);20062;99999;
+14063;;GÃ¶rlitz, Stadt (von 1994 bis 1996);20062;99999;
+14065;;Leipzig, Stadt (von 1994 bis 1996);20062;99999;
+14066;;Plauen, Stadt (von 1994 bis 1996);20062;99999;
+14067;;Zwickau, Stadt (von 1994 bis 1996);20062;99999;
+14071;;Annaberg (von 1994 bis 1996);20062;99999;
+14072;;Bautzen (von 1994 bis 1996);20062;99999;
+14073;;Chemnitzer Land (von 1994 bis 1996);20062;99999;
+14074;;Delitzsch (von 1994 bis 1996);20062;99999;
+14075;;DÃ¶beln (von 1994 bis 1996);20062;99999;
+14076;;Elstertalkreis (von 1994 bis 1996);20062;99999;
+14077;;Freiberg (von 1994 bis 1996);20062;99999;
+14078;;GÃ¶ltzschtalkreis (von 1994 bis 1996);20062;99999;
+14079;;Leipziger Land (von 1994 bis 1996);20062;99999;
+14080;;MeiÃŸen (von 1994 bis 1996);20062;99999;
+14081;;Mittlerer Erzgebirgskreis (von 1994 bis 1996);20062;99999;
+14082;;Mittweida (von 1994 bis 1996);20062;99999;
+14083;;Muldentalkreis (von 1994 bis 1996);20062;99999;
+14084;;Niederschlesischer Oberlausitzkreis (von 1994 bis 1996);20062;99999;
+14085;;Riesa-GroÃŸenhain (von 1994 bis 1996);20062;99999;
+14086;;SÃ¤chsischer Oberlausitzkreis (von 1994 bis 1996);20062;99999;
+14087;;SÃ¤chsische Schweiz (von 1994 bis 1996);20062;99999;
+14088;;Stollberg (von 1994 bis 1996);20062;99999;
+14089;;Torgau-Oschatz (von 1994 bis 1996);20062;99999;
+14090;;WeiÃŸeritzkreis (von 1994 bis 1996);20062;99999;
+14091;;Westerzgebirgskreis (von 1994 bis 1996);20062;99999;
+14092;;Kamenz (von 1994 bis 1996);20062;99999;
+14093;;Zwickauer Land (von 1994 bis 1996);20062;99999;
+14094;;Dresden-Land (von 1994 bis 1996);20062;99999;
+14095;;Hoyerswerda (von 1994 bis 1996);20062;99999;
+14161;;Chemnitz, Stadt (von 1997 bis Juli 2008);20082;99999;
+14166;;Plauen, Stadt (von 1997 bis Juli 2008);20082;99999;
+14167;;Zwickau, Stadt (von 1997 bis Juli 2008);20082;99999;
+14171;;Annaberg (von 1997 bis Juli 2008);20082;99999;
+14173;;Chemnitzer Land (von 1997 bis Juli 2008);20082;99999;
+14177;;Freiberg (von 1997 bis Juli 2008);20082;99999;
+14178;;Vogtlandkreis (von 1997 bis Juli 2008);20082;99999;
+14181;;Mittlerer Erzgebirgskreis (von 1997 bis Juli 2008);20082;99999;
+14182;;Mittweida (von 1997 bis Juli 2008);20082;99999;
+14188;;Stollberg (von 1997 bis Juli 2008);20082;99999;
+14191;;Aue-Schwarzenberg (von 1997 bis Juli 2008);20082;99999;
+14193;;Zwickauer Land (von 1997 bis Juli 2008);20082;99999;
+14262;;Dresden, Landeshauptstadt (von 1997 bis Juli 2008);20082;99999;
+14263;;GÃ¶rlitz, Stadt (von 1997 bis Juli 2008);20082;99999;
+14264;;Hoyerswerda (von 1997 bis Juli 2008);20082;99999;
+14272;;Bautzen (von 1997 bis Juli 2008);20082;99999;
+14280;;MeiÃŸen (von 1997 bis Juli 2008);20082;99999;
+14284;;Niederschlesischer Oberlausitzkreis (von 1997 bis Juli 2008);20082;99999;
+14285;;Riesa-GroÃŸenhain (von 1997 bis Juli 2008);20082;99999;
+14286;;LÃ¶bau-Zittau (von 1997 bis Juli 2008);20082;99999;
+14287;;SÃ¤chsische Schweiz (von 1997 bis Juli 2008);20082;99999;
+14290;;WeiÃŸeritzkreis (von 1997 bis Juli 2008);20082;99999;
+14292;;Kamenz (von 1997 bis Juli 2008);20082;99999;
+14365;;Leipzig, Stadt (von 1997 bis Juli 2008);20082;99999;
+14374;;Delitzsch (von 1997 bis Juli 2008);20082;99999;
+14375;;DÃ¶beln (von 1997 bis Juli 2008);20082;99999;
+14379;;Leipziger Land (von 1997 bis Juli 2008);20082;99999;
+14383;;Muldentalkreis (von 1997 bis Juli 2008);20082;99999;
+14389;;Torgau-Oschatz (von 1997 bis Juli 2008);20082;99999;
+14511;;Chemnitz, Stadt;20082;99999;
+14521;;Erzgebirgskreis;20082;99999;
+14522;;Mittelsachsen;20082;99999;
+14523;;Vogtlandkreis;20082;99999;
+14524;;Zwickau;20082;99999;
+14612;;Dresden, Stadt;20082;99999;
+14625;;Bautzen;20082;99999;
+14626;;GÃ¶rlitz;20082;99999;
+14627;;MeiÃŸen;20082;99999;
+14628;;SÃ¤chsische Schweiz-Osterzgebirge;20082;99999;
+14713;;Leipzig, Stadt;20082;99999;
+14729;;Leipzig;20082;99999;
+14730;;Nordsachsen;20082;99999;
+14999;;Sachsen, ohne Angabe des Kreises;20072;99999;
+15001;;Dessau-RoÃŸlau, Stadt;20082;99999;
+15002;;Halle (Saale), Stadt;20082;99999;
+15003;;Magdeburg, Landeshauptstadt;20082;99999;
+15081;;Altmarkkreis Salzwedel;20082;99999;
+15082;;Anhalt-Bitterfeld;20082;99999;
+15083;;BÃ¶rde;20082;99999;
+15084;;Burgenlandkreis;20092;99999;
+15085;;Harz;20082;99999;
+15086;;Jerichower Land;20082;99999;
+15087;;Mansfeld-SÃ¼dharz;20082;99999;
+15088;;Saalekreis;20082;99999;
+15089;;Salzlandkreis;20092;99999;
+15090;;Stendal;20082;99999;
+15091;;Wittenberg;20082;99999;
+15101;;Dessau, Stadt (bis Juni 2007);20082;99999;
+15112;;Bernburg (bis 1993);20062;99999;
+15113;;Bitterfeld (bis 1993);20062;99999;
+15118;;GrÃ¤fenhainichen (bis 1993);20062;99999;
+15124;;Jessen (bis 1993);20062;99999;
+15126;;KÃ¶then (bis 1993);20062;99999;
+15134;;RoÃŸlau (bis 1993);20062;99999;
+15144;;Wittenberg (bis 1993);20062;99999;
+15147;;Zerbst (bis 1993);20062;99999;
+15151;;Anhalt-Zerbst (bis Juni 2007);20082;99999;
+15153;;Bernburg (bis Juni 2007);20082;99999;
+15154;;Bitterfeld (bis Juni 2007);20082;99999;
+15159;;KÃ¶then (bis Juni 2007);20082;99999;
+15171;;Wittenberg (bis Juni 2007);20082;99999;
+15202;;Halle/Saale, Stadt (bis Juni 2007);20082;99999;
+15211;;Aschersleben (bis 1993);20062;99999;
+15215;;Eisleben (bis 1993);20062;99999;
+15222;;Hettstedt (bis 1993);20062;99999;
+15223;;HohenmÃ¶lsen (bis 1993);20062;99999;
+15227;;Merseburg (bis 1993);20062;99999;
+15228;;Naumburg (bis 1993);20062;99999;
+15229;;Nebra (bis 1993);20062;99999;
+15233;;Querfurt (bis 1993);20062;99999;
+15235;;Saalkreis (bis 1993);20062;99999;
+15237;;Sangerhausen (bis 1993);20062;99999;
+15242;;WeiÃŸenfels (bis 1993);20062;99999;
+15246;;Zeitz (bis 1993);20062;99999;
+15256;;Burgenlandkreis (bis Juni 2007);20082;99999;
+15260;;Mansfelder Land (bis Juni 2007);20082;99999;
+15261;;Merseburg-Querfurt (bis Juni 2007);20082;99999;
+15265;;Saalkreis (bis Juni 2007);20082;99999;
+15266;;Sangerhausen (bis Juni 2007);20082;99999;
+15268;;WeiÃŸenfels (bis Juni 2007);20082;99999;
+15303;;Magdeburg, Landeshauptstadt (bis Juni 2007);20082;99999;
+15314;;Burg (bis 1993);20062;99999;
+15316;;Gardelegen (bis 1993);20062;99999;
+15317;;Genthin (bis 1993);20062;99999;
+15319;;Halberstadt (bis 1993);20062;99999;
+15320;;Haldensleben (bis 1993);20062;99999;
+15321;;Havelberg (bis 1993);20062;99999;
+15325;;KlÃ¶tze (bis 1993);20062;99999;
+15330;;Oschersleben (bis 1993);20062;99999;
+15331;;Osterburg (bis 1993);20062;99999;
+15332;;Quedlinburg (bis 1993);20062;99999;
+15336;;Salzwedel (bis 1993);20062;99999;
+15338;;SchÃ¶nebeck (bis 1993);20062;99999;
+15339;;StaÃŸfurt (bis 1993);20062;99999;
+15340;;Stendal (bis 1993);20062;99999;
+15341;;Wanzleben (bis 1993);20062;99999;
+15343;;Wernigerode (bis 1993);20062;99999;
+15345;;Wolmirstedt (bis 1993);20062;99999;
+15352;;Aschersleben-StaÃŸfurt (bis Juni 2007);20082;99999;
+15355;;BÃ¶rdekreis (bis Juni 2007);20082;99999;
+15357;;Halberstadt (bis Juni 2007);20082;99999;
+15358;;Jerichower Land (bis Juni 2007);20082;99999;
+15362;;Ohrekreis (bis Juni 2007);20082;99999;
+15363;;Stendal (bis Juni 2007);20082;99999;
+15364;;Quedlinburg (bis Juni 2007);20082;99999;
+15367;;SchÃ¶nebeck (bis Juni 2007);20082;99999;
+15369;;Wernigerode (bis Juni 2007);20082;99999;
+15370;;Altmarkkreis Salzwedel (bis Juni 2007);20082;99999;
+15999;;Sachsen-Anhalt, ohne Angabe des Kreises;20072;99999;
+16001;;Erfurt, Stadt (bis 1993);20062;99999;
+16002;;Gera, Stadt (bis 1993);20062;99999;
+16003;;Jena, Stadt (bis 1993);20062;99999;
+16004;;Suhl, Stadt (bis 1993);20062;99999;
+16005;;Weimar, Stadt (bis 1993);20062;99999;
+16011;;Altenburg (bis 1993);20062;99999;
+16012;;Apolda (bis 1993);20062;99999;
+16013;;Arnstadt (bis 1993);20062;99999;
+16014;;Artern (bis 1993);20062;99999;
+16015;;Bad Salzungen (bis 1993);20062;99999;
+16016;;Eisenach (bis 1993);20062;99999;
+16017;;Eisenberg (bis 1993);20062;99999;
+16018;;Erfurt (bis 1993);20062;99999;
+16019;;Gera (bis 1993);20062;99999;
+16020;;Gotha (bis 1993);20062;99999;
+16021;;Greiz (bis 1993);20062;99999;
+16022;;Heiligenstadt (bis 1993);20062;99999;
+16023;;Hildburghausen (bis 1993);20062;99999;
+16024;;Ilmenau (bis 1993);20062;99999;
+16025;;Jena (bis 1993);20062;99999;
+16026;;Langensalza (bis 1993);20062;99999;
+16027;;Lobenstein (bis 1993);20062;99999;
+16028;;Meiningen (bis 1993);20062;99999;
+16029;;MÃ¼hlhausen (bis 1993);20062;99999;
+16030;;Neuhaus a. Rennweg (bis 1993);20062;99999;
+16031;;Nordhausen (bis 1993);20062;99999;
+16032;;PÃ¶ÃŸneck (bis 1993);20062;99999;
+16033;;Rudolstadt (bis 1993);20062;99999;
+16034;;Saalfeld (bis 1993);20062;99999;
+16035;;Schleiz (bis 1993);20062;99999;
+16036;;Schmalkalden (bis 1993);20062;99999;
+16037;;SchmÃ¶lln (bis 1993);20062;99999;
+16038;;SÃ¶mmerda (bis 1993);20062;99999;
+16039;;Sondershausen (bis 1993);20062;99999;
+16040;;Sonneberg (bis 1993);20062;99999;
+16041;;Stadtroda (bis 1993);20062;99999;
+16042;;Suhl (bis 1993);20062;99999;
+16043;;Weimar (bis 1993);20062;99999;
+16044;;Worbis (bis 1993);20062;99999;
+16045;;Zeulenroda (bis 1993);20062;99999;
+16051;;Erfurt, Stadt;20062;99999;
+16052;;Gera, Stadt;20062;99999;
+16053;;Jena, Stadt;20062;99999;
+16054;;Suhl, Stadt;20062;99999;
+16055;;Weimar, Stadt;20062;99999;
+16056;;Eisenach, Stadt (bis Juni 2021);20211;99999;
+16061;;Eichsfeld;20062;99999;
+16062;;Nordhausen;20062;99999;
+16063;;Wartburgkreis;20062;99999;
+16064;;Unstrut-Hainich-Kreis;20062;99999;
+16065;;KyffhÃ¤userkreis;20062;99999;
+16066;;Schmalkalden-Meiningen;20062;99999;
+16067;;Gotha;20062;99999;
+16068;;SÃ¶mmerda;20062;99999;
+16069;;Hildburghausen;20062;99999;
+16070;;Ilm-Kreis;20062;99999;
+16071;;Weimarer Land;20062;99999;
+16072;;Sonneberg;20062;99999;
+16073;;Saalfeld-Rudolstadt;20062;99999;
+16074;;Saale-Holzland-Kreis;20062;99999;
+16075;;Saale-Orla-Kreis;20062;99999;
+16076;;Greiz;20062;99999;
+16077;;Altenburger Land;20062;99999;
+16999;;ThÃ¼ringen, ohne Angabe des Kreises;20072;99999;
+98999;;Ohne Angabe;20062;99999;

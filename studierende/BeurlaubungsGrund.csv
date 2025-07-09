@@ -1,8 +1,9 @@
-1;;Krankheit
-2;;Vorbereitung auf eine Pr�fung
-3;;Praktikum im Inland
-4;;Auslandsaufenthalt (einschl. Praktikum im Ausland)
-5;;Freiwilligendienst
-6;;Werkarbeit
-7;;Mutterschutz (Schwangerschaft), Elternzeit, famili�re Pflege
-9;;Sonstige Gr�nde
+BeurlaubungsGrund;Sortierschlüssel;Name;Gültig ab;Gültig bis;
+1;;Krankheit;20062;99999;
+2;;Vorbereitung auf eine Prüfung;20062;99999;
+3;;Praktikum im Inland;20162;99999;
+4;;Auslandsaufenthalt (einschl. Praktikum im Ausland);20162;99999;
+5;;Freiwilligendienst;20152;99999;
+6;;Werkarbeit;20062;99999;
+7;;Mutterschutz (Schwangerschaft), Elternzeit, familiäre Pflege;20162;99999;
+9;;Sonstige Gründe;20062;99999;

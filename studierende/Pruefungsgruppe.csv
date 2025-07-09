@@ -1,15 +1,16 @@
-05;;Universitärer Abschluss (ohne Lehramtsprüfungen)
-10;;Promotionen
-15;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Grundschulen / Primarstufe
-20;;Lehramt (Bachelor, Master, 1. Staatsexamen) Stufenübergr. Prüfung Sekundarst. I/Grundsch./ Primarst.
-25;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Sekundarstufe I
-30;;Lehramt (Bachelor, Master, 1. Staatsexamen) Stufenübergr. Prüfung Sekundarst. II/Sekundarst. I
-35;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Gymnasien/Sekundarst. II, allgemeinbildende Schulen
-40;;Lehramt (Bachelor, Master, 1. Staatsexamen) für Sonderpädagogik
-45;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Beruflichen Schulen / Sekundarst. II, berufl. Schulen
-47;;LA Bachelor
-48;;LA Master
-50;;Sonstige LÄ nach Schularten / Schulstufen
-55;;Künstlerischer Abschluss
-60;;Fachhochschulabschluss
-65;;Sonstiger Abschluss
+Pruefungsgruppe;SortierschlÃ¼ssel;Name;GÃ¼ltig ab;GÃ¼ltig bis;
+05;;UniversitÃ¤rer Abschluss (ohne LehramtsprÃ¼fungen);20072;99999;
+10;;Promotionen;20072;99999;
+15;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Grundschulen / Primarstufe;20222;99999;
+20;;Lehramt (Bachelor, Master, 1. Staatsexamen) StufenÃ¼bergr. PrÃ¼fung Sekundarst. I/Grundsch./ Primarst.;20222;99999;
+25;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Sekundarstufe I;20222;99999;
+30;;Lehramt (Bachelor, Master, 1. Staatsexamen) StufenÃ¼bergr. PrÃ¼fung Sekundarst. II/Sekundarst. I;20222;99999;
+35;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Gymnasien/Sekundarst. II, allgemeinbildende Schulen;20222;99999;
+40;;Lehramt (Bachelor, Master, 1. Staatsexamen) fÃ¼r SonderpÃ¤dagogik;20222;99999;
+45;;Lehramt (Bachelor, Master, 1. Staatsexamen) an Beruflichen Schulen / Sekundarst. II, berufl. Schulen;20222;99999;
+47;;LA Bachelor;20072;99999;
+48;;LA Master;20072;99999;
+50;;Sonstige LÃ„ nach Schularten / Schulstufen;20072;99999;
+55;;KÃ¼nstlerischer Abschluss;20072;99999;
+60;;Fachhochschulabschluss;20072;99999;
+65;;Sonstiger Abschluss;20072;99999;

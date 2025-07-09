@@ -1,98 +1,99 @@
-01;0512;Mehr-Fächer-Bachelor mit Lehramtsoption ;05
-02;0505;Magister;05
-03;0520;Lizentiat;05
-04;0525;Kirchliche Prüfung;05
-05;0565;Akad. geprüfter Übersetzer;05
-06;1005;Promotion (Abschlussprüfung vorausgesetzt);10
-07;1020;Promotion ohne vorausgesetzte Abschlussprüfung;10
-08;0530;Staatsexamen / 1. Staatsprüfung;05
-09;0535;Staatsexamen (einphasige Ausbildung);05
-10;0540;Fakultätsprüfung;05
-11;0545;Diplom (U);05
-12;0555;Diplom (U) - Dolmetscher;05
-13;0560;Diplom (U) - Übersetzer;05
-14;0550;Diplom I (U-GH);05
-15;1525;LA Bachelor Grundschulen;15
-16;2502;LA Bachelor Hauptschulen;25
-17;0599;Abschlussprüfung ohne akad. Grad;05
-18;0580;Diplom (U) - Lehrer;05
-19;1555;LA Bachelor Grundstufe / Primarstufe;15
-20;2000;LA Grund- und Hauptschulen;20
-21;1520;LA Grundschulen;15
-22;2500;LA Hauptschulen;25
-23;2505;LA Realschulen;25
-24;2520;LA Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;25
-25;3505;LA Gymnasien;35
-26;4005;LA Sonderschulen / Förderschulen;40
-27;4505;LA Berufliche Schulen;45
-28;2005;LA Sekundarstufe I / Primarstufe;20
-29;5005;Sonstige Staatsprüfungen nach Schularten / Schulstufen;50
-30;4805;LA Master (soweit keine Differenzierung möglich);48
-31;4705;LA Bachelor (soweit keine Differenzierung möglich);47
-32;2010;LA Bachelor Sekundarstufe I / Primarstufe;20
-33;2025;LA Bachelor Grundschulen / Sekundarstufe I;20
-34;2510;LA Bachelor Realschulen;25
-35;2525;LA Bachelor Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;25
-36;2540;LA Bachelor Mittelstufe / Sekundarstufe I;25
-37;3010;LA Bachelor Sekundarstufe II / Sekundarstufe I;30
-38;3510;LA Bachelor Gymnasien;35
-39;3525;LA Bachelor Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;35
-40;2020;LA Grundschulen / Sekundarstufe I;20
-41;3005;LA Sekundarstufe II / Sekundarstufe I;30
-42;1550;LA Grundstufe / Primarstufe;15
-43;2535;LA Mittelstufe / Sekundarstufe I;25
-44;3520;LA Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;35
-45;4520;LA Oberstufe / Sekundarstufe II, berufliche Schulen;45
-46;4010;LA Bachelor Sonderschulen / Förderschulen;40
-47;4510;LA Bachelor Berufliche Schulen;45
-48;4525;LA Bachelor Oberstufe / Sekundarstufe II, berufliche Schulen;45
-49;1530;LA Master Grundschulen;15
-50;2504;LA Master Hauptschulen;25
-51;6005;Diplom (FH);60
-52;1560;LA Master Grundstufe / Primarstufe;15
-53;6010;Diplom (FH) - Dolmetscher;60
-54;6015;Diplom (FH) - Übersetzer;60
-55;2015;LA Master Sekundarstufe I / Primarstufe;20
-56;6020;Staatl. Laufbahnprüfung (VerwFH);60
-57;2030;LA Master Grundschulen / Sekundarstufe I;20
-58;2515;LA Master Realschulen;25
-59;6040;Sonstiger FH - Abschluss;60
-60;2530;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;25
-61;2545;LA Master Mittelstufe / Sekundarstufe I;25
-62;3015;LA Master Sekundarstufe II / Sekundarstufe I;30
-63;3530;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;35
-64;3515;LA Master Gymnasien;35
-65;4015;LA Master Sonderschulen / Förderschulen;40
-66;4515;LA Master Berufliche Schulen;45
-67;4530;LA Master Oberstufe / Sekundarstufe II, berufliche Schulen;45
-68;0510;Mehr-Fächer-Bachelor ohne Lehramtsoption ;05
-69;0515;Mehr-Fächer-Master;05
-70;5540;Staatl. Prüfung für künstlerische Abschlüsse;55
-71;5515;Bühnen- / Konzert- / Opernreifeprüfung;55
-72;5520;Privatmusiklehrerprüfung;55
-73;5525;Kirchenmusikprüfung A;55
-74;5530;Kirchenmusikprüfung B;55
-75;5505;Diplom (KH);55
-76;5545;Meisterschüler;55
-77;5550;Kunstpädagogische Prüfung;55
-78;0575;Master (U) - Lehrer;05
-79;5535;Solistenprüfung;55
-80;5555;Sonstiger künstlerischer Abschluss;55
-81;5510;Akademiebrief (KH);55
-82;0585;Bachelor an Universitäten;05
-83;5560;Bachelor an Kunsthochschulen;55
-84;6025;Bachelor an Fachhochschulen;60
-86;6517;Bachelor o. Ä. noch nicht abgeschlossen;65
-87;6513;Abschlüsse von Berufsakademien, die ersten berufsbefähigenden Abschlüssen gleichgestellt sind;65
-88;0595;Master an Universitäten (Abschlussprüfung vorausgesetzt);05
-89;5570;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt);55
-90;6035;Master an Fachhochschulen (Abschlussprüfung vorausgesetzt);60
-91;1015;Strukturiertes Promotionsstudium;10
-92;1010;Promotion nach FH-Abschluss bzw. wiss. Kurzstudium;10
-93;0570;Bachelor (U) - Lehrer;05
-94;6505;Abschlusszeugnis / Zertifikat;65
-95;6510;Sonstiger Abschluss in Deutschland;65
-96;6515;Abschlussprüfung im Ausland;65
-97;6520;Keine Abschlussprüfung möglich bzw. angestrebt;65
-98;2002;LA Bachelor Grund- und Hauptschulen;20
-99;2004;LA Master Grund- und Hauptschulen;20
+Abschluss2steller;SortierschlÃ¼ssel;Name;GÃ¼ltig ab;GÃ¼ltig bis;Pruefungsgruppe;
+01;0512;Mehr-FÃ¤cher-Bachelor mit Lehramtsoption ;20102;99999;05;
+02;0505;Magister;20072;99999;05;
+03;0520;Lizentiat;20072;99999;05;
+04;0525;Kirchliche PrÃ¼fung;20072;99999;05;
+05;0565;Akad. geprÃ¼fter Ãœbersetzer;20072;99999;05;
+06;1005;Promotion (AbschlussprÃ¼fung vorausgesetzt);20072;99999;10;
+07;1020;Promotion ohne vorausgesetzte AbschlussprÃ¼fung;20072;99999;10;
+08;0530;Staatsexamen / 1. StaatsprÃ¼fung;20072;99999;05;
+09;0535;Staatsexamen (einphasige Ausbildung);20072;99999;05;
+10;0540;FakultÃ¤tsprÃ¼fung;20072;99999;05;
+11;0545;Diplom (U);20072;99999;05;
+12;0555;Diplom (U) - Dolmetscher;20072;99999;05;
+13;0560;Diplom (U) - Ãœbersetzer;20072;99999;05;
+14;0550;Diplom I (U-GH);20072;99999;05;
+15;1525;LA Bachelor Grundschulen;20072;99999;15;
+16;2502;LA Bachelor Hauptschulen;20222;99999;25;
+17;0599;AbschlussprÃ¼fung ohne akad. Grad;20072;99999;05;
+18;0580;Diplom (U) - Lehrer;20072;99999;05;
+19;1555;LA Bachelor Grundstufe / Primarstufe;20072;99999;15;
+20;2000;LA Grund- und Hauptschulen;20222;99999;20;
+21;1520;LA Grundschulen;20072;99999;15;
+22;2500;LA Hauptschulen;20222;99999;25;
+23;2505;LA Realschulen;20072;99999;25;
+24;2520;LA Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;20072;99999;25;
+25;3505;LA Gymnasien;20072;99999;35;
+26;4005;LA Sonderschulen / FÃ¶rderschulen;20072;99999;40;
+27;4505;LA Berufliche Schulen;20072;99999;45;
+28;2005;LA Sekundarstufe I / Primarstufe;20072;99999;20;
+29;5005;Sonstige StaatsprÃ¼fungen nach Schularten / Schulstufen;20072;99999;50;
+30;4805;LA Master (soweit keine Differenzierung mÃ¶glich);20072;99999;48;
+31;4705;LA Bachelor (soweit keine Differenzierung mÃ¶glich);20072;99999;47;
+32;2010;LA Bachelor Sekundarstufe I / Primarstufe;20072;99999;20;
+33;2025;LA Bachelor Grundschulen / Sekundarstufe I;20072;99999;20;
+34;2510;LA Bachelor Realschulen;20072;99999;25;
+35;2525;LA Bachelor Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;20072;99999;25;
+36;2540;LA Bachelor Mittelstufe / Sekundarstufe I;20072;99999;25;
+37;3010;LA Bachelor Sekundarstufe II / Sekundarstufe I;20072;99999;30;
+38;3510;LA Bachelor Gymnasien;20072;99999;35;
+39;3525;LA Bachelor Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;20072;99999;35;
+40;2020;LA Grundschulen / Sekundarstufe I;20072;99999;20;
+41;3005;LA Sekundarstufe II / Sekundarstufe I;20072;99999;30;
+42;1550;LA Grundstufe / Primarstufe;20072;99999;15;
+43;2535;LA Mittelstufe / Sekundarstufe I;20072;99999;25;
+44;3520;LA Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;20072;99999;35;
+45;4520;LA Oberstufe / Sekundarstufe II, berufliche Schulen;20072;99999;45;
+46;4010;LA Bachelor Sonderschulen / FÃ¶rderschulen;20072;99999;40;
+47;4510;LA Bachelor Berufliche Schulen;20072;99999;45;
+48;4525;LA Bachelor Oberstufe / Sekundarstufe II, berufliche Schulen;20072;99999;45;
+49;1530;LA Master Grundschulen;20072;99999;15;
+50;2504;LA Master Hauptschulen;20222;99999;25;
+51;6005;Diplom (FH);20072;99999;60;
+52;1560;LA Master Grundstufe / Primarstufe;20072;99999;15;
+53;6010;Diplom (FH) - Dolmetscher;20072;99999;60;
+54;6015;Diplom (FH) - Ãœbersetzer;20072;99999;60;
+55;2015;LA Master Sekundarstufe I / Primarstufe;20072;99999;20;
+56;6020;Staatl. LaufbahnprÃ¼fung (VerwFH);20072;99999;60;
+57;2030;LA Master Grundschulen / Sekundarstufe I;20072;99999;20;
+58;2515;LA Master Realschulen;20072;99999;25;
+59;6040;Sonstiger FH - Abschluss;20072;99999;60;
+60;2530;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien;20072;99999;25;
+61;2545;LA Master Mittelstufe / Sekundarstufe I;20072;99999;25;
+62;3015;LA Master Sekundarstufe II / Sekundarstufe I;20072;99999;30;
+63;3530;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen;20072;99999;35;
+64;3515;LA Master Gymnasien;20072;99999;35;
+65;4015;LA Master Sonderschulen / FÃ¶rderschulen;20072;99999;40;
+66;4515;LA Master Berufliche Schulen;20072;99999;45;
+67;4530;LA Master Oberstufe / Sekundarstufe II, berufliche Schulen;20072;99999;45;
+68;0510;Mehr-FÃ¤cher-Bachelor ohne Lehramtsoption ;20102;99999;05;
+69;0515;Mehr-FÃ¤cher-Master;20102;99999;05;
+70;5540;Staatl. PrÃ¼fung fÃ¼r kÃ¼nstlerische AbschlÃ¼sse;20072;99999;55;
+71;5515;BÃ¼hnen- / Konzert- / OpernreifeprÃ¼fung;20072;99999;55;
+72;5520;PrivatmusiklehrerprÃ¼fung;20072;99999;55;
+73;5525;KirchenmusikprÃ¼fung A;20072;99999;55;
+74;5530;KirchenmusikprÃ¼fung B;20072;99999;55;
+75;5505;Diplom (KH);20072;99999;55;
+76;5545;MeisterschÃ¼ler;20072;99999;55;
+77;5550;KunstpÃ¤dagogische PrÃ¼fung;20072;99999;55;
+78;0575;Master (U) - Lehrer;20072;99999;05;
+79;5535;SolistenprÃ¼fung;20072;99999;55;
+80;5555;Sonstiger kÃ¼nstlerischer Abschluss;20072;99999;55;
+81;5510;Akademiebrief (KH);20072;99999;55;
+82;0585;Bachelor an UniversitÃ¤ten;20072;99999;05;
+83;5560;Bachelor an Kunsthochschulen;20072;99999;55;
+84;6025;Bachelor an Fachhochschulen;20072;99999;60;
+86;6517;Bachelor o. Ã„. noch nicht abgeschlossen;20122;99999;65;
+87;6513;AbschlÃ¼sse von Berufsakademien, die ersten berufsbefÃ¤higenden AbschlÃ¼ssen gleichgestellt sind;20112;99999;65;
+88;0595;Master an UniversitÃ¤ten (AbschlussprÃ¼fung vorausgesetzt);20072;99999;05;
+89;5570;Master an Kunsthochschulen (AbschlussprÃ¼fung vorausgesetzt);20072;99999;55;
+90;6035;Master an Fachhochschulen (AbschlussprÃ¼fung vorausgesetzt);20072;99999;60;
+91;1015;Strukturiertes Promotionsstudium;20072;99999;10;
+92;1010;Promotion nach FH-Abschluss bzw. wiss. Kurzstudium;20072;99999;10;
+93;0570;Bachelor (U) - Lehrer;20072;99999;05;
+94;6505;Abschlusszeugnis / Zertifikat;20072;99999;65;
+95;6510;Sonstiger Abschluss in Deutschland;20072;99999;65;
+96;6515;AbschlussprÃ¼fung im Ausland;20072;99999;65;
+97;6520;Keine AbschlussprÃ¼fung mÃ¶glich bzw. angestrebt;20072;99999;65;
+98;2002;LA Bachelor Grund- und Hauptschulen;20222;99999;20;
+99;2004;LA Master Grund- und Hauptschulen;20222;99999;20;
