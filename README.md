@@ -11,4 +11,4 @@ Veröffentlicht
 - ```/studierende``` - [Statistik der Studenten](https://erhebungsportal.estatistik.de/Erhebungsportal/informationen/statistik-der-studenten-372)
 
 ## Mitarbeit und Kontakt
-Mitarbeit und Kontakt findet am besten statt über [Issues](https://github.com/dini-ag-kim/destatis-schluesseltabellen/issues) oder die [Mailingliste der OER-Metadatengruppe](http://lists.dnb.de/mailman/listinfo/dini-ag-kim-oer).
+Mitarbeit und Kontakt findet am besten statt über [Issues](https://github.com/dini-ag-kim/destatis-schluesseltabellen/issues) oder die [OER-Metadatengruppe](https://metadaten.community/c/arbeitsgruppen/kim-oer/12).
