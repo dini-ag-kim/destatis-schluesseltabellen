@@ -277,7 +277,7 @@ Abschluss3steller;Sortierschlüssel;Name;Gültig ab;Gültig bis;Abschluss2stelle
 482;058540;Bachelor an Universitäten - Ergänzungs-, Erweiterungs- und Zusatzstudium;20072;99999;82;
 484;602540;Bachelor an Fachhochschulen - Ergänzungs-, Erweiterungs- und Zusatzstudium;20072;99999;84;
 488;059540;Master an Universitäten (Abschlussprüfung vorausge.) - Ergänzungs-, Erweiterungs- und Zusatzstudium;20072;99999;88;
-489;557040;Master an Kunsthochschulen (Abschlussprüfung vorausgesetzt) - Ergänzungs-, Erweiterungs- und Zusatzs;20092;99999;89;
+489;557040;Master an Kunsthochschulen (Abschlusspr. vorausg.) - Ergänzungs-, Erweiterungs- und Zusatzstududium;20092;99999;89;
 490;603540;Master an Fachhochschulen (Abschlusspr. vorausge.) - Ergänzungs-, Erweiterungs- und Zusatzstudium;20072;99999;90;
 494;650540;Abschlusszeugnis / Zertifikat - Ergänzungs-, Erweiterungs- und Zusatzstudium;20072;99999;94;
 495;651040;Sonstiger Abschluss in Deutschland - Ergänzungs-, Erweiterungs- und Zusatzstudium;20072;99999;95;
@@ -289,7 +289,7 @@ Abschluss3steller;Sortierschlüssel;Name;Gültig ab;Gültig bis;Abschluss2stelle
 591;101550;Promotion (Abschlussprüfung vorausgesetzt) - Strukturiertes Promotionsstudium;20072;99999;91;
 592;101050;Promotion (Abschlussprüfung vorausgesetzt) - Promotion nach FH-Abschluss bzw. wiss. Kurzstudium;20072;99999;92;
 596;651550;Abschlussprüfung im Ausland - Promotionsstudium;20072;99999;96;
-601;051260;Mehr-Fächer-Bachelor mit Lehramtsoption – Weiterbildungsstudium;20102;99999;01;
+601;051260;Mehr-Fächer-Bachelor mit Lehramtsoption - Weiterbildungsstudium;20102;99999;01;
 602;050560;Magister - Weiterbildungsstudium;20072;99999;02;
 608;053060;Staatsexamen / 1. Staatsprüfung - Weiterbildungsstudium;20072;99999;08;
 611;054560;Diplom (U) - Weiterbildungsstudium;20072;99999;11;
@@ -331,7 +331,7 @@ Abschluss3steller;Sortierschlüssel;Name;Gültig ab;Gültig bis;Abschluss2stelle
 755;201570;LA Master Sekundarstufe I / Primarstufe  - Konsekutives Masterstudium;20092;99999;55;
 757;203070;LA Master Grundschulen / Sekundarstufe I - Konsekutives Masterstudium;20092;99999;57;
 758;251570;LA Master Realschulen - Konsekutives Masterstudium;20092;99999;58;
-760;253070;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien  - Konsekutives Masterstudiu;20092;99999;60;
+760;253070;LA Master Haupt- und Realschulen / Unterstufe und Mittelstufe Gymnasien  - Konsek. Masterstudium;20092;99999;60;
 761;254570;LA Master Mittelstufe / Sekundarstufe I  - Konsekutives Masterstudium;20092;99999;61;
 762;301570;LA Master Sekundarstufe II / Sekundarstufe I  - Konsekutives Masterstudium;20092;99999;62;
 763;353070;LA Master Oberstufe / Sekundarstufe II, allgemeinbildende Schulen  - Konsekutives Masterstudium;20092;99999;63;
