@@ -203,7 +203,7 @@ Studienfach;Sortierschlüssel;Name;Gültig ab;Gültig bis;Studienbereich;ISCED;
 230;0978150;Gesang;20072;99999;78;212;
 231;0863220;Druck- und Reproduktionstechnik;20072;99999;63;213;
 232;0548200;Gesundheitswissenschaften/-management;20072;99999;48;345;
-234;0548400;Pflegewissenschaft/-management;20072;99999;48;723;
+234;0548400;Pflegewissenschaft/-management;20222;99999;48;345;
 235;0865100;Fahrzeugtechnik;20072;99999;65;525;
 242;0866200;Innenarchitektur;20072;99999;66;214;
 245;1327200;Sozialpädagogik;20252;99999;27;761;
